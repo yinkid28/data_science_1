@@ -1,0 +1,61 @@
+# Configuration file for US Weather + Energy Analysis Pipeline
+
+# Cities configuration
+cities:
+  - name: "New York"
+    state: "New York"
+    noaa_station_id: "GHCND:USW00094728"
+    eia_region_code: "NYIS"
+    
+  - name: "Chicago"
+    state: "Illinois"
+    noaa_station_id: "GHCND:USW00094846"
+    eia_region_code: "PJM"
+    
+  - name: "Houston"
+    state: "Texas"
+    noaa_station_id: "GHCND:USW00012960"
+    eia_region_code: "ERCO"
+    
+  - name: "Phoenix"
+    state: "Arizona"
+    noaa_station_id: "GHCND:USW00023183"
+    eia_region_code: "AZPS"
+    
+  - name: "Seattle"
+    state: "Washington"
+    noaa_station_id: "GHCND:USW00024233"
+    eia_region_code: "SCL"
+
+# API Configuration
+apis:
+  noaa:
+    base_url: "https://www.ncei.noaa.gov/cdo-web/api/v2"
+    dataset_id: "GHCND"
+    data_types: ["TMAX", "TMIN"]
+    rate_limit_delay: 1.0  # seconds between requests
+    
+  eia:
+    base_url: "https://api.eia.gov/v2/electricity/rto/daily-region-data/data"
+    rate_limit_delay: 0.5  # seconds between requests
+
+# Data Quality Thresholds
+data_quality:
+  temperature:
+    min_fahrenheit: -50
+    max_fahrenheit: 130
+  energy:
+    min_consumption: 0
+  freshness:
+    max_days_old: 2
+
+# File paths
+paths:
+  raw_data: "data/raw"
+  processed_data: "data/processed"
+  logs: "logs"
+
+# Analysis settings
+analysis:
+  historical_days: 90
+  correlation_threshold: 0.7

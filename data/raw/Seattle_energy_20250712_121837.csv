@@ -1,0 +1,901 @@
+date,region_code,energy_consumption_mwh,data_type
+2025-04-13,SCL,23325,Day-ahead demand forecast
+2025-04-13,SCL,24076,Demand
+2025-04-13,SCL,24118,Demand
+2025-04-13,SCL,24111,Demand
+2025-04-13,SCL,24108,Demand
+2025-04-13,SCL,23373,Day-ahead demand forecast
+2025-04-13,SCL,23325,Day-ahead demand forecast
+2025-04-13,SCL,23407,Day-ahead demand forecast
+2025-04-13,SCL,23414,Day-ahead demand forecast
+2025-04-13,SCL,24076,Demand
+2025-04-14,SCL,24877,Demand
+2025-04-14,SCL,24934,Demand
+2025-04-14,SCL,24949,Demand
+2025-04-14,SCL,24913,Demand
+2025-04-14,SCL,24877,Demand
+2025-04-14,SCL,24838,Day-ahead demand forecast
+2025-04-14,SCL,24847,Day-ahead demand forecast
+2025-04-14,SCL,24845,Day-ahead demand forecast
+2025-04-14,SCL,24844,Day-ahead demand forecast
+2025-04-14,SCL,24838,Day-ahead demand forecast
+2025-04-15,SCL,24264,Demand
+2025-04-15,SCL,24275,Demand
+2025-04-15,SCL,24292,Demand
+2025-04-15,SCL,24264,Demand
+2025-04-15,SCL,23806,Day-ahead demand forecast
+2025-04-15,SCL,23806,Day-ahead demand forecast
+2025-04-15,SCL,23859,Day-ahead demand forecast
+2025-04-15,SCL,23888,Day-ahead demand forecast
+2025-04-15,SCL,23832,Day-ahead demand forecast
+2025-04-15,SCL,24264,Demand
+2025-04-16,SCL,23112,Demand
+2025-04-16,SCL,22975,Demand
+2025-04-16,SCL,23073,Demand
+2025-04-16,SCL,23023,Demand
+2025-04-16,SCL,22975,Demand
+2025-04-16,SCL,23497,Day-ahead demand forecast
+2025-04-16,SCL,23493,Day-ahead demand forecast
+2025-04-16,SCL,23493,Day-ahead demand forecast
+2025-04-16,SCL,23495,Day-ahead demand forecast
+2025-04-16,SCL,23497,Day-ahead demand forecast
+2025-04-17,SCL,23060,Demand
+2025-04-17,SCL,23079,Demand
+2025-04-17,SCL,23091,Demand
+2025-04-17,SCL,23065,Demand
+2025-04-17,SCL,23060,Demand
+2025-04-17,SCL,23606,Day-ahead demand forecast
+2025-04-17,SCL,23609,Day-ahead demand forecast
+2025-04-17,SCL,23619,Day-ahead demand forecast
+2025-04-17,SCL,23602,Day-ahead demand forecast
+2025-04-17,SCL,23606,Day-ahead demand forecast
+2025-04-18,SCL,23362,Demand
+2025-04-18,SCL,23307,Demand
+2025-04-18,SCL,23316,Demand
+2025-04-18,SCL,23338,Demand
+2025-04-18,SCL,23177,Day-ahead demand forecast
+2025-04-18,SCL,23177,Day-ahead demand forecast
+2025-04-18,SCL,23206,Day-ahead demand forecast
+2025-04-18,SCL,23246,Day-ahead demand forecast
+2025-04-18,SCL,23188,Day-ahead demand forecast
+2025-04-18,SCL,23362,Demand
+2025-04-19,SCL,22151,Demand
+2025-04-19,SCL,22180,Demand
+2025-04-19,SCL,22168,Demand
+2025-04-19,SCL,22179,Demand
+2025-04-19,SCL,21421,Day-ahead demand forecast
+2025-04-19,SCL,21421,Day-ahead demand forecast
+2025-04-19,SCL,21409,Day-ahead demand forecast
+2025-04-19,SCL,21410,Day-ahead demand forecast
+2025-04-19,SCL,21415,Day-ahead demand forecast
+2025-04-19,SCL,22180,Demand
+2025-04-20,SCL,22896,Demand
+2025-04-20,SCL,22875,Demand
+2025-04-20,SCL,22852,Demand
+2025-04-20,SCL,22880,Demand
+2025-04-20,SCL,22896,Demand
+2025-04-20,SCL,22595,Day-ahead demand forecast
+2025-04-20,SCL,22538,Day-ahead demand forecast
+2025-04-20,SCL,22461,Day-ahead demand forecast
+2025-04-20,SCL,22578,Day-ahead demand forecast
+2025-04-20,SCL,22595,Day-ahead demand forecast
+2025-04-21,SCL,25441,Demand
+2025-04-21,SCL,25349,Demand
+2025-04-21,SCL,25282,Demand
+2025-04-21,SCL,25405,Demand
+2025-04-21,SCL,25275,Day-ahead demand forecast
+2025-04-21,SCL,25275,Day-ahead demand forecast
+2025-04-21,SCL,25199,Day-ahead demand forecast
+2025-04-21,SCL,25158,Day-ahead demand forecast
+2025-04-21,SCL,25235,Day-ahead demand forecast
+2025-04-21,SCL,25441,Demand
+2025-04-22,SCL,24964,Demand
+2025-04-22,SCL,24942,Demand
+2025-04-22,SCL,24947,Demand
+2025-04-22,SCL,24937,Demand
+2025-04-22,SCL,24393,Day-ahead demand forecast
+2025-04-22,SCL,24393,Day-ahead demand forecast
+2025-04-22,SCL,24437,Day-ahead demand forecast
+2025-04-22,SCL,24468,Day-ahead demand forecast
+2025-04-22,SCL,24413,Day-ahead demand forecast
+2025-04-22,SCL,24942,Demand
+2025-04-23,SCL,23675,Demand
+2025-04-23,SCL,23831,Demand
+2025-04-23,SCL,23904,Demand
+2025-04-23,SCL,23756,Demand
+2025-04-23,SCL,23675,Demand
+2025-04-23,SCL,24131,Day-ahead demand forecast
+2025-04-23,SCL,24154,Day-ahead demand forecast
+2025-04-23,SCL,24110,Day-ahead demand forecast
+2025-04-23,SCL,24083,Day-ahead demand forecast
+2025-04-23,SCL,24083,Day-ahead demand forecast
+2025-04-24,SCL,23026,Demand
+2025-04-24,SCL,22964,Demand
+2025-04-24,SCL,23007,Demand
+2025-04-24,SCL,22986,Demand
+2025-04-24,SCL,22964,Demand
+2025-04-24,SCL,23278,Day-ahead demand forecast
+2025-04-24,SCL,23345,Day-ahead demand forecast
+2025-04-24,SCL,23379,Day-ahead demand forecast
+2025-04-24,SCL,23311,Day-ahead demand forecast
+2025-04-24,SCL,23278,Day-ahead demand forecast
+2025-04-25,SCL,22990,Demand
+2025-04-25,SCL,22930,Demand
+2025-04-25,SCL,22913,Demand
+2025-04-25,SCL,22964,Demand
+2025-04-25,SCL,22990,Demand
+2025-04-25,SCL,22944,Day-ahead demand forecast
+2025-04-25,SCL,22946,Day-ahead demand forecast
+2025-04-25,SCL,22967,Day-ahead demand forecast
+2025-04-25,SCL,22940,Day-ahead demand forecast
+2025-04-25,SCL,22944,Day-ahead demand forecast
+2025-04-26,SCL,21789,Demand
+2025-04-26,SCL,21815,Demand
+2025-04-26,SCL,21850,Demand
+2025-04-26,SCL,21786,Demand
+2025-04-26,SCL,21027,Day-ahead demand forecast
+2025-04-26,SCL,21027,Day-ahead demand forecast
+2025-04-26,SCL,21061,Day-ahead demand forecast
+2025-04-26,SCL,21097,Day-ahead demand forecast
+2025-04-26,SCL,21037,Day-ahead demand forecast
+2025-04-26,SCL,21789,Demand
+2025-04-27,SCL,22336,Demand
+2025-04-27,SCL,22496,Demand
+2025-04-27,SCL,22406,Demand
+2025-04-27,SCL,22460,Demand
+2025-04-27,SCL,21878,Day-ahead demand forecast
+2025-04-27,SCL,21878,Day-ahead demand forecast
+2025-04-27,SCL,21814,Day-ahead demand forecast
+2025-04-27,SCL,21749,Day-ahead demand forecast
+2025-04-27,SCL,21856,Day-ahead demand forecast
+2025-04-27,SCL,22496,Demand
+2025-04-28,SCL,25051,Demand
+2025-04-28,SCL,24993,Demand
+2025-04-28,SCL,24944,Demand
+2025-04-28,SCL,25034,Demand
+2025-04-28,SCL,25051,Demand
+2025-04-28,SCL,24320,Day-ahead demand forecast
+2025-04-28,SCL,24257,Day-ahead demand forecast
+2025-04-28,SCL,24371,Day-ahead demand forecast
+2025-04-28,SCL,24408,Day-ahead demand forecast
+2025-04-28,SCL,24408,Day-ahead demand forecast
+2025-04-29,SCL,25209,Demand
+2025-04-29,SCL,25214,Demand
+2025-04-29,SCL,25205,Demand
+2025-04-29,SCL,25228,Demand
+2025-04-29,SCL,25228,Demand
+2025-04-29,SCL,24090,Day-ahead demand forecast
+2025-04-29,SCL,24090,Day-ahead demand forecast
+2025-04-29,SCL,24090,Day-ahead demand forecast
+2025-04-29,SCL,24097,Day-ahead demand forecast
+2025-04-29,SCL,24090,Day-ahead demand forecast
+2025-04-30,SCL,23688,Day-ahead demand forecast
+2025-04-30,SCL,23709,Day-ahead demand forecast
+2025-04-30,SCL,23781,Day-ahead demand forecast
+2025-04-30,SCL,23740,Day-ahead demand forecast
+2025-04-30,SCL,23688,Day-ahead demand forecast
+2025-04-30,SCL,24682,Demand
+2025-04-30,SCL,24748,Demand
+2025-04-30,SCL,24892,Demand
+2025-04-30,SCL,24810,Demand
+2025-04-30,SCL,24682,Demand
+2025-05-01,SCL,23053,Demand
+2025-05-01,SCL,23110,Demand
+2025-05-01,SCL,23128,Demand
+2025-05-01,SCL,23088,Demand
+2025-05-01,SCL,23069,Day-ahead demand forecast
+2025-05-01,SCL,23020,Day-ahead demand forecast
+2025-05-01,SCL,23119,Day-ahead demand forecast
+2025-05-01,SCL,23154,Day-ahead demand forecast
+2025-05-01,SCL,23053,Demand
+2025-05-01,SCL,23020,Day-ahead demand forecast
+2025-05-02,SCL,22840,Demand
+2025-05-02,SCL,22878,Demand
+2025-05-02,SCL,22831,Demand
+2025-05-02,SCL,22828,Demand
+2025-05-02,SCL,22376,Day-ahead demand forecast
+2025-05-02,SCL,22385,Day-ahead demand forecast
+2025-05-02,SCL,22418,Day-ahead demand forecast
+2025-05-02,SCL,22371,Day-ahead demand forecast
+2025-05-02,SCL,22376,Day-ahead demand forecast
+2025-05-02,SCL,22878,Demand
+2025-05-03,SCL,22276,Demand
+2025-05-03,SCL,22274,Demand
+2025-05-03,SCL,22306,Demand
+2025-05-03,SCL,22348,Demand
+2025-05-03,SCL,22348,Demand
+2025-05-03,SCL,21412,Day-ahead demand forecast
+2025-05-03,SCL,21387,Day-ahead demand forecast
+2025-05-03,SCL,21442,Day-ahead demand forecast
+2025-05-03,SCL,21473,Day-ahead demand forecast
+2025-05-03,SCL,21473,Day-ahead demand forecast
+2025-05-04,SCL,22617,Demand
+2025-05-04,SCL,22626,Demand
+2025-05-04,SCL,22586,Demand
+2025-05-04,SCL,22630,Demand
+2025-05-04,SCL,21941,Day-ahead demand forecast
+2025-05-04,SCL,21890,Day-ahead demand forecast
+2025-05-04,SCL,21853,Day-ahead demand forecast
+2025-05-04,SCL,21920,Day-ahead demand forecast
+2025-05-04,SCL,21941,Day-ahead demand forecast
+2025-05-04,SCL,22617,Demand
+2025-05-05,SCL,24178,Demand
+2025-05-05,SCL,24187,Demand
+2025-05-05,SCL,24185,Demand
+2025-05-05,SCL,24182,Demand
+2025-05-05,SCL,24178,Demand
+2025-05-05,SCL,23333,Day-ahead demand forecast
+2025-05-05,SCL,23347,Day-ahead demand forecast
+2025-05-05,SCL,23297,Day-ahead demand forecast
+2025-05-05,SCL,23245,Day-ahead demand forecast
+2025-05-05,SCL,23245,Day-ahead demand forecast
+2025-05-06,SCL,22791,Demand
+2025-05-06,SCL,22923,Demand
+2025-05-06,SCL,22968,Demand
+2025-05-06,SCL,22863,Demand
+2025-05-06,SCL,22835,Day-ahead demand forecast
+2025-05-06,SCL,22846,Day-ahead demand forecast
+2025-05-06,SCL,22846,Day-ahead demand forecast
+2025-05-06,SCL,22842,Day-ahead demand forecast
+2025-05-06,SCL,22835,Day-ahead demand forecast
+2025-05-06,SCL,22791,Demand
+2025-05-07,SCL,22079,Demand
+2025-05-07,SCL,22090,Demand
+2025-05-07,SCL,22103,Demand
+2025-05-07,SCL,22085,Demand
+2025-05-07,SCL,22085,Demand
+2025-05-07,SCL,22286,Day-ahead demand forecast
+2025-05-07,SCL,22268,Day-ahead demand forecast
+2025-05-07,SCL,22319,Day-ahead demand forecast
+2025-05-07,SCL,22356,Day-ahead demand forecast
+2025-05-07,SCL,22356,Day-ahead demand forecast
+2025-05-08,SCL,22365,Demand
+2025-05-08,SCL,22343,Demand
+2025-05-08,SCL,22335,Demand
+2025-05-08,SCL,22360,Demand
+2025-05-08,SCL,22365,Demand
+2025-05-08,SCL,22417,Day-ahead demand forecast
+2025-05-08,SCL,22468,Day-ahead demand forecast
+2025-05-08,SCL,22502,Day-ahead demand forecast
+2025-05-08,SCL,22439,Day-ahead demand forecast
+2025-05-08,SCL,22417,Day-ahead demand forecast
+2025-05-09,SCL,22317,Demand
+2025-05-09,SCL,22348,Demand
+2025-05-09,SCL,22390,Demand
+2025-05-09,SCL,22322,Demand
+2025-05-09,SCL,22560,Day-ahead demand forecast
+2025-05-09,SCL,22560,Day-ahead demand forecast
+2025-05-09,SCL,22600,Day-ahead demand forecast
+2025-05-09,SCL,22631,Day-ahead demand forecast
+2025-05-09,SCL,22575,Day-ahead demand forecast
+2025-05-09,SCL,22317,Demand
+2025-05-10,SCL,20581,Demand
+2025-05-10,SCL,20598,Demand
+2025-05-10,SCL,20627,Demand
+2025-05-10,SCL,20574,Demand
+2025-05-10,SCL,20574,Demand
+2025-05-10,SCL,20896,Day-ahead demand forecast
+2025-05-10,SCL,20887,Day-ahead demand forecast
+2025-05-10,SCL,20887,Day-ahead demand forecast
+2025-05-10,SCL,20921,Day-ahead demand forecast
+2025-05-10,SCL,20886,Day-ahead demand forecast
+2025-05-11,SCL,21085,Day-ahead demand forecast
+2025-05-11,SCL,21061,Day-ahead demand forecast
+2025-05-11,SCL,20956,Day-ahead demand forecast
+2025-05-11,SCL,21017,Day-ahead demand forecast
+2025-05-11,SCL,21085,Day-ahead demand forecast
+2025-05-11,SCL,20659,Demand
+2025-05-11,SCL,20655,Demand
+2025-05-11,SCL,20590,Demand
+2025-05-11,SCL,20630,Demand
+2025-05-11,SCL,20659,Demand
+2025-05-12,SCL,22683,Demand
+2025-05-12,SCL,22659,Demand
+2025-05-12,SCL,22623,Demand
+2025-05-12,SCL,22675,Demand
+2025-05-12,SCL,22769,Day-ahead demand forecast
+2025-05-12,SCL,22751,Day-ahead demand forecast
+2025-05-12,SCL,22773,Day-ahead demand forecast
+2025-05-12,SCL,22768,Day-ahead demand forecast
+2025-05-12,SCL,22683,Demand
+2025-05-12,SCL,22751,Day-ahead demand forecast
+2025-05-13,SCL,22785,Demand
+2025-05-13,SCL,22788,Demand
+2025-05-13,SCL,22778,Demand
+2025-05-13,SCL,22768,Demand
+2025-05-13,SCL,22788,Demand
+2025-05-13,SCL,22673,Day-ahead demand forecast
+2025-05-13,SCL,22671,Day-ahead demand forecast
+2025-05-13,SCL,22674,Day-ahead demand forecast
+2025-05-13,SCL,22682,Day-ahead demand forecast
+2025-05-13,SCL,22682,Day-ahead demand forecast
+2025-05-14,SCL,22886,Demand
+2025-05-14,SCL,22870,Demand
+2025-05-14,SCL,22869,Demand
+2025-05-14,SCL,22872,Demand
+2025-05-14,SCL,22886,Demand
+2025-05-14,SCL,22769,Day-ahead demand forecast
+2025-05-14,SCL,22734,Day-ahead demand forecast
+2025-05-14,SCL,22725,Day-ahead demand forecast
+2025-05-14,SCL,22751,Day-ahead demand forecast
+2025-05-14,SCL,22769,Day-ahead demand forecast
+2025-05-15,SCL,23175,Demand
+2025-05-15,SCL,23124,Demand
+2025-05-15,SCL,23094,Demand
+2025-05-15,SCL,23150,Demand
+2025-05-15,SCL,23294,Day-ahead demand forecast
+2025-05-15,SCL,23294,Day-ahead demand forecast
+2025-05-15,SCL,23252,Day-ahead demand forecast
+2025-05-15,SCL,23220,Day-ahead demand forecast
+2025-05-15,SCL,23275,Day-ahead demand forecast
+2025-05-15,SCL,23175,Demand
+2025-05-16,SCL,23634,Demand
+2025-05-16,SCL,23588,Demand
+2025-05-16,SCL,23605,Demand
+2025-05-16,SCL,23634,Demand
+2025-05-16,SCL,23607,Demand
+2025-05-16,SCL,23065,Day-ahead demand forecast
+2025-05-16,SCL,22992,Day-ahead demand forecast
+2025-05-16,SCL,22992,Day-ahead demand forecast
+2025-05-16,SCL,23126,Day-ahead demand forecast
+2025-05-16,SCL,23020,Day-ahead demand forecast
+2025-05-17,SCL,21531,Day-ahead demand forecast
+2025-05-17,SCL,21507,Day-ahead demand forecast
+2025-05-17,SCL,21484,Day-ahead demand forecast
+2025-05-17,SCL,21492,Day-ahead demand forecast
+2025-05-17,SCL,21531,Day-ahead demand forecast
+2025-05-17,SCL,22882,Demand
+2025-05-17,SCL,22859,Demand
+2025-05-17,SCL,22826,Demand
+2025-05-17,SCL,22840,Demand
+2025-05-17,SCL,22882,Demand
+2025-05-18,SCL,22889,Demand
+2025-05-18,SCL,22922,Demand
+2025-05-18,SCL,22920,Demand
+2025-05-18,SCL,22911,Demand
+2025-05-18,SCL,21251,Day-ahead demand forecast
+2025-05-18,SCL,21225,Day-ahead demand forecast
+2025-05-18,SCL,21271,Day-ahead demand forecast
+2025-05-18,SCL,21283,Day-ahead demand forecast
+2025-05-18,SCL,22889,Demand
+2025-05-18,SCL,21225,Day-ahead demand forecast
+2025-05-19,SCL,24117,Demand
+2025-05-19,SCL,24120,Demand
+2025-05-19,SCL,24100,Demand
+2025-05-19,SCL,24076,Demand
+2025-05-19,SCL,24120,Demand
+2025-05-19,SCL,22953,Day-ahead demand forecast
+2025-05-19,SCL,22906,Day-ahead demand forecast
+2025-05-19,SCL,22983,Day-ahead demand forecast
+2025-05-19,SCL,22990,Day-ahead demand forecast
+2025-05-19,SCL,22990,Day-ahead demand forecast
+2025-05-20,SCL,24282,Demand
+2025-05-20,SCL,24283,Demand
+2025-05-20,SCL,24276,Demand
+2025-05-20,SCL,24273,Demand
+2025-05-20,SCL,24282,Demand
+2025-05-20,SCL,23063,Day-ahead demand forecast
+2025-05-20,SCL,23052,Day-ahead demand forecast
+2025-05-20,SCL,23054,Day-ahead demand forecast
+2025-05-20,SCL,23056,Day-ahead demand forecast
+2025-05-20,SCL,23063,Day-ahead demand forecast
+2025-05-21,SCL,22921,Demand
+2025-05-21,SCL,23043,Demand
+2025-05-21,SCL,23116,Demand
+2025-05-21,SCL,22986,Demand
+2025-05-21,SCL,22759,Day-ahead demand forecast
+2025-05-21,SCL,22759,Day-ahead demand forecast
+2025-05-21,SCL,22798,Day-ahead demand forecast
+2025-05-21,SCL,22826,Day-ahead demand forecast
+2025-05-21,SCL,22778,Day-ahead demand forecast
+2025-05-21,SCL,22921,Demand
+2025-05-22,SCL,22290,Demand
+2025-05-22,SCL,22336,Demand
+2025-05-22,SCL,22352,Demand
+2025-05-22,SCL,22316,Demand
+2025-05-22,SCL,22443,Day-ahead demand forecast
+2025-05-22,SCL,22397,Day-ahead demand forecast
+2025-05-22,SCL,22460,Day-ahead demand forecast
+2025-05-22,SCL,22420,Day-ahead demand forecast
+2025-05-22,SCL,22397,Day-ahead demand forecast
+2025-05-22,SCL,22290,Demand
+2025-05-23,SCL,22538,Demand
+2025-05-23,SCL,22454,Demand
+2025-05-23,SCL,22441,Demand
+2025-05-23,SCL,22485,Demand
+2025-05-23,SCL,22538,Demand
+2025-05-23,SCL,22085,Day-ahead demand forecast
+2025-05-23,SCL,22103,Day-ahead demand forecast
+2025-05-23,SCL,22137,Day-ahead demand forecast
+2025-05-23,SCL,22083,Day-ahead demand forecast
+2025-05-23,SCL,22085,Day-ahead demand forecast
+2025-05-24,SCL,21207,Demand
+2025-05-24,SCL,21267,Demand
+2025-05-24,SCL,21319,Demand
+2025-05-24,SCL,21228,Demand
+2025-05-24,SCL,20581,Day-ahead demand forecast
+2025-05-24,SCL,20581,Day-ahead demand forecast
+2025-05-24,SCL,20631,Day-ahead demand forecast
+2025-05-24,SCL,20661,Day-ahead demand forecast
+2025-05-24,SCL,20601,Day-ahead demand forecast
+2025-05-24,SCL,21207,Demand
+2025-05-25,SCL,20863,Demand
+2025-05-25,SCL,20873,Demand
+2025-05-25,SCL,20866,Demand
+2025-05-25,SCL,20869,Demand
+2025-05-25,SCL,20339,Day-ahead demand forecast
+2025-05-25,SCL,20362,Day-ahead demand forecast
+2025-05-25,SCL,20308,Day-ahead demand forecast
+2025-05-25,SCL,20363,Day-ahead demand forecast
+2025-05-25,SCL,20362,Day-ahead demand forecast
+2025-05-25,SCL,20863,Demand
+2025-05-26,SCL,21879,Demand
+2025-05-26,SCL,21763,Demand
+2025-05-26,SCL,21869,Demand
+2025-05-26,SCL,21879,Demand
+2025-05-26,SCL,21826,Demand
+2025-05-26,SCL,20057,Day-ahead demand forecast
+2025-05-26,SCL,20074,Day-ahead demand forecast
+2025-05-26,SCL,20049,Day-ahead demand forecast
+2025-05-26,SCL,20034,Day-ahead demand forecast
+2025-05-26,SCL,20034,Day-ahead demand forecast
+2025-05-27,SCL,22130,Day-ahead demand forecast
+2025-05-27,SCL,22098,Day-ahead demand forecast
+2025-05-27,SCL,22022,Day-ahead demand forecast
+2025-05-27,SCL,22069,Day-ahead demand forecast
+2025-05-27,SCL,22130,Day-ahead demand forecast
+2025-05-27,SCL,23155,Demand
+2025-05-27,SCL,23183,Demand
+2025-05-27,SCL,23213,Demand
+2025-05-27,SCL,23194,Demand
+2025-05-27,SCL,23155,Demand
+2025-05-28,SCL,23193,Day-ahead demand forecast
+2025-05-28,SCL,23067,Day-ahead demand forecast
+2025-05-28,SCL,23115,Day-ahead demand forecast
+2025-05-28,SCL,23193,Day-ahead demand forecast
+2025-05-28,SCL,22950,Demand
+2025-05-28,SCL,22945,Demand
+2025-05-28,SCL,22921,Demand
+2025-05-28,SCL,22946,Demand
+2025-05-28,SCL,22950,Demand
+2025-05-28,SCL,23154,Day-ahead demand forecast
+2025-05-29,SCL,21891,Demand
+2025-05-29,SCL,21924,Demand
+2025-05-29,SCL,21970,Demand
+2025-05-29,SCL,21900,Demand
+2025-05-29,SCL,22029,Day-ahead demand forecast
+2025-05-29,SCL,21954,Day-ahead demand forecast
+2025-05-29,SCL,22080,Day-ahead demand forecast
+2025-05-29,SCL,21991,Day-ahead demand forecast
+2025-05-29,SCL,21954,Day-ahead demand forecast
+2025-05-29,SCL,21891,Demand
+2025-05-30,SCL,22580,Demand
+2025-05-30,SCL,22635,Demand
+2025-05-30,SCL,22500,Demand
+2025-05-30,SCL,22635,Demand
+2025-05-30,SCL,22532,Demand
+2025-05-30,SCL,21940,Day-ahead demand forecast
+2025-05-30,SCL,21975,Day-ahead demand forecast
+2025-05-30,SCL,21907,Day-ahead demand forecast
+2025-05-30,SCL,21917,Day-ahead demand forecast
+2025-05-30,SCL,21907,Day-ahead demand forecast
+2025-05-31,SCL,20730,Demand
+2025-05-31,SCL,20864,Demand
+2025-05-31,SCL,20940,Demand
+2025-05-31,SCL,20792,Demand
+2025-05-31,SCL,20730,Demand
+2025-05-31,SCL,20653,Day-ahead demand forecast
+2025-05-31,SCL,20619,Day-ahead demand forecast
+2025-05-31,SCL,20610,Day-ahead demand forecast
+2025-05-31,SCL,20638,Day-ahead demand forecast
+2025-05-31,SCL,20653,Day-ahead demand forecast
+2025-06-01,SCL,20979,Demand
+2025-06-01,SCL,20854,Demand
+2025-06-01,SCL,20769,Demand
+2025-06-01,SCL,20931,Demand
+2025-06-01,SCL,20469,Day-ahead demand forecast
+2025-06-01,SCL,20469,Day-ahead demand forecast
+2025-06-01,SCL,20489,Day-ahead demand forecast
+2025-06-01,SCL,20488,Day-ahead demand forecast
+2025-06-01,SCL,20480,Day-ahead demand forecast
+2025-06-01,SCL,20979,Demand
+2025-06-02,SCL,23242,Demand
+2025-06-02,SCL,23239,Demand
+2025-06-02,SCL,23220,Demand
+2025-06-02,SCL,23242,Demand
+2025-06-02,SCL,23239,Demand
+2025-06-02,SCL,22077,Day-ahead demand forecast
+2025-06-02,SCL,22102,Day-ahead demand forecast
+2025-06-02,SCL,22102,Day-ahead demand forecast
+2025-06-02,SCL,22052,Day-ahead demand forecast
+2025-06-02,SCL,22095,Day-ahead demand forecast
+2025-06-03,SCL,22282,Day-ahead demand forecast
+2025-06-03,SCL,22274,Day-ahead demand forecast
+2025-06-03,SCL,22260,Day-ahead demand forecast
+2025-06-03,SCL,22266,Day-ahead demand forecast
+2025-06-03,SCL,22282,Day-ahead demand forecast
+2025-06-03,SCL,23381,Demand
+2025-06-03,SCL,23370,Demand
+2025-06-03,SCL,23341,Demand
+2025-06-03,SCL,23353,Demand
+2025-06-03,SCL,23381,Demand
+2025-06-04,SCL,22096,Demand
+2025-06-04,SCL,22205,Demand
+2025-06-04,SCL,22265,Demand
+2025-06-04,SCL,22151,Demand
+2025-06-04,SCL,22143,Day-ahead demand forecast
+2025-06-04,SCL,22140,Day-ahead demand forecast
+2025-06-04,SCL,22145,Day-ahead demand forecast
+2025-06-04,SCL,22143,Day-ahead demand forecast
+2025-06-04,SCL,22096,Demand
+2025-06-04,SCL,22140,Day-ahead demand forecast
+2025-06-05,SCL,22296,Demand
+2025-06-05,SCL,22318,Demand
+2025-06-05,SCL,22278,Demand
+2025-06-05,SCL,22252,Demand
+2025-06-05,SCL,22318,Demand
+2025-06-05,SCL,22177,Day-ahead demand forecast
+2025-06-05,SCL,22177,Day-ahead demand forecast
+2025-06-05,SCL,22185,Day-ahead demand forecast
+2025-06-05,SCL,22194,Day-ahead demand forecast
+2025-06-05,SCL,22194,Day-ahead demand forecast
+2025-06-06,SCL,23585,Demand
+2025-06-06,SCL,23449,Demand
+2025-06-06,SCL,23403,Demand
+2025-06-06,SCL,23515,Demand
+2025-06-06,SCL,23585,Demand
+2025-06-06,SCL,23168,Day-ahead demand forecast
+2025-06-06,SCL,23094,Day-ahead demand forecast
+2025-06-06,SCL,23058,Day-ahead demand forecast
+2025-06-06,SCL,23127,Day-ahead demand forecast
+2025-06-06,SCL,23168,Day-ahead demand forecast
+2025-06-07,SCL,22832,Demand
+2025-06-07,SCL,22798,Demand
+2025-06-07,SCL,22797,Demand
+2025-06-07,SCL,22811,Demand
+2025-06-07,SCL,21466,Day-ahead demand forecast
+2025-06-07,SCL,21466,Day-ahead demand forecast
+2025-06-07,SCL,21514,Day-ahead demand forecast
+2025-06-07,SCL,21551,Day-ahead demand forecast
+2025-06-07,SCL,21484,Day-ahead demand forecast
+2025-06-07,SCL,22832,Demand
+2025-06-08,SCL,24222,Demand
+2025-06-08,SCL,24060,Demand
+2025-06-08,SCL,23929,Demand
+2025-06-08,SCL,24159,Demand
+2025-06-08,SCL,22806,Day-ahead demand forecast
+2025-06-08,SCL,22993,Day-ahead demand forecast
+2025-06-08,SCL,22675,Day-ahead demand forecast
+2025-06-08,SCL,22917,Day-ahead demand forecast
+2025-06-08,SCL,22993,Day-ahead demand forecast
+2025-06-08,SCL,24222,Demand
+2025-06-09,SCL,26694,Demand
+2025-06-09,SCL,26720,Demand
+2025-06-09,SCL,26725,Demand
+2025-06-09,SCL,26705,Demand
+2025-06-09,SCL,26694,Demand
+2025-06-09,SCL,25423,Day-ahead demand forecast
+2025-06-09,SCL,25385,Day-ahead demand forecast
+2025-06-09,SCL,25360,Day-ahead demand forecast
+2025-06-09,SCL,25404,Day-ahead demand forecast
+2025-06-09,SCL,25423,Day-ahead demand forecast
+2025-06-10,SCL,25534,Demand
+2025-06-10,SCL,25592,Demand
+2025-06-10,SCL,25644,Demand
+2025-06-10,SCL,25562,Demand
+2025-06-10,SCL,24281,Day-ahead demand forecast
+2025-06-10,SCL,24281,Day-ahead demand forecast
+2025-06-10,SCL,24373,Day-ahead demand forecast
+2025-06-10,SCL,24427,Day-ahead demand forecast
+2025-06-10,SCL,24326,Day-ahead demand forecast
+2025-06-10,SCL,25534,Demand
+2025-06-11,SCL,22941,Demand
+2025-06-11,SCL,22494,Demand
+2025-06-11,SCL,22786,Demand
+2025-06-11,SCL,22630,Demand
+2025-06-11,SCL,22494,Demand
+2025-06-11,SCL,22979,Day-ahead demand forecast
+2025-06-11,SCL,23118,Day-ahead demand forecast
+2025-06-11,SCL,23204,Day-ahead demand forecast
+2025-06-11,SCL,23043,Day-ahead demand forecast
+2025-06-11,SCL,22979,Day-ahead demand forecast
+2025-06-12,SCL,21642,Demand
+2025-06-12,SCL,21681,Demand
+2025-06-12,SCL,21712,Demand
+2025-06-12,SCL,21658,Demand
+2025-06-12,SCL,21642,Demand
+2025-06-12,SCL,21717,Day-ahead demand forecast
+2025-06-12,SCL,21785,Day-ahead demand forecast
+2025-06-12,SCL,21832,Day-ahead demand forecast
+2025-06-12,SCL,21748,Day-ahead demand forecast
+2025-06-12,SCL,21717,Day-ahead demand forecast
+2025-06-13,SCL,22242,Demand
+2025-06-13,SCL,22159,Demand
+2025-06-13,SCL,22131,Demand
+2025-06-13,SCL,22190,Demand
+2025-06-13,SCL,21734,Day-ahead demand forecast
+2025-06-13,SCL,21734,Day-ahead demand forecast
+2025-06-13,SCL,21753,Day-ahead demand forecast
+2025-06-13,SCL,21777,Day-ahead demand forecast
+2025-06-13,SCL,21734,Day-ahead demand forecast
+2025-06-13,SCL,22242,Demand
+2025-06-14,SCL,21257,Demand
+2025-06-14,SCL,21223,Demand
+2025-06-14,SCL,21240,Demand
+2025-06-14,SCL,21236,Demand
+2025-06-14,SCL,20278,Day-ahead demand forecast
+2025-06-14,SCL,20278,Day-ahead demand forecast
+2025-06-14,SCL,20313,Day-ahead demand forecast
+2025-06-14,SCL,20341,Day-ahead demand forecast
+2025-06-14,SCL,20294,Day-ahead demand forecast
+2025-06-14,SCL,21223,Demand
+2025-06-15,SCL,21207,Demand
+2025-06-15,SCL,21183,Demand
+2025-06-15,SCL,21122,Demand
+2025-06-15,SCL,21211,Demand
+2025-06-15,SCL,21207,Demand
+2025-06-15,SCL,20322,Day-ahead demand forecast
+2025-06-15,SCL,20291,Day-ahead demand forecast
+2025-06-15,SCL,20242,Day-ahead demand forecast
+2025-06-15,SCL,20315,Day-ahead demand forecast
+2025-06-15,SCL,20322,Day-ahead demand forecast
+2025-06-16,SCL,23222,Demand
+2025-06-16,SCL,23185,Demand
+2025-06-16,SCL,23180,Demand
+2025-06-16,SCL,23195,Demand
+2025-06-16,SCL,22215,Day-ahead demand forecast
+2025-06-16,SCL,22215,Day-ahead demand forecast
+2025-06-16,SCL,22160,Day-ahead demand forecast
+2025-06-16,SCL,22121,Day-ahead demand forecast
+2025-06-16,SCL,22192,Day-ahead demand forecast
+2025-06-16,SCL,23222,Demand
+2025-06-17,SCL,23208,Demand
+2025-06-17,SCL,23302,Demand
+2025-06-17,SCL,23238,Demand
+2025-06-17,SCL,23272,Demand
+2025-06-17,SCL,22192,Day-ahead demand forecast
+2025-06-17,SCL,22192,Day-ahead demand forecast
+2025-06-17,SCL,22194,Day-ahead demand forecast
+2025-06-17,SCL,22196,Day-ahead demand forecast
+2025-06-17,SCL,22195,Day-ahead demand forecast
+2025-06-17,SCL,23302,Demand
+2025-06-18,SCL,23008,Demand
+2025-06-18,SCL,23176,Demand
+2025-06-18,SCL,23268,Demand
+2025-06-18,SCL,23087,Demand
+2025-06-18,SCL,23008,Demand
+2025-06-18,SCL,22055,Day-ahead demand forecast
+2025-06-18,SCL,22073,Day-ahead demand forecast
+2025-06-18,SCL,22046,Day-ahead demand forecast
+2025-06-18,SCL,22042,Day-ahead demand forecast
+2025-06-18,SCL,22042,Day-ahead demand forecast
+2025-06-19,SCL,21269,Demand
+2025-06-19,SCL,21288,Demand
+2025-06-19,SCL,21296,Demand
+2025-06-19,SCL,21269,Demand
+2025-06-19,SCL,21283,Demand
+2025-06-19,SCL,21789,Day-ahead demand forecast
+2025-06-19,SCL,21794,Day-ahead demand forecast
+2025-06-19,SCL,21787,Day-ahead demand forecast
+2025-06-19,SCL,21786,Day-ahead demand forecast
+2025-06-19,SCL,21786,Day-ahead demand forecast
+2025-06-20,SCL,22002,Demand
+2025-06-20,SCL,21917,Demand
+2025-06-20,SCL,21898,Demand
+2025-06-20,SCL,21953,Demand
+2025-06-20,SCL,22002,Demand
+2025-06-20,SCL,21700,Day-ahead demand forecast
+2025-06-20,SCL,21696,Day-ahead demand forecast
+2025-06-20,SCL,21710,Day-ahead demand forecast
+2025-06-20,SCL,21688,Day-ahead demand forecast
+2025-06-20,SCL,21700,Day-ahead demand forecast
+2025-06-21,SCL,21622,Demand
+2025-06-21,SCL,21651,Demand
+2025-06-21,SCL,21668,Demand
+2025-06-21,SCL,21630,Demand
+2025-06-21,SCL,20482,Day-ahead demand forecast
+2025-06-21,SCL,20482,Day-ahead demand forecast
+2025-06-21,SCL,20517,Day-ahead demand forecast
+2025-06-21,SCL,20544,Day-ahead demand forecast
+2025-06-21,SCL,20500,Day-ahead demand forecast
+2025-06-21,SCL,21622,Demand
+2025-06-22,SCL,21318,Demand
+2025-06-22,SCL,21415,Demand
+2025-06-22,SCL,21364,Demand
+2025-06-22,SCL,21399,Demand
+2025-06-22,SCL,21415,Demand
+2025-06-22,SCL,20420,Day-ahead demand forecast
+2025-06-22,SCL,20409,Day-ahead demand forecast
+2025-06-22,SCL,20373,Day-ahead demand forecast
+2025-06-22,SCL,20422,Day-ahead demand forecast
+2025-06-22,SCL,20420,Day-ahead demand forecast
+2025-06-23,SCL,23444,Demand
+2025-06-23,SCL,23383,Demand
+2025-06-23,SCL,23342,Demand
+2025-06-23,SCL,23415,Demand
+2025-06-23,SCL,23444,Demand
+2025-06-23,SCL,22491,Day-ahead demand forecast
+2025-06-23,SCL,22407,Day-ahead demand forecast
+2025-06-23,SCL,22346,Day-ahead demand forecast
+2025-06-23,SCL,22455,Day-ahead demand forecast
+2025-06-23,SCL,22491,Day-ahead demand forecast
+2025-06-24,SCL,23754,Demand
+2025-06-24,SCL,23745,Demand
+2025-06-24,SCL,23738,Demand
+2025-06-24,SCL,23749,Demand
+2025-06-24,SCL,22850,Day-ahead demand forecast
+2025-06-24,SCL,22850,Day-ahead demand forecast
+2025-06-24,SCL,22838,Day-ahead demand forecast
+2025-06-24,SCL,22837,Day-ahead demand forecast
+2025-06-24,SCL,22846,Day-ahead demand forecast
+2025-06-24,SCL,23754,Demand
+2025-06-25,SCL,22230,Demand
+2025-06-25,SCL,21976,Demand
+2025-06-25,SCL,22138,Demand
+2025-06-25,SCL,22059,Demand
+2025-06-25,SCL,22214,Day-ahead demand forecast
+2025-06-25,SCL,22214,Day-ahead demand forecast
+2025-06-25,SCL,22268,Day-ahead demand forecast
+2025-06-25,SCL,22309,Day-ahead demand forecast
+2025-06-25,SCL,22236,Day-ahead demand forecast
+2025-06-25,SCL,21976,Demand
+2025-06-26,SCL,21618,Demand
+2025-06-26,SCL,21638,Demand
+2025-06-26,SCL,21650,Demand
+2025-06-26,SCL,21617,Demand
+2025-06-26,SCL,21618,Demand
+2025-06-26,SCL,21763,Day-ahead demand forecast
+2025-06-26,SCL,21781,Day-ahead demand forecast
+2025-06-26,SCL,21794,Day-ahead demand forecast
+2025-06-26,SCL,21771,Day-ahead demand forecast
+2025-06-26,SCL,21763,Day-ahead demand forecast
+2025-06-27,SCL,22272,Demand
+2025-06-27,SCL,22185,Demand
+2025-06-27,SCL,22158,Demand
+2025-06-27,SCL,22231,Demand
+2025-06-27,SCL,21675,Day-ahead demand forecast
+2025-06-27,SCL,21675,Day-ahead demand forecast
+2025-06-27,SCL,21705,Day-ahead demand forecast
+2025-06-27,SCL,21737,Day-ahead demand forecast
+2025-06-27,SCL,21681,Day-ahead demand forecast
+2025-06-27,SCL,22272,Demand
+2025-06-28,SCL,21538,Demand
+2025-06-28,SCL,21565,Demand
+2025-06-28,SCL,21537,Demand
+2025-06-28,SCL,21550,Demand
+2025-06-28,SCL,20450,Day-ahead demand forecast
+2025-06-28,SCL,20450,Day-ahead demand forecast
+2025-06-28,SCL,20461,Day-ahead demand forecast
+2025-06-28,SCL,20471,Day-ahead demand forecast
+2025-06-28,SCL,20454,Day-ahead demand forecast
+2025-06-28,SCL,21565,Demand
+2025-06-29,SCL,22143,Demand
+2025-06-29,SCL,22031,Demand
+2025-06-29,SCL,21937,Demand
+2025-06-29,SCL,22101,Demand
+2025-06-29,SCL,22143,Demand
+2025-06-29,SCL,20961,Day-ahead demand forecast
+2025-06-29,SCL,20879,Day-ahead demand forecast
+2025-06-29,SCL,21024,Day-ahead demand forecast
+2025-06-29,SCL,21061,Day-ahead demand forecast
+2025-06-29,SCL,21061,Day-ahead demand forecast
+2025-06-30,SCL,25683,Demand
+2025-06-30,SCL,25622,Demand
+2025-06-30,SCL,25430,Demand
+2025-06-30,SCL,25683,Demand
+2025-06-30,SCL,25545,Demand
+2025-06-30,SCL,24267,Day-ahead demand forecast
+2025-06-30,SCL,24437,Day-ahead demand forecast
+2025-06-30,SCL,24437,Day-ahead demand forecast
+2025-06-30,SCL,24158,Day-ahead demand forecast
+2025-06-30,SCL,24359,Day-ahead demand forecast
+2025-07-01,SCL,24968,Day-ahead demand forecast
+2025-07-01,SCL,24954,Day-ahead demand forecast
+2025-07-01,SCL,24939,Day-ahead demand forecast
+2025-07-01,SCL,24941,Day-ahead demand forecast
+2025-07-01,SCL,24968,Day-ahead demand forecast
+2025-07-01,SCL,25664,Demand
+2025-07-01,SCL,25675,Demand
+2025-07-01,SCL,25738,Demand
+2025-07-01,SCL,25695,Demand
+2025-07-01,SCL,25664,Demand
+2025-07-02,SCL,23727,Demand
+2025-07-02,SCL,23992,Demand
+2025-07-02,SCL,24132,Demand
+2025-07-02,SCL,23853,Demand
+2025-07-02,SCL,23767,Day-ahead demand forecast
+2025-07-02,SCL,23717,Day-ahead demand forecast
+2025-07-02,SCL,23825,Day-ahead demand forecast
+2025-07-02,SCL,23895,Day-ahead demand forecast
+2025-07-02,SCL,23727,Demand
+2025-07-02,SCL,23717,Day-ahead demand forecast
+2025-07-03,SCL,21556,Demand
+2025-07-03,SCL,21534,Demand
+2025-07-03,SCL,21595,Demand
+2025-07-03,SCL,21648,Demand
+2025-07-03,SCL,21534,Demand
+2025-07-03,SCL,22232,Day-ahead demand forecast
+2025-07-03,SCL,22301,Day-ahead demand forecast
+2025-07-03,SCL,22167,Day-ahead demand forecast
+2025-07-03,SCL,22113,Day-ahead demand forecast
+2025-07-03,SCL,22113,Day-ahead demand forecast
+2025-07-04,SCL,20871,Demand
+2025-07-04,SCL,20844,Demand
+2025-07-04,SCL,20859,Demand
+2025-07-04,SCL,20843,Demand
+2025-07-04,SCL,20871,Demand
+2025-07-04,SCL,20044,Day-ahead demand forecast
+2025-07-04,SCL,20146,Day-ahead demand forecast
+2025-07-04,SCL,20243,Day-ahead demand forecast
+2025-07-04,SCL,20072,Day-ahead demand forecast
+2025-07-04,SCL,20044,Day-ahead demand forecast
+2025-07-05,SCL,21301,Demand
+2025-07-05,SCL,21231,Demand
+2025-07-05,SCL,21185,Demand
+2025-07-05,SCL,21277,Demand
+2025-07-05,SCL,20438,Day-ahead demand forecast
+2025-07-05,SCL,20438,Day-ahead demand forecast
+2025-07-05,SCL,20380,Day-ahead demand forecast
+2025-07-05,SCL,20329,Day-ahead demand forecast
+2025-07-05,SCL,20423,Day-ahead demand forecast
+2025-07-05,SCL,21301,Demand
+2025-07-06,SCL,21980,Demand
+2025-07-06,SCL,21880,Demand
+2025-07-06,SCL,21800,Demand
+2025-07-06,SCL,21939,Demand
+2025-07-06,SCL,20767,Day-ahead demand forecast
+2025-07-06,SCL,20844,Day-ahead demand forecast
+2025-07-06,SCL,20703,Day-ahead demand forecast
+2025-07-06,SCL,20818,Day-ahead demand forecast
+2025-07-06,SCL,20844,Day-ahead demand forecast
+2025-07-06,SCL,21980,Demand
+2025-07-07,SCL,25144,Demand
+2025-07-07,SCL,25010,Demand
+2025-07-07,SCL,24920,Demand
+2025-07-07,SCL,25087,Demand
+2025-07-07,SCL,25144,Demand
+2025-07-07,SCL,23725,Day-ahead demand forecast
+2025-07-07,SCL,23604,Day-ahead demand forecast
+2025-07-07,SCL,23525,Day-ahead demand forecast
+2025-07-07,SCL,23665,Day-ahead demand forecast
+2025-07-07,SCL,23725,Day-ahead demand forecast
+2025-07-08,SCL,25706,Demand
+2025-07-08,SCL,25729,Demand
+2025-07-08,SCL,25740,Demand
+2025-07-08,SCL,25712,Demand
+2025-07-08,SCL,24620,Day-ahead demand forecast
+2025-07-08,SCL,24620,Day-ahead demand forecast
+2025-07-08,SCL,24561,Day-ahead demand forecast
+2025-07-08,SCL,24531,Day-ahead demand forecast
+2025-07-08,SCL,24593,Day-ahead demand forecast
+2025-07-08,SCL,25706,Demand
+2025-07-09,SCL,23118,Demand
+2025-07-09,SCL,23369,Demand
+2025-07-09,SCL,23509,Demand
+2025-07-09,SCL,23237,Demand
+2025-07-09,SCL,23071,Day-ahead demand forecast
+2025-07-09,SCL,22906,Day-ahead demand forecast
+2025-07-09,SCL,23172,Day-ahead demand forecast
+2025-07-09,SCL,22981,Day-ahead demand forecast
+2025-07-09,SCL,22906,Day-ahead demand forecast
+2025-07-09,SCL,23118,Demand
+2025-07-10,SCL,22212,Demand
+2025-07-10,SCL,22176,Demand
+2025-07-10,SCL,22201,Demand
+2025-07-10,SCL,22212,Demand
+2025-07-10,SCL,22180,Demand
+2025-07-10,SCL,22211,Day-ahead demand forecast
+2025-07-10,SCL,22230,Day-ahead demand forecast
+2025-07-10,SCL,22192,Day-ahead demand forecast
+2025-07-10,SCL,22176,Day-ahead demand forecast
+2025-07-10,SCL,22176,Day-ahead demand forecast
+2025-07-11,SCL,23205,Day-ahead demand forecast
+2025-07-11,SCL,23148,Day-ahead demand forecast
+2025-07-11,SCL,23048,Day-ahead demand forecast
+2025-07-11,SCL,23097,Day-ahead demand forecast
+2025-07-11,SCL,23205,Day-ahead demand forecast
+2025-07-11,SCL,23867,Demand
+2025-07-11,SCL,23872,Demand
+2025-07-11,SCL,23677,Demand
+2025-07-11,SCL,23794,Demand
+2025-07-11,SCL,23867,Demand

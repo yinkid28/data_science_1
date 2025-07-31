@@ -1,0 +1,888 @@
+date,region_code,energy_consumption_mwh,data_type
+2025-04-13,NYIS,338495,Day-ahead demand forecast
+2025-04-13,NYIS,339094,Demand
+2025-04-13,NYIS,340668,Demand
+2025-04-13,NYIS,341598,Demand
+2025-04-13,NYIS,339833,Demand
+2025-04-13,NYIS,339059,Day-ahead demand forecast
+2025-04-13,NYIS,338495,Day-ahead demand forecast
+2025-04-13,NYIS,340512,Day-ahead demand forecast
+2025-04-13,NYIS,339094,Demand
+2025-04-13,NYIS,339745,Day-ahead demand forecast
+2025-04-14,NYIS,352672,Day-ahead demand forecast
+2025-04-14,NYIS,352994,Day-ahead demand forecast
+2025-04-14,NYIS,353449,Day-ahead demand forecast
+2025-04-14,NYIS,353258,Day-ahead demand forecast
+2025-04-14,NYIS,352672,Day-ahead demand forecast
+2025-04-14,NYIS,352605,Demand
+2025-04-14,NYIS,352970,Demand
+2025-04-14,NYIS,353510,Demand
+2025-04-14,NYIS,353278,Demand
+2025-04-14,NYIS,352605,Demand
+2025-04-15,NYIS,359103,Demand
+2025-04-15,NYIS,358038,Demand
+2025-04-15,NYIS,357518,Demand
+2025-04-15,NYIS,358562,Demand
+2025-04-15,NYIS,354041,Day-ahead demand forecast
+2025-04-15,NYIS,354803,Day-ahead demand forecast
+2025-04-15,NYIS,354232,Day-ahead demand forecast
+2025-04-15,NYIS,354498,Day-ahead demand forecast
+2025-04-15,NYIS,354803,Day-ahead demand forecast
+2025-04-15,NYIS,359103,Demand
+2025-04-16,NYIS,383349,Demand
+2025-04-16,NYIS,383841,Demand
+2025-04-16,NYIS,382836,Demand
+2025-04-16,NYIS,383841,Demand
+2025-04-16,NYIS,382310,Demand
+2025-04-16,NYIS,364602,Day-ahead demand forecast
+2025-04-16,NYIS,365455,Day-ahead demand forecast
+2025-04-16,NYIS,364123,Day-ahead demand forecast
+2025-04-16,NYIS,365040,Day-ahead demand forecast
+2025-04-16,NYIS,365455,Day-ahead demand forecast
+2025-04-17,NYIS,345024,Demand
+2025-04-17,NYIS,346226,Demand
+2025-04-17,NYIS,346878,Demand
+2025-04-17,NYIS,345612,Demand
+2025-04-17,NYIS,345024,Demand
+2025-04-17,NYIS,338767,Day-ahead demand forecast
+2025-04-17,NYIS,339280,Day-ahead demand forecast
+2025-04-17,NYIS,339500,Day-ahead demand forecast
+2025-04-17,NYIS,339044,Day-ahead demand forecast
+2025-04-17,NYIS,338767,Day-ahead demand forecast
+2025-04-18,NYIS,342717,Demand
+2025-04-18,NYIS,343932,Demand
+2025-04-18,NYIS,344463,Demand
+2025-04-18,NYIS,343362,Demand
+2025-04-18,NYIS,335070,Day-ahead demand forecast
+2025-04-18,NYIS,335070,Day-ahead demand forecast
+2025-04-18,NYIS,336773,Day-ahead demand forecast
+2025-04-18,NYIS,337593,Day-ahead demand forecast
+2025-04-18,NYIS,335924,Day-ahead demand forecast
+2025-04-18,NYIS,342717,Demand
+2025-04-19,NYIS,339863,Demand
+2025-04-19,NYIS,338963,Demand
+2025-04-19,NYIS,339286,Demand
+2025-04-19,NYIS,339591,Demand
+2025-04-19,NYIS,330800,Day-ahead demand forecast
+2025-04-19,NYIS,331125,Day-ahead demand forecast
+2025-04-19,NYIS,330349,Day-ahead demand forecast
+2025-04-19,NYIS,329810,Day-ahead demand forecast
+2025-04-19,NYIS,331125,Day-ahead demand forecast
+2025-04-19,NYIS,339863,Demand
+2025-04-20,NYIS,308781,Demand
+2025-04-20,NYIS,309551,Demand
+2025-04-20,NYIS,310102,Demand
+2025-04-20,NYIS,309102,Demand
+2025-04-20,NYIS,308781,Demand
+2025-04-20,NYIS,303034,Day-ahead demand forecast
+2025-04-20,NYIS,303588,Day-ahead demand forecast
+2025-04-20,NYIS,304185,Day-ahead demand forecast
+2025-04-20,NYIS,303205,Day-ahead demand forecast
+2025-04-20,NYIS,303034,Day-ahead demand forecast
+2025-04-21,NYIS,359672,Demand
+2025-04-21,NYIS,359352,Demand
+2025-04-21,NYIS,359903,Demand
+2025-04-21,NYIS,360073,Demand
+2025-04-21,NYIS,360073,Demand
+2025-04-21,NYIS,344699,Day-ahead demand forecast
+2025-04-21,NYIS,344613,Day-ahead demand forecast
+2025-04-21,NYIS,344706,Day-ahead demand forecast
+2025-04-21,NYIS,344657,Day-ahead demand forecast
+2025-04-21,NYIS,344657,Day-ahead demand forecast
+2025-04-22,NYIS,349763,Demand
+2025-04-22,NYIS,349718,Demand
+2025-04-22,NYIS,349787,Demand
+2025-04-22,NYIS,349802,Demand
+2025-04-22,NYIS,349802,Demand
+2025-04-22,NYIS,335000,Day-ahead demand forecast
+2025-04-22,NYIS,334838,Day-ahead demand forecast
+2025-04-22,NYIS,335134,Day-ahead demand forecast
+2025-04-22,NYIS,335238,Day-ahead demand forecast
+2025-04-22,NYIS,335238,Day-ahead demand forecast
+2025-04-23,NYIS,339599,Demand
+2025-04-23,NYIS,339988,Demand
+2025-04-23,NYIS,340232,Demand
+2025-04-23,NYIS,339780,Demand
+2025-04-23,NYIS,330823,Day-ahead demand forecast
+2025-04-23,NYIS,331044,Day-ahead demand forecast
+2025-04-23,NYIS,331135,Day-ahead demand forecast
+2025-04-23,NYIS,330934,Day-ahead demand forecast
+2025-04-23,NYIS,330823,Day-ahead demand forecast
+2025-04-23,NYIS,339599,Demand
+2025-04-24,NYIS,348022,Demand
+2025-04-24,NYIS,347868,Demand
+2025-04-24,NYIS,347981,Demand
+2025-04-24,NYIS,347655,Demand
+2025-04-24,NYIS,348022,Demand
+2025-04-24,NYIS,337175,Day-ahead demand forecast
+2025-04-24,NYIS,337148,Day-ahead demand forecast
+2025-04-24,NYIS,337159,Day-ahead demand forecast
+2025-04-24,NYIS,337096,Day-ahead demand forecast
+2025-04-24,NYIS,337096,Day-ahead demand forecast
+2025-04-25,NYIS,357567,Demand
+2025-04-25,NYIS,357140,Demand
+2025-04-25,NYIS,356956,Demand
+2025-04-25,NYIS,357348,Demand
+2025-04-25,NYIS,344570,Day-ahead demand forecast
+2025-04-25,NYIS,344229,Day-ahead demand forecast
+2025-04-25,NYIS,344074,Day-ahead demand forecast
+2025-04-25,NYIS,344392,Day-ahead demand forecast
+2025-04-25,NYIS,344570,Day-ahead demand forecast
+2025-04-25,NYIS,357567,Demand
+2025-04-26,NYIS,350409,Demand
+2025-04-26,NYIS,350683,Demand
+2025-04-26,NYIS,350989,Demand
+2025-04-26,NYIS,350143,Demand
+2025-04-26,NYIS,350143,Demand
+2025-04-26,NYIS,337036,Day-ahead demand forecast
+2025-04-26,NYIS,337286,Day-ahead demand forecast
+2025-04-26,NYIS,336828,Day-ahead demand forecast
+2025-04-26,NYIS,336630,Day-ahead demand forecast
+2025-04-26,NYIS,336630,Day-ahead demand forecast
+2025-04-27,NYIS,319384,Demand
+2025-04-27,NYIS,319561,Demand
+2025-04-27,NYIS,319753,Demand
+2025-04-27,NYIS,319431,Demand
+2025-04-27,NYIS,319384,Demand
+2025-04-27,NYIS,311803,Day-ahead demand forecast
+2025-04-27,NYIS,311789,Day-ahead demand forecast
+2025-04-27,NYIS,311893,Day-ahead demand forecast
+2025-04-27,NYIS,311751,Day-ahead demand forecast
+2025-04-27,NYIS,311803,Day-ahead demand forecast
+2025-04-28,NYIS,337969,Demand
+2025-04-28,NYIS,338115,Demand
+2025-04-28,NYIS,338108,Demand
+2025-04-28,NYIS,338073,Demand
+2025-04-28,NYIS,329618,Day-ahead demand forecast
+2025-04-28,NYIS,329618,Day-ahead demand forecast
+2025-04-28,NYIS,329849,Day-ahead demand forecast
+2025-04-28,NYIS,329866,Day-ahead demand forecast
+2025-04-28,NYIS,329759,Day-ahead demand forecast
+2025-04-28,NYIS,337969,Demand
+2025-04-29,NYIS,350806,Demand
+2025-04-29,NYIS,350441,Demand
+2025-04-29,NYIS,350034,Demand
+2025-04-29,NYIS,351109,Demand
+2025-04-29,NYIS,351109,Demand
+2025-04-29,NYIS,350992,Day-ahead demand forecast
+2025-04-29,NYIS,351809,Day-ahead demand forecast
+2025-04-29,NYIS,351809,Day-ahead demand forecast
+2025-04-29,NYIS,350472,Day-ahead demand forecast
+2025-04-29,NYIS,351435,Day-ahead demand forecast
+2025-04-30,NYIS,332704,Day-ahead demand forecast
+2025-04-30,NYIS,333359,Day-ahead demand forecast
+2025-04-30,NYIS,334913,Day-ahead demand forecast
+2025-04-30,NYIS,334107,Day-ahead demand forecast
+2025-04-30,NYIS,332704,Day-ahead demand forecast
+2025-04-30,NYIS,344858,Demand
+2025-04-30,NYIS,345012,Demand
+2025-04-30,NYIS,345429,Demand
+2025-04-30,NYIS,345204,Demand
+2025-04-30,NYIS,344858,Demand
+2025-05-01,NYIS,342656,Demand
+2025-05-01,NYIS,342629,Demand
+2025-05-01,NYIS,342641,Demand
+2025-05-01,NYIS,342633,Demand
+2025-05-01,NYIS,329489,Day-ahead demand forecast
+2025-05-01,NYIS,329431,Day-ahead demand forecast
+2025-05-01,NYIS,329506,Day-ahead demand forecast
+2025-05-01,NYIS,329522,Day-ahead demand forecast
+2025-05-01,NYIS,342656,Demand
+2025-05-01,NYIS,329431,Day-ahead demand forecast
+2025-05-02,NYIS,365694,Demand
+2025-05-02,NYIS,366165,Demand
+2025-05-02,NYIS,365077,Demand
+2025-05-02,NYIS,364283,Demand
+2025-05-02,NYIS,366165,Demand
+2025-05-02,NYIS,351832,Day-ahead demand forecast
+2025-05-02,NYIS,350893,Day-ahead demand forecast
+2025-05-02,NYIS,352654,Day-ahead demand forecast
+2025-05-02,NYIS,353352,Day-ahead demand forecast
+2025-05-02,NYIS,353352,Day-ahead demand forecast
+2025-05-03,NYIS,359272,Demand
+2025-05-03,NYIS,359184,Demand
+2025-05-03,NYIS,359167,Demand
+2025-05-03,NYIS,359222,Demand
+2025-05-03,NYIS,359272,Demand
+2025-05-03,NYIS,340931,Day-ahead demand forecast
+2025-05-03,NYIS,341118,Day-ahead demand forecast
+2025-05-03,NYIS,341291,Day-ahead demand forecast
+2025-05-03,NYIS,341011,Day-ahead demand forecast
+2025-05-03,NYIS,340931,Day-ahead demand forecast
+2025-05-04,NYIS,349654,Demand
+2025-05-04,NYIS,350673,Demand
+2025-05-04,NYIS,351454,Demand
+2025-05-04,NYIS,350064,Demand
+2025-05-04,NYIS,333942,Day-ahead demand forecast
+2025-05-04,NYIS,333942,Day-ahead demand forecast
+2025-05-04,NYIS,334371,Day-ahead demand forecast
+2025-05-04,NYIS,334748,Day-ahead demand forecast
+2025-05-04,NYIS,334105,Day-ahead demand forecast
+2025-05-04,NYIS,349654,Demand
+2025-05-05,NYIS,375255,Demand
+2025-05-05,NYIS,372733,Demand
+2025-05-05,NYIS,370613,Demand
+2025-05-05,NYIS,375309,Demand
+2025-05-05,NYIS,375255,Demand
+2025-05-05,NYIS,364387,Day-ahead demand forecast
+2025-05-05,NYIS,364464,Day-ahead demand forecast
+2025-05-05,NYIS,364464,Day-ahead demand forecast
+2025-05-05,NYIS,364275,Day-ahead demand forecast
+2025-05-05,NYIS,364438,Day-ahead demand forecast
+2025-05-06,NYIS,358316,Day-ahead demand forecast
+2025-05-06,NYIS,358323,Day-ahead demand forecast
+2025-05-06,NYIS,358269,Day-ahead demand forecast
+2025-05-06,NYIS,358313,Day-ahead demand forecast
+2025-05-06,NYIS,358316,Day-ahead demand forecast
+2025-05-06,NYIS,360106,Demand
+2025-05-06,NYIS,360192,Demand
+2025-05-06,NYIS,365045,Demand
+2025-05-06,NYIS,362853,Demand
+2025-05-06,NYIS,360106,Demand
+2025-05-07,NYIS,357887,Demand
+2025-05-07,NYIS,357467,Demand
+2025-05-07,NYIS,357163,Demand
+2025-05-07,NYIS,357694,Demand
+2025-05-07,NYIS,352051,Day-ahead demand forecast
+2025-05-07,NYIS,351990,Day-ahead demand forecast
+2025-05-07,NYIS,352028,Day-ahead demand forecast
+2025-05-07,NYIS,352005,Day-ahead demand forecast
+2025-05-07,NYIS,351990,Day-ahead demand forecast
+2025-05-07,NYIS,357887,Demand
+2025-05-08,NYIS,369388,Demand
+2025-05-08,NYIS,369593,Demand
+2025-05-08,NYIS,369180,Demand
+2025-05-08,NYIS,369593,Demand
+2025-05-08,NYIS,368991,Demand
+2025-05-08,NYIS,351461,Day-ahead demand forecast
+2025-05-08,NYIS,351810,Day-ahead demand forecast
+2025-05-08,NYIS,351333,Day-ahead demand forecast
+2025-05-08,NYIS,351636,Day-ahead demand forecast
+2025-05-08,NYIS,351810,Day-ahead demand forecast
+2025-05-09,NYIS,371722,Demand
+2025-05-09,NYIS,372064,Demand
+2025-05-09,NYIS,372257,Demand
+2025-05-09,NYIS,371884,Demand
+2025-05-09,NYIS,371722,Demand
+2025-05-09,NYIS,353091,Day-ahead demand forecast
+2025-05-09,NYIS,353924,Day-ahead demand forecast
+2025-05-09,NYIS,354314,Day-ahead demand forecast
+2025-05-09,NYIS,353508,Day-ahead demand forecast
+2025-05-09,NYIS,353091,Day-ahead demand forecast
+2025-05-10,NYIS,318627,Demand
+2025-05-10,NYIS,319123,Demand
+2025-05-10,NYIS,319321,Demand
+2025-05-10,NYIS,318876,Demand
+2025-05-10,NYIS,302863,Day-ahead demand forecast
+2025-05-10,NYIS,302863,Day-ahead demand forecast
+2025-05-10,NYIS,302982,Day-ahead demand forecast
+2025-05-10,NYIS,303031,Day-ahead demand forecast
+2025-05-10,NYIS,302934,Day-ahead demand forecast
+2025-05-10,NYIS,318627,Demand
+2025-05-11,NYIS,314294,Demand
+2025-05-11,NYIS,314206,Demand
+2025-05-11,NYIS,314285,Demand
+2025-05-11,NYIS,314251,Demand
+2025-05-11,NYIS,293126,Day-ahead demand forecast
+2025-05-11,NYIS,293418,Day-ahead demand forecast
+2025-05-11,NYIS,293123,Day-ahead demand forecast
+2025-05-11,NYIS,293223,Day-ahead demand forecast
+2025-05-11,NYIS,293418,Day-ahead demand forecast
+2025-05-11,NYIS,314294,Demand
+2025-05-12,NYIS,351424,Demand
+2025-05-12,NYIS,350669,Demand
+2025-05-12,NYIS,350168,Demand
+2025-05-12,NYIS,351056,Demand
+2025-05-12,NYIS,351424,Demand
+2025-05-12,NYIS,337799,Day-ahead demand forecast
+2025-05-12,NYIS,337172,Day-ahead demand forecast
+2025-05-12,NYIS,336666,Day-ahead demand forecast
+2025-05-12,NYIS,337534,Day-ahead demand forecast
+2025-05-12,NYIS,337799,Day-ahead demand forecast
+2025-05-13,NYIS,371435,Demand
+2025-05-13,NYIS,371507,Demand
+2025-05-13,NYIS,371528,Demand
+2025-05-13,NYIS,371474,Demand
+2025-05-13,NYIS,370825,Day-ahead demand forecast
+2025-05-13,NYIS,370825,Day-ahead demand forecast
+2025-05-13,NYIS,370613,Day-ahead demand forecast
+2025-05-13,NYIS,370505,Day-ahead demand forecast
+2025-05-13,NYIS,370717,Day-ahead demand forecast
+2025-05-13,NYIS,371435,Demand
+2025-05-14,NYIS,374649,Demand
+2025-05-14,NYIS,374930,Demand
+2025-05-14,NYIS,374726,Demand
+2025-05-14,NYIS,374826,Demand
+2025-05-14,NYIS,365517,Day-ahead demand forecast
+2025-05-14,NYIS,365517,Day-ahead demand forecast
+2025-05-14,NYIS,365787,Day-ahead demand forecast
+2025-05-14,NYIS,365957,Day-ahead demand forecast
+2025-05-14,NYIS,365639,Day-ahead demand forecast
+2025-05-14,NYIS,374930,Demand
+2025-05-15,NYIS,379942,Demand
+2025-05-15,NYIS,379193,Demand
+2025-05-15,NYIS,378697,Demand
+2025-05-15,NYIS,379594,Demand
+2025-05-15,NYIS,379942,Demand
+2025-05-15,NYIS,373448,Day-ahead demand forecast
+2025-05-15,NYIS,372769,Day-ahead demand forecast
+2025-05-15,NYIS,374038,Day-ahead demand forecast
+2025-05-15,NYIS,374549,Day-ahead demand forecast
+2025-05-15,NYIS,374549,Day-ahead demand forecast
+2025-05-16,NYIS,382250,Demand
+2025-05-16,NYIS,381793,Demand
+2025-05-16,NYIS,381591,Demand
+2025-05-16,NYIS,382250,Demand
+2025-05-16,NYIS,382019,Demand
+2025-05-16,NYIS,380997,Day-ahead demand forecast
+2025-05-16,NYIS,381529,Day-ahead demand forecast
+2025-05-16,NYIS,381529,Day-ahead demand forecast
+2025-05-16,NYIS,380692,Day-ahead demand forecast
+2025-05-16,NYIS,381270,Day-ahead demand forecast
+2025-05-17,NYIS,362043,Day-ahead demand forecast
+2025-05-17,NYIS,362358,Day-ahead demand forecast
+2025-05-17,NYIS,362757,Day-ahead demand forecast
+2025-05-17,NYIS,362584,Day-ahead demand forecast
+2025-05-17,NYIS,362043,Day-ahead demand forecast
+2025-05-17,NYIS,370178,Demand
+2025-05-17,NYIS,370524,Demand
+2025-05-17,NYIS,371042,Demand
+2025-05-17,NYIS,370805,Demand
+2025-05-17,NYIS,370178,Demand
+2025-05-18,NYIS,350246,Demand
+2025-05-18,NYIS,351351,Demand
+2025-05-18,NYIS,352067,Demand
+2025-05-18,NYIS,350750,Demand
+2025-05-18,NYIS,335698,Day-ahead demand forecast
+2025-05-18,NYIS,335171,Day-ahead demand forecast
+2025-05-18,NYIS,336406,Day-ahead demand forecast
+2025-05-18,NYIS,337321,Day-ahead demand forecast
+2025-05-18,NYIS,335171,Day-ahead demand forecast
+2025-05-18,NYIS,350246,Demand
+2025-05-19,NYIS,352986,Demand
+2025-05-19,NYIS,352738,Demand
+2025-05-19,NYIS,352838,Demand
+2025-05-19,NYIS,352751,Demand
+2025-05-19,NYIS,340077,Day-ahead demand forecast
+2025-05-19,NYIS,340037,Day-ahead demand forecast
+2025-05-19,NYIS,340052,Day-ahead demand forecast
+2025-05-19,NYIS,340037,Day-ahead demand forecast
+2025-05-19,NYIS,340031,Day-ahead demand forecast
+2025-05-19,NYIS,352738,Demand
+2025-05-20,NYIS,345178,Demand
+2025-05-20,NYIS,345213,Demand
+2025-05-20,NYIS,345052,Demand
+2025-05-20,NYIS,345052,Demand
+2025-05-20,NYIS,338462,Day-ahead demand forecast
+2025-05-20,NYIS,345125,Demand
+2025-05-21,NYIS,370697,Demand
+2025-05-21,NYIS,370469,Demand
+2025-05-21,NYIS,370021,Demand
+2025-05-21,NYIS,370244,Demand
+2025-05-21,NYIS,370697,Demand
+2025-05-22,NYIS,374748,Demand
+2025-05-22,NYIS,374864,Demand
+2025-05-22,NYIS,374452,Demand
+2025-05-22,NYIS,374864,Demand
+2025-05-22,NYIS,374612,Demand
+2025-05-22,NYIS,359449,Day-ahead demand forecast
+2025-05-22,NYIS,359214,Day-ahead demand forecast
+2025-05-22,NYIS,359885,Day-ahead demand forecast
+2025-05-22,NYIS,359676,Day-ahead demand forecast
+2025-05-22,NYIS,359885,Day-ahead demand forecast
+2025-05-23,NYIS,364713,Demand
+2025-05-23,NYIS,365001,Demand
+2025-05-23,NYIS,365159,Demand
+2025-05-23,NYIS,364854,Demand
+2025-05-23,NYIS,353785,Day-ahead demand forecast
+2025-05-23,NYIS,353785,Day-ahead demand forecast
+2025-05-23,NYIS,353734,Day-ahead demand forecast
+2025-05-23,NYIS,353673,Day-ahead demand forecast
+2025-05-23,NYIS,353768,Day-ahead demand forecast
+2025-05-23,NYIS,364713,Demand
+2025-05-24,NYIS,329213,Demand
+2025-05-24,NYIS,329979,Demand
+2025-05-24,NYIS,330395,Demand
+2025-05-24,NYIS,329594,Demand
+2025-05-24,NYIS,329213,Demand
+2025-05-24,NYIS,328871,Day-ahead demand forecast
+2025-05-24,NYIS,329518,Day-ahead demand forecast
+2025-05-24,NYIS,329857,Day-ahead demand forecast
+2025-05-24,NYIS,329193,Day-ahead demand forecast
+2025-05-24,NYIS,328871,Day-ahead demand forecast
+2025-05-25,NYIS,317665,Demand
+2025-05-25,NYIS,317846,Demand
+2025-05-25,NYIS,317513,Demand
+2025-05-25,NYIS,317380,Demand
+2025-05-25,NYIS,317380,Demand
+2025-05-25,NYIS,314962,Day-ahead demand forecast
+2025-05-25,NYIS,314933,Day-ahead demand forecast
+2025-05-25,NYIS,314933,Day-ahead demand forecast
+2025-05-25,NYIS,315041,Day-ahead demand forecast
+2025-05-25,NYIS,314941,Day-ahead demand forecast
+2025-05-26,NYIS,315200,Demand
+2025-05-26,NYIS,315141,Demand
+2025-05-26,NYIS,315227,Demand
+2025-05-26,NYIS,315288,Demand
+2025-05-26,NYIS,315288,Demand
+2025-05-26,NYIS,318914,Day-ahead demand forecast
+2025-05-26,NYIS,318787,Day-ahead demand forecast
+2025-05-26,NYIS,319022,Day-ahead demand forecast
+2025-05-26,NYIS,319129,Day-ahead demand forecast
+2025-05-26,NYIS,319129,Day-ahead demand forecast
+2025-05-27,NYIS,354571,Demand
+2025-05-27,NYIS,353755,Demand
+2025-05-27,NYIS,353250,Demand
+2025-05-27,NYIS,354208,Demand
+2025-05-27,NYIS,360571,Day-ahead demand forecast
+2025-05-27,NYIS,359705,Day-ahead demand forecast
+2025-05-27,NYIS,359185,Day-ahead demand forecast
+2025-05-27,NYIS,360164,Day-ahead demand forecast
+2025-05-27,NYIS,354571,Demand
+2025-05-27,NYIS,360571,Day-ahead demand forecast
+2025-05-28,NYIS,356910,Day-ahead demand forecast
+2025-05-28,NYIS,356781,Day-ahead demand forecast
+2025-05-28,NYIS,357302,Day-ahead demand forecast
+2025-05-28,NYIS,356781,Day-ahead demand forecast
+2025-05-28,NYIS,358824,Demand
+2025-05-28,NYIS,359003,Demand
+2025-05-28,NYIS,357090,Day-ahead demand forecast
+2025-05-28,NYIS,358887,Demand
+2025-05-28,NYIS,358824,Demand
+2025-05-28,NYIS,359169,Demand
+2025-05-29,NYIS,364646,Demand
+2025-05-29,NYIS,364267,Demand
+2025-05-29,NYIS,364022,Demand
+2025-05-29,NYIS,364646,Demand
+2025-05-29,NYIS,364482,Demand
+2025-05-29,NYIS,362423,Day-ahead demand forecast
+2025-05-29,NYIS,362187,Day-ahead demand forecast
+2025-05-29,NYIS,362599,Day-ahead demand forecast
+2025-05-29,NYIS,362740,Day-ahead demand forecast
+2025-05-29,NYIS,362740,Day-ahead demand forecast
+2025-05-30,NYIS,364810,Demand
+2025-05-30,NYIS,365737,Demand
+2025-05-30,NYIS,365159,Demand
+2025-05-30,NYIS,365448,Demand
+2025-05-30,NYIS,368389,Day-ahead demand forecast
+2025-05-30,NYIS,368589,Day-ahead demand forecast
+2025-05-30,NYIS,368156,Day-ahead demand forecast
+2025-05-30,NYIS,367902,Day-ahead demand forecast
+2025-05-30,NYIS,368589,Day-ahead demand forecast
+2025-05-30,NYIS,365737,Demand
+2025-05-31,NYIS,347440,Demand
+2025-05-31,NYIS,345111,Demand
+2025-05-31,NYIS,346614,Demand
+2025-05-31,NYIS,345111,Demand
+2025-05-31,NYIS,345847,Demand
+2025-05-31,NYIS,335372,Day-ahead demand forecast
+2025-05-31,NYIS,337135,Day-ahead demand forecast
+2025-05-31,NYIS,338129,Day-ahead demand forecast
+2025-05-31,NYIS,336220,Day-ahead demand forecast
+2025-05-31,NYIS,335372,Day-ahead demand forecast
+2025-06-01,NYIS,320973,Demand
+2025-06-01,NYIS,321141,Demand
+2025-06-01,NYIS,320964,Demand
+2025-06-01,NYIS,320973,Demand
+2025-06-01,NYIS,321012,Demand
+2025-06-01,NYIS,312273,Day-ahead demand forecast
+2025-06-01,NYIS,312369,Day-ahead demand forecast
+2025-06-01,NYIS,312234,Day-ahead demand forecast
+2025-06-01,NYIS,312245,Day-ahead demand forecast
+2025-06-01,NYIS,312245,Day-ahead demand forecast
+2025-06-02,NYIS,337411,Day-ahead demand forecast
+2025-06-02,NYIS,336558,Day-ahead demand forecast
+2025-06-02,NYIS,337026,Day-ahead demand forecast
+2025-06-02,NYIS,337716,Day-ahead demand forecast
+2025-06-02,NYIS,340841,Demand
+2025-06-02,NYIS,340675,Demand
+2025-06-02,NYIS,340152,Demand
+2025-06-02,NYIS,340450,Demand
+2025-06-02,NYIS,340841,Demand
+2025-06-02,NYIS,337716,Day-ahead demand forecast
+2025-06-03,NYIS,362317,Demand
+2025-06-03,NYIS,361515,Demand
+2025-06-03,NYIS,363595,Demand
+2025-06-03,NYIS,362989,Demand
+2025-06-03,NYIS,363056,Day-ahead demand forecast
+2025-06-03,NYIS,363708,Day-ahead demand forecast
+2025-06-03,NYIS,362306,Day-ahead demand forecast
+2025-06-03,NYIS,361424,Day-ahead demand forecast
+2025-06-03,NYIS,363708,Day-ahead demand forecast
+2025-06-03,NYIS,363595,Demand
+2025-06-04,NYIS,403374,Demand
+2025-06-04,NYIS,400129,Demand
+2025-06-04,NYIS,398247,Demand
+2025-06-04,NYIS,401845,Demand
+2025-06-04,NYIS,403374,Demand
+2025-06-04,NYIS,410177,Day-ahead demand forecast
+2025-06-04,NYIS,406952,Day-ahead demand forecast
+2025-06-04,NYIS,405149,Day-ahead demand forecast
+2025-06-04,NYIS,408618,Day-ahead demand forecast
+2025-06-04,NYIS,410177,Day-ahead demand forecast
+2025-06-05,NYIS,454411,Demand
+2025-06-05,NYIS,451969,Demand
+2025-06-05,NYIS,450580,Demand
+2025-06-05,NYIS,453239,Demand
+2025-06-05,NYIS,449108,Day-ahead demand forecast
+2025-06-05,NYIS,449108,Day-ahead demand forecast
+2025-06-05,NYIS,447432,Day-ahead demand forecast
+2025-06-05,NYIS,446520,Day-ahead demand forecast
+2025-06-05,NYIS,448295,Day-ahead demand forecast
+2025-06-05,NYIS,454411,Demand
+2025-06-06,NYIS,459310,Demand
+2025-06-06,NYIS,458228,Demand
+2025-06-06,NYIS,458861,Demand
+2025-06-06,NYIS,458504,Demand
+2025-06-06,NYIS,440926,Day-ahead demand forecast
+2025-06-06,NYIS,440926,Day-ahead demand forecast
+2025-06-06,NYIS,442233,Day-ahead demand forecast
+2025-06-06,NYIS,442963,Day-ahead demand forecast
+2025-06-06,NYIS,441546,Day-ahead demand forecast
+2025-06-06,NYIS,458228,Demand
+2025-06-07,NYIS,402867,Demand
+2025-06-07,NYIS,406052,Demand
+2025-06-07,NYIS,407747,Demand
+2025-06-07,NYIS,404447,Demand
+2025-06-07,NYIS,402867,Demand
+2025-06-07,NYIS,394853,Day-ahead demand forecast
+2025-06-07,NYIS,395851,Day-ahead demand forecast
+2025-06-07,NYIS,393935,Day-ahead demand forecast
+2025-06-07,NYIS,393056,Day-ahead demand forecast
+2025-06-07,NYIS,393056,Day-ahead demand forecast
+2025-06-08,NYIS,371066,Demand
+2025-06-08,NYIS,371920,Demand
+2025-06-08,NYIS,372609,Demand
+2025-06-08,NYIS,371066,Demand
+2025-06-08,NYIS,371389,Demand
+2025-06-08,NYIS,372850,Day-ahead demand forecast
+2025-06-08,NYIS,371946,Day-ahead demand forecast
+2025-06-08,NYIS,371946,Day-ahead demand forecast
+2025-06-08,NYIS,373561,Day-ahead demand forecast
+2025-06-08,NYIS,372326,Day-ahead demand forecast
+2025-06-09,NYIS,390765,Day-ahead demand forecast
+2025-06-09,NYIS,390727,Day-ahead demand forecast
+2025-06-09,NYIS,390686,Day-ahead demand forecast
+2025-06-09,NYIS,390698,Day-ahead demand forecast
+2025-06-09,NYIS,390765,Day-ahead demand forecast
+2025-06-09,NYIS,393348,Demand
+2025-06-09,NYIS,393463,Demand
+2025-06-09,NYIS,393737,Demand
+2025-06-09,NYIS,393575,Demand
+2025-06-09,NYIS,393348,Demand
+2025-06-10,NYIS,392609,Demand
+2025-06-10,NYIS,392090,Demand
+2025-06-10,NYIS,391678,Demand
+2025-06-10,NYIS,392398,Demand
+2025-06-10,NYIS,397291,Day-ahead demand forecast
+2025-06-10,NYIS,397494,Day-ahead demand forecast
+2025-06-10,NYIS,396934,Day-ahead demand forecast
+2025-06-10,NYIS,396409,Day-ahead demand forecast
+2025-06-10,NYIS,397494,Day-ahead demand forecast
+2025-06-10,NYIS,392609,Demand
+2025-06-11,NYIS,408877,Demand
+2025-06-11,NYIS,411978,Demand
+2025-06-11,NYIS,410009,Demand
+2025-06-11,NYIS,411978,Demand
+2025-06-11,NYIS,411011,Demand
+2025-06-11,NYIS,409613,Day-ahead demand forecast
+2025-06-11,NYIS,407762,Day-ahead demand forecast
+2025-06-11,NYIS,406753,Day-ahead demand forecast
+2025-06-11,NYIS,408710,Day-ahead demand forecast
+2025-06-11,NYIS,409613,Day-ahead demand forecast
+2025-06-12,NYIS,444615,Demand
+2025-06-12,NYIS,442764,Demand
+2025-06-12,NYIS,444173,Demand
+2025-06-12,NYIS,444615,Demand
+2025-06-12,NYIS,443553,Demand
+2025-06-12,NYIS,438642,Day-ahead demand forecast
+2025-06-12,NYIS,438097,Day-ahead demand forecast
+2025-06-12,NYIS,439035,Day-ahead demand forecast
+2025-06-12,NYIS,439305,Day-ahead demand forecast
+2025-06-12,NYIS,439305,Day-ahead demand forecast
+2025-06-13,NYIS,403652,Day-ahead demand forecast
+2025-06-13,NYIS,406569,Day-ahead demand forecast
+2025-06-13,NYIS,404986,Day-ahead demand forecast
+2025-06-13,NYIS,402546,Day-ahead demand forecast
+2025-06-13,NYIS,406317,Demand
+2025-06-13,NYIS,407447,Demand
+2025-06-13,NYIS,410319,Demand
+2025-06-13,NYIS,408766,Demand
+2025-06-13,NYIS,406317,Demand
+2025-06-13,NYIS,402546,Day-ahead demand forecast
+2025-06-14,NYIS,359601,Demand
+2025-06-14,NYIS,360984,Demand
+2025-06-14,NYIS,357259,Demand
+2025-06-14,NYIS,358382,Demand
+2025-06-14,NYIS,358907,Day-ahead demand forecast
+2025-06-14,NYIS,358017,Day-ahead demand forecast
+2025-06-14,NYIS,357259,Demand
+2025-06-14,NYIS,358017,Day-ahead demand forecast
+2025-06-14,NYIS,360910,Day-ahead demand forecast
+2025-06-14,NYIS,359855,Day-ahead demand forecast
+2025-06-15,NYIS,343171,Day-ahead demand forecast
+2025-06-15,NYIS,343186,Day-ahead demand forecast
+2025-06-15,NYIS,343355,Day-ahead demand forecast
+2025-06-15,NYIS,343252,Day-ahead demand forecast
+2025-06-15,NYIS,343171,Day-ahead demand forecast
+2025-06-15,NYIS,346007,Demand
+2025-06-15,NYIS,345975,Demand
+2025-06-15,NYIS,346071,Demand
+2025-06-15,NYIS,346026,Demand
+2025-06-15,NYIS,346007,Demand
+2025-06-16,NYIS,387018,Demand
+2025-06-16,NYIS,385790,Demand
+2025-06-16,NYIS,385072,Demand
+2025-06-16,NYIS,386444,Demand
+2025-06-16,NYIS,379599,Day-ahead demand forecast
+2025-06-16,NYIS,381583,Day-ahead demand forecast
+2025-06-16,NYIS,380308,Day-ahead demand forecast
+2025-06-16,NYIS,380968,Day-ahead demand forecast
+2025-06-16,NYIS,387018,Demand
+2025-06-16,NYIS,381583,Day-ahead demand forecast
+2025-06-17,NYIS,403747,Demand
+2025-06-17,NYIS,402733,Day-ahead demand forecast
+2025-06-17,NYIS,403093,Demand
+2025-06-17,NYIS,405003,Demand
+2025-06-17,NYIS,404375,Demand
+2025-06-17,NYIS,403512,Day-ahead demand forecast
+2025-06-17,NYIS,403512,Day-ahead demand forecast
+2025-06-17,NYIS,401908,Day-ahead demand forecast
+2025-06-17,NYIS,401034,Day-ahead demand forecast
+2025-06-17,NYIS,405003,Demand
+2025-06-18,NYIS,447644,Demand
+2025-06-18,NYIS,444124,Demand
+2025-06-18,NYIS,442047,Demand
+2025-06-18,NYIS,445981,Demand
+2025-06-18,NYIS,447644,Demand
+2025-06-18,NYIS,443932,Day-ahead demand forecast
+2025-06-18,NYIS,442204,Day-ahead demand forecast
+2025-06-18,NYIS,445494,Day-ahead demand forecast
+2025-06-18,NYIS,446899,Day-ahead demand forecast
+2025-06-18,NYIS,446899,Day-ahead demand forecast
+2025-06-19,NYIS,486523,Demand
+2025-06-19,NYIS,486271,Demand
+2025-06-19,NYIS,486067,Demand
+2025-06-19,NYIS,486432,Demand
+2025-06-19,NYIS,486523,Demand
+2025-06-19,NYIS,472633,Day-ahead demand forecast
+2025-06-19,NYIS,472139,Day-ahead demand forecast
+2025-06-19,NYIS,472925,Day-ahead demand forecast
+2025-06-19,NYIS,473066,Day-ahead demand forecast
+2025-06-19,NYIS,473066,Day-ahead demand forecast
+2025-06-20,NYIS,443986,Demand
+2025-06-20,NYIS,444693,Demand
+2025-06-20,NYIS,445034,Demand
+2025-06-20,NYIS,444350,Demand
+2025-06-20,NYIS,443986,Demand
+2025-06-20,NYIS,438529,Day-ahead demand forecast
+2025-06-20,NYIS,439880,Day-ahead demand forecast
+2025-06-20,NYIS,440742,Day-ahead demand forecast
+2025-06-20,NYIS,439142,Day-ahead demand forecast
+2025-06-20,NYIS,438529,Day-ahead demand forecast
+2025-06-21,NYIS,460139,Demand
+2025-06-21,NYIS,455974,Demand
+2025-06-21,NYIS,453899,Demand
+2025-06-21,NYIS,458071,Demand
+2025-06-21,NYIS,445016,Day-ahead demand forecast
+2025-06-21,NYIS,445016,Day-ahead demand forecast
+2025-06-21,NYIS,441817,Day-ahead demand forecast
+2025-06-21,NYIS,440195,Day-ahead demand forecast
+2025-06-21,NYIS,443436,Day-ahead demand forecast
+2025-06-21,NYIS,460139,Demand
+2025-06-22,NYIS,499901,Demand
+2025-06-22,NYIS,506129,Demand
+2025-06-22,NYIS,502042,Demand
+2025-06-22,NYIS,504099,Demand
+2025-06-22,NYIS,506129,Demand
+2025-06-22,NYIS,520364,Day-ahead demand forecast
+2025-06-22,NYIS,515034,Day-ahead demand forecast
+2025-06-22,NYIS,512205,Day-ahead demand forecast
+2025-06-22,NYIS,517742,Day-ahead demand forecast
+2025-06-22,NYIS,520364,Day-ahead demand forecast
+2025-06-23,NYIS,611051,Demand
+2025-06-23,NYIS,607726,Demand
+2025-06-23,NYIS,605720,Demand
+2025-06-23,NYIS,609465,Demand
+2025-06-23,NYIS,611051,Demand
+2025-06-23,NYIS,584406,Day-ahead demand forecast
+2025-06-23,NYIS,583354,Day-ahead demand forecast
+2025-06-23,NYIS,582614,Day-ahead demand forecast
+2025-06-23,NYIS,583924,Day-ahead demand forecast
+2025-06-23,NYIS,584406,Day-ahead demand forecast
+2025-06-24,NYIS,637696,Demand
+2025-06-24,NYIS,635911,Demand
+2025-06-24,NYIS,634989,Demand
+2025-06-24,NYIS,636846,Demand
+2025-06-24,NYIS,602607,Day-ahead demand forecast
+2025-06-24,NYIS,602607,Day-ahead demand forecast
+2025-06-24,NYIS,601161,Day-ahead demand forecast
+2025-06-24,NYIS,600349,Day-ahead demand forecast
+2025-06-24,NYIS,601924,Day-ahead demand forecast
+2025-06-24,NYIS,637696,Demand
+2025-06-25,NYIS,631325,Demand
+2025-06-25,NYIS,628769,Demand
+2025-06-25,NYIS,630372,Demand
+2025-06-25,NYIS,629511,Demand
+2025-06-25,NYIS,581396,Day-ahead demand forecast
+2025-06-25,NYIS,581396,Day-ahead demand forecast
+2025-06-25,NYIS,583503,Day-ahead demand forecast
+2025-06-25,NYIS,584613,Day-ahead demand forecast
+2025-06-25,NYIS,582453,Day-ahead demand forecast
+2025-06-25,NYIS,628769,Demand
+2025-06-26,NYIS,485906,Demand
+2025-06-26,NYIS,498141,Demand
+2025-06-26,NYIS,504822,Demand
+2025-06-26,NYIS,491873,Demand
+2025-06-26,NYIS,485906,Demand
+2025-06-26,NYIS,484195,Day-ahead demand forecast
+2025-06-26,NYIS,492138,Day-ahead demand forecast
+2025-06-26,NYIS,496710,Day-ahead demand forecast
+2025-06-26,NYIS,487989,Day-ahead demand forecast
+2025-06-26,NYIS,484195,Day-ahead demand forecast
+2025-06-27,NYIS,423031,Demand
+2025-06-27,NYIS,424507,Demand
+2025-06-27,NYIS,425393,Demand
+2025-06-27,NYIS,423713,Demand
+2025-06-27,NYIS,430753,Day-ahead demand forecast
+2025-06-27,NYIS,430753,Day-ahead demand forecast
+2025-06-27,NYIS,432849,Day-ahead demand forecast
+2025-06-27,NYIS,434050,Day-ahead demand forecast
+2025-06-27,NYIS,431749,Day-ahead demand forecast
+2025-06-27,NYIS,423031,Demand
+2025-06-28,NYIS,436440,Demand
+2025-06-28,NYIS,444680,Demand
+2025-06-28,NYIS,439438,Demand
+2025-06-28,NYIS,442165,Demand
+2025-06-28,NYIS,432831,Day-ahead demand forecast
+2025-06-28,NYIS,432831,Day-ahead demand forecast
+2025-06-28,NYIS,429648,Day-ahead demand forecast
+2025-06-28,NYIS,427702,Day-ahead demand forecast
+2025-06-28,NYIS,431349,Day-ahead demand forecast
+2025-06-28,NYIS,444680,Demand
+2025-06-29,NYIS,479722,Demand
+2025-06-29,NYIS,479089,Demand
+2025-06-29,NYIS,478643,Demand
+2025-06-29,NYIS,479411,Demand
+2025-06-29,NYIS,479722,Demand
+2025-06-29,NYIS,444939,Day-ahead demand forecast
+2025-06-29,NYIS,444361,Day-ahead demand forecast
+2025-06-29,NYIS,445477,Day-ahead demand forecast
+2025-06-29,NYIS,445988,Day-ahead demand forecast
+2025-06-29,NYIS,445988,Day-ahead demand forecast
+2025-06-30,NYIS,536985,Demand
+2025-06-30,NYIS,533649,Demand
+2025-06-30,NYIS,532117,Demand
+2025-06-30,NYIS,536985,Demand
+2025-06-30,NYIS,535317,Demand
+2025-06-30,NYIS,511385,Day-ahead demand forecast
+2025-06-30,NYIS,509636,Day-ahead demand forecast
+2025-06-30,NYIS,513185,Day-ahead demand forecast
+2025-06-30,NYIS,515034,Day-ahead demand forecast
+2025-06-30,NYIS,515034,Day-ahead demand forecast
+2025-07-01,NYIS,550254,Demand
+2025-07-01,NYIS,552350,Demand
+2025-07-01,NYIS,553433,Demand
+2025-07-01,NYIS,551290,Demand
+2025-07-01,NYIS,550254,Demand
+2025-07-01,NYIS,542969,Day-ahead demand forecast
+2025-07-01,NYIS,543719,Day-ahead demand forecast
+2025-07-01,NYIS,543956,Day-ahead demand forecast
+2025-07-01,NYIS,543369,Day-ahead demand forecast
+2025-07-01,NYIS,542969,Day-ahead demand forecast
+2025-07-02,NYIS,509100,Demand
+2025-07-02,NYIS,510326,Demand
+2025-07-02,NYIS,510732,Demand
+2025-07-02,NYIS,509785,Demand
+2025-07-02,NYIS,504821,Day-ahead demand forecast
+2025-07-02,NYIS,504821,Day-ahead demand forecast
+2025-07-02,NYIS,506918,Day-ahead demand forecast
+2025-07-02,NYIS,507984,Day-ahead demand forecast
+2025-07-02,NYIS,505879,Day-ahead demand forecast
+2025-07-02,NYIS,509100,Demand
+2025-07-03,NYIS,494340,Demand
+2025-07-03,NYIS,488481,Demand
+2025-07-03,NYIS,492301,Demand
+2025-07-03,NYIS,490334,Demand
+2025-07-03,NYIS,488481,Demand
+2025-07-03,NYIS,489644,Day-ahead demand forecast
+2025-07-03,NYIS,490160,Day-ahead demand forecast
+2025-07-03,NYIS,490308,Day-ahead demand forecast
+2025-07-03,NYIS,489953,Day-ahead demand forecast
+2025-07-03,NYIS,489644,Day-ahead demand forecast
+2025-07-04,NYIS,411270,Demand
+2025-07-04,NYIS,411994,Demand
+2025-07-04,NYIS,412395,Demand
+2025-07-04,NYIS,411631,Demand
+2025-07-04,NYIS,411270,Demand
+2025-07-04,NYIS,412267,Day-ahead demand forecast
+2025-07-04,NYIS,417311,Day-ahead demand forecast
+2025-07-04,NYIS,420076,Day-ahead demand forecast
+2025-07-04,NYIS,414680,Day-ahead demand forecast
+2025-07-04,NYIS,412267,Day-ahead demand forecast
+2025-07-05,NYIS,445794,Demand
+2025-07-05,NYIS,441937,Demand
+2025-07-05,NYIS,439855,Demand
+2025-07-05,NYIS,443919,Demand
+2025-07-05,NYIS,421844,Day-ahead demand forecast
+2025-07-05,NYIS,421844,Day-ahead demand forecast
+2025-07-05,NYIS,417749,Day-ahead demand forecast
+2025-07-05,NYIS,415652,Day-ahead demand forecast
+2025-07-05,NYIS,419834,Day-ahead demand forecast
+2025-07-05,NYIS,445794,Demand
+2025-07-06,NYIS,506101,Demand
+2025-07-06,NYIS,500009,Demand
+2025-07-06,NYIS,501974,Demand
+2025-07-06,NYIS,503996,Demand
+2025-07-06,NYIS,478119,Day-ahead demand forecast
+2025-07-06,NYIS,480586,Day-ahead demand forecast
+2025-07-06,NYIS,475628,Day-ahead demand forecast
+2025-07-06,NYIS,473102,Day-ahead demand forecast
+2025-07-06,NYIS,480586,Day-ahead demand forecast
+2025-07-06,NYIS,506101,Demand
+2025-07-07,NYIS,566605,Demand
+2025-07-07,NYIS,566126,Demand
+2025-07-07,NYIS,565879,Demand
+2025-07-07,NYIS,566346,Demand
+2025-07-07,NYIS,566605,Demand
+2025-07-07,NYIS,554499,Day-ahead demand forecast
+2025-07-07,NYIS,554481,Day-ahead demand forecast
+2025-07-07,NYIS,554391,Day-ahead demand forecast
+2025-07-07,NYIS,554500,Day-ahead demand forecast
+2025-07-07,NYIS,554499,Day-ahead demand forecast
+2025-07-08,NYIS,572908,Demand
+2025-07-08,NYIS,574024,Demand
+2025-07-08,NYIS,574492,Demand
+2025-07-08,NYIS,573487,Demand
+2025-07-08,NYIS,550747,Day-ahead demand forecast
+2025-07-08,NYIS,550747,Day-ahead demand forecast
+2025-07-08,NYIS,551186,Day-ahead demand forecast
+2025-07-08,NYIS,551338,Day-ahead demand forecast
+2025-07-08,NYIS,550984,Day-ahead demand forecast
+2025-07-08,NYIS,572908,Demand
+2025-07-09,NYIS,557217,Demand
+2025-07-09,NYIS,556728,Demand
+2025-07-09,NYIS,557004,Demand
+2025-07-09,NYIS,557176,Demand
+2025-07-09,NYIS,539351,Day-ahead demand forecast
+2025-07-09,NYIS,539278,Day-ahead demand forecast
+2025-07-09,NYIS,539414,Day-ahead demand forecast
+2025-07-09,NYIS,539479,Day-ahead demand forecast
+2025-07-09,NYIS,539278,Day-ahead demand forecast
+2025-07-09,NYIS,557217,Demand
+2025-07-10,NYIS,527963,Demand
+2025-07-10,NYIS,529670,Demand
+2025-07-10,NYIS,530750,Demand
+2025-07-10,NYIS,527963,Demand
+2025-07-10,NYIS,528740,Demand
+2025-07-10,NYIS,526581,Day-ahead demand forecast
+2025-07-10,NYIS,527219,Day-ahead demand forecast
+2025-07-10,NYIS,525993,Day-ahead demand forecast
+2025-07-10,NYIS,525449,Day-ahead demand forecast
+2025-07-10,NYIS,525449,Day-ahead demand forecast
+2025-07-11,NYIS,522329,Day-ahead demand forecast
+2025-07-11,NYIS,535035,Demand
+2025-07-11,NYIS,534549,Demand
+2025-07-11,NYIS,533381,Demand
+2025-07-11,NYIS,533986,Demand
+2025-07-11,NYIS,535035,Demand

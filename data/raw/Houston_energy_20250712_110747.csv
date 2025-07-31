@@ -1,0 +1,898 @@
+date,region_code,energy_consumption_mwh,data_type
+2025-04-13,ERCO,1249694,Day-ahead demand forecast
+2025-04-13,ERCO,1221823,Demand
+2025-04-13,ERCO,1219633,Demand
+2025-04-13,ERCO,1217949,Demand
+2025-04-13,ERCO,1220876,Demand
+2025-04-13,ERCO,1250476,Day-ahead demand forecast
+2025-04-13,ERCO,1249694,Day-ahead demand forecast
+2025-04-13,ERCO,1250756,Day-ahead demand forecast
+2025-04-13,ERCO,1247010,Day-ahead demand forecast
+2025-04-13,ERCO,1221823,Demand
+2025-04-14,ERCO,1271438,Demand
+2025-04-14,ERCO,1272661,Demand
+2025-04-14,ERCO,1272858,Demand
+2025-04-14,ERCO,1272049,Demand
+2025-04-14,ERCO,1271438,Demand
+2025-04-14,ERCO,1278750,Day-ahead demand forecast
+2025-04-14,ERCO,1279355,Day-ahead demand forecast
+2025-04-14,ERCO,1280633,Day-ahead demand forecast
+2025-04-14,ERCO,1279166,Day-ahead demand forecast
+2025-04-14,ERCO,1278750,Day-ahead demand forecast
+2025-04-15,ERCO,1174237,Demand
+2025-04-15,ERCO,1178319,Demand
+2025-04-15,ERCO,1181414,Demand
+2025-04-15,ERCO,1175929,Demand
+2025-04-15,ERCO,1205173,Day-ahead demand forecast
+2025-04-15,ERCO,1205173,Day-ahead demand forecast
+2025-04-15,ERCO,1207414,Day-ahead demand forecast
+2025-04-15,ERCO,1209286,Day-ahead demand forecast
+2025-04-15,ERCO,1206068,Day-ahead demand forecast
+2025-04-15,ERCO,1174237,Demand
+2025-04-16,ERCO,1215278,Demand
+2025-04-16,ERCO,1223818,Demand
+2025-04-16,ERCO,1218437,Demand
+2025-04-16,ERCO,1221374,Demand
+2025-04-16,ERCO,1223818,Demand
+2025-04-16,ERCO,1225857,Day-ahead demand forecast
+2025-04-16,ERCO,1224216,Day-ahead demand forecast
+2025-04-16,ERCO,1222525,Day-ahead demand forecast
+2025-04-16,ERCO,1225025,Day-ahead demand forecast
+2025-04-16,ERCO,1225857,Day-ahead demand forecast
+2025-04-17,ERCO,1272816,Demand
+2025-04-17,ERCO,1269757,Demand
+2025-04-17,ERCO,1268273,Demand
+2025-04-17,ERCO,1271316,Demand
+2025-04-17,ERCO,1272816,Demand
+2025-04-17,ERCO,1263414,Day-ahead demand forecast
+2025-04-17,ERCO,1258187,Day-ahead demand forecast
+2025-04-17,ERCO,1257433,Day-ahead demand forecast
+2025-04-17,ERCO,1260843,Day-ahead demand forecast
+2025-04-17,ERCO,1263414,Day-ahead demand forecast
+2025-04-18,ERCO,1287137,Demand
+2025-04-18,ERCO,1283826,Demand
+2025-04-18,ERCO,1282488,Demand
+2025-04-18,ERCO,1285446,Demand
+2025-04-18,ERCO,1310984,Day-ahead demand forecast
+2025-04-18,ERCO,1310984,Day-ahead demand forecast
+2025-04-18,ERCO,1307293,Day-ahead demand forecast
+2025-04-18,ERCO,1304177,Day-ahead demand forecast
+2025-04-18,ERCO,1309148,Day-ahead demand forecast
+2025-04-18,ERCO,1287137,Demand
+2025-04-19,ERCO,1209716,Demand
+2025-04-19,ERCO,1201797,Demand
+2025-04-19,ERCO,1206502,Demand
+2025-04-19,ERCO,1204062,Demand
+2025-04-19,ERCO,1242052,Day-ahead demand forecast
+2025-04-19,ERCO,1242052,Day-ahead demand forecast
+2025-04-19,ERCO,1246521,Day-ahead demand forecast
+2025-04-19,ERCO,1250085,Day-ahead demand forecast
+2025-04-19,ERCO,1243984,Day-ahead demand forecast
+2025-04-19,ERCO,1201797,Demand
+2025-04-20,ERCO,1156174,Demand
+2025-04-20,ERCO,1164313,Demand
+2025-04-20,ERCO,1167853,Demand
+2025-04-20,ERCO,1160109,Demand
+2025-04-20,ERCO,1156174,Demand
+2025-04-20,ERCO,1167010,Day-ahead demand forecast
+2025-04-20,ERCO,1173325,Day-ahead demand forecast
+2025-04-20,ERCO,1176288,Day-ahead demand forecast
+2025-04-20,ERCO,1170273,Day-ahead demand forecast
+2025-04-20,ERCO,1167010,Day-ahead demand forecast
+2025-04-21,ERCO,1207627,Demand
+2025-04-21,ERCO,1203414,Demand
+2025-04-21,ERCO,1200622,Demand
+2025-04-21,ERCO,1205672,Demand
+2025-04-21,ERCO,1222526,Day-ahead demand forecast
+2025-04-21,ERCO,1222526,Day-ahead demand forecast
+2025-04-21,ERCO,1219232,Day-ahead demand forecast
+2025-04-21,ERCO,1217586,Day-ahead demand forecast
+2025-04-21,ERCO,1221059,Day-ahead demand forecast
+2025-04-21,ERCO,1207627,Demand
+2025-04-22,ERCO,1277673,Demand
+2025-04-22,ERCO,1285560,Demand
+2025-04-22,ERCO,1280596,Demand
+2025-04-22,ERCO,1283225,Demand
+2025-04-22,ERCO,1268057,Day-ahead demand forecast
+2025-04-22,ERCO,1268057,Day-ahead demand forecast
+2025-04-22,ERCO,1264101,Day-ahead demand forecast
+2025-04-22,ERCO,1261583,Day-ahead demand forecast
+2025-04-22,ERCO,1266231,Day-ahead demand forecast
+2025-04-22,ERCO,1285560,Demand
+2025-04-23,ERCO,1247638,Demand
+2025-04-23,ERCO,1249686,Demand
+2025-04-23,ERCO,1251724,Demand
+2025-04-23,ERCO,1248399,Demand
+2025-04-23,ERCO,1247638,Demand
+2025-04-23,ERCO,1263477,Day-ahead demand forecast
+2025-04-23,ERCO,1264739,Day-ahead demand forecast
+2025-04-23,ERCO,1262218,Day-ahead demand forecast
+2025-04-23,ERCO,1261210,Day-ahead demand forecast
+2025-04-23,ERCO,1261210,Day-ahead demand forecast
+2025-04-24,ERCO,1242532,Demand
+2025-04-24,ERCO,1237172,Demand
+2025-04-24,ERCO,1240716,Demand
+2025-04-24,ERCO,1238857,Demand
+2025-04-24,ERCO,1237172,Demand
+2025-04-24,ERCO,1271021,Day-ahead demand forecast
+2025-04-24,ERCO,1271877,Day-ahead demand forecast
+2025-04-24,ERCO,1270596,Day-ahead demand forecast
+2025-04-24,ERCO,1271392,Day-ahead demand forecast
+2025-04-24,ERCO,1271021,Day-ahead demand forecast
+2025-04-25,ERCO,1261867,Demand
+2025-04-25,ERCO,1256501,Demand
+2025-04-25,ERCO,1253204,Demand
+2025-04-25,ERCO,1259524,Demand
+2025-04-25,ERCO,1261867,Demand
+2025-04-25,ERCO,1284660,Day-ahead demand forecast
+2025-04-25,ERCO,1280445,Day-ahead demand forecast
+2025-04-25,ERCO,1279690,Day-ahead demand forecast
+2025-04-25,ERCO,1282613,Day-ahead demand forecast
+2025-04-25,ERCO,1284660,Day-ahead demand forecast
+2025-04-26,ERCO,1242070,Demand
+2025-04-26,ERCO,1242288,Demand
+2025-04-26,ERCO,1242701,Demand
+2025-04-26,ERCO,1242322,Demand
+2025-04-26,ERCO,1252465,Day-ahead demand forecast
+2025-04-26,ERCO,1252465,Day-ahead demand forecast
+2025-04-26,ERCO,1253625,Day-ahead demand forecast
+2025-04-26,ERCO,1254663,Day-ahead demand forecast
+2025-04-26,ERCO,1252992,Day-ahead demand forecast
+2025-04-26,ERCO,1242070,Demand
+2025-04-27,ERCO,1268886,Demand
+2025-04-27,ERCO,1274196,Demand
+2025-04-27,ERCO,1270821,Demand
+2025-04-27,ERCO,1272272,Demand
+2025-04-27,ERCO,1274196,Demand
+2025-04-27,ERCO,1253216,Day-ahead demand forecast
+2025-04-27,ERCO,1250413,Day-ahead demand forecast
+2025-04-27,ERCO,1249852,Day-ahead demand forecast
+2025-04-27,ERCO,1251860,Day-ahead demand forecast
+2025-04-27,ERCO,1253216,Day-ahead demand forecast
+2025-04-28,ERCO,1323896,Demand
+2025-04-28,ERCO,1323819,Demand
+2025-04-28,ERCO,1323569,Demand
+2025-04-28,ERCO,1323962,Demand
+2025-04-28,ERCO,1323896,Demand
+2025-04-28,ERCO,1333928,Day-ahead demand forecast
+2025-04-28,ERCO,1335380,Day-ahead demand forecast
+2025-04-28,ERCO,1333840,Day-ahead demand forecast
+2025-04-28,ERCO,1334691,Day-ahead demand forecast
+2025-04-28,ERCO,1333928,Day-ahead demand forecast
+2025-04-29,ERCO,1307918,Demand
+2025-04-29,ERCO,1309069,Demand
+2025-04-29,ERCO,1309879,Demand
+2025-04-29,ERCO,1308355,Demand
+2025-04-29,ERCO,1322344,Day-ahead demand forecast
+2025-04-29,ERCO,1322344,Day-ahead demand forecast
+2025-04-29,ERCO,1322063,Day-ahead demand forecast
+2025-04-29,ERCO,1322071,Day-ahead demand forecast
+2025-04-29,ERCO,1322222,Day-ahead demand forecast
+2025-04-29,ERCO,1307918,Demand
+2025-04-30,ERCO,1271161,Demand
+2025-04-30,ERCO,1263170,Demand
+2025-04-30,ERCO,1268209,Demand
+2025-04-30,ERCO,1265559,Demand
+2025-04-30,ERCO,1282496,Day-ahead demand forecast
+2025-04-30,ERCO,1282496,Day-ahead demand forecast
+2025-04-30,ERCO,1286644,Day-ahead demand forecast
+2025-04-30,ERCO,1289035,Day-ahead demand forecast
+2025-04-30,ERCO,1284472,Day-ahead demand forecast
+2025-04-30,ERCO,1263170,Demand
+2025-05-01,ERCO,1273096,Demand
+2025-05-01,ERCO,1270303,Demand
+2025-05-01,ERCO,1267979,Demand
+2025-05-01,ERCO,1271957,Demand
+2025-05-01,ERCO,1273096,Demand
+2025-05-01,ERCO,1311372,Day-ahead demand forecast
+2025-05-01,ERCO,1308389,Day-ahead demand forecast
+2025-05-01,ERCO,1306590,Day-ahead demand forecast
+2025-05-01,ERCO,1309997,Day-ahead demand forecast
+2025-05-01,ERCO,1311372,Day-ahead demand forecast
+2025-05-02,ERCO,1189727,Demand
+2025-05-02,ERCO,1198016,Demand
+2025-05-02,ERCO,1203394,Demand
+2025-05-02,ERCO,1193600,Demand
+2025-05-02,ERCO,1228363,Day-ahead demand forecast
+2025-05-02,ERCO,1228363,Day-ahead demand forecast
+2025-05-02,ERCO,1235168,Day-ahead demand forecast
+2025-05-02,ERCO,1239511,Day-ahead demand forecast
+2025-05-02,ERCO,1231751,Day-ahead demand forecast
+2025-05-02,ERCO,1189727,Demand
+2025-05-03,ERCO,1107544,Demand
+2025-05-03,ERCO,1102903,Demand
+2025-05-03,ERCO,1105959,Demand
+2025-05-03,ERCO,1104418,Demand
+2025-05-03,ERCO,1118711,Day-ahead demand forecast
+2025-05-03,ERCO,1118711,Day-ahead demand forecast
+2025-05-03,ERCO,1124438,Day-ahead demand forecast
+2025-05-03,ERCO,1127723,Day-ahead demand forecast
+2025-05-03,ERCO,1121384,Day-ahead demand forecast
+2025-05-03,ERCO,1102903,Demand
+2025-05-04,ERCO,1114796,Demand
+2025-05-04,ERCO,1112078,Demand
+2025-05-04,ERCO,1109975,Demand
+2025-05-04,ERCO,1113545,Demand
+2025-05-04,ERCO,1114796,Demand
+2025-05-04,ERCO,1084076,Day-ahead demand forecast
+2025-05-04,ERCO,1084186,Day-ahead demand forecast
+2025-05-04,ERCO,1084833,Day-ahead demand forecast
+2025-05-04,ERCO,1085525,Day-ahead demand forecast
+2025-05-04,ERCO,1085525,Day-ahead demand forecast
+2025-05-05,ERCO,1151316,Demand
+2025-05-05,ERCO,1151822,Demand
+2025-05-05,ERCO,1151391,Demand
+2025-05-05,ERCO,1151316,Demand
+2025-05-05,ERCO,1152905,Demand
+2025-05-05,ERCO,1184444,Day-ahead demand forecast
+2025-05-05,ERCO,1188628,Day-ahead demand forecast
+2025-05-05,ERCO,1188628,Day-ahead demand forecast
+2025-05-05,ERCO,1181159,Day-ahead demand forecast
+2025-05-05,ERCO,1186462,Day-ahead demand forecast
+2025-05-06,ERCO,1227225,Day-ahead demand forecast
+2025-05-06,ERCO,1226883,Day-ahead demand forecast
+2025-05-06,ERCO,1224909,Day-ahead demand forecast
+2025-05-06,ERCO,1226011,Day-ahead demand forecast
+2025-05-06,ERCO,1227225,Day-ahead demand forecast
+2025-05-06,ERCO,1185381,Demand
+2025-05-06,ERCO,1184171,Demand
+2025-05-06,ERCO,1180863,Demand
+2025-05-06,ERCO,1182776,Demand
+2025-05-06,ERCO,1185381,Demand
+2025-05-07,ERCO,1222940,Demand
+2025-05-07,ERCO,1221006,Demand
+2025-05-07,ERCO,1219367,Demand
+2025-05-07,ERCO,1222184,Demand
+2025-05-07,ERCO,1243048,Day-ahead demand forecast
+2025-05-07,ERCO,1242877,Day-ahead demand forecast
+2025-05-07,ERCO,1243342,Day-ahead demand forecast
+2025-05-07,ERCO,1243159,Day-ahead demand forecast
+2025-05-07,ERCO,1242877,Day-ahead demand forecast
+2025-05-07,ERCO,1222940,Demand
+2025-05-08,ERCO,1219468,Demand
+2025-05-08,ERCO,1214235,Demand
+2025-05-08,ERCO,1216837,Demand
+2025-05-08,ERCO,1214235,Demand
+2025-05-08,ERCO,1215322,Demand
+2025-05-08,ERCO,1224478,Day-ahead demand forecast
+2025-05-08,ERCO,1225361,Day-ahead demand forecast
+2025-05-08,ERCO,1224585,Day-ahead demand forecast
+2025-05-08,ERCO,1224571,Day-ahead demand forecast
+2025-05-08,ERCO,1224571,Day-ahead demand forecast
+2025-05-09,ERCO,1188992,Demand
+2025-05-09,ERCO,1189951,Demand
+2025-05-09,ERCO,1188161,Demand
+2025-05-09,ERCO,1189776,Demand
+2025-05-09,ERCO,1189951,Demand
+2025-05-09,ERCO,1192785,Day-ahead demand forecast
+2025-05-09,ERCO,1193421,Day-ahead demand forecast
+2025-05-09,ERCO,1194502,Day-ahead demand forecast
+2025-05-09,ERCO,1193100,Day-ahead demand forecast
+2025-05-09,ERCO,1192785,Day-ahead demand forecast
+2025-05-10,ERCO,1145071,Demand
+2025-05-10,ERCO,1146976,Demand
+2025-05-10,ERCO,1147887,Demand
+2025-05-10,ERCO,1145837,Demand
+2025-05-10,ERCO,1125559,Day-ahead demand forecast
+2025-05-10,ERCO,1125559,Day-ahead demand forecast
+2025-05-10,ERCO,1127050,Day-ahead demand forecast
+2025-05-10,ERCO,1129005,Day-ahead demand forecast
+2025-05-10,ERCO,1126187,Day-ahead demand forecast
+2025-05-10,ERCO,1145071,Demand
+2025-05-11,ERCO,1112412,Demand
+2025-05-11,ERCO,1112886,Demand
+2025-05-11,ERCO,1110723,Demand
+2025-05-11,ERCO,1111600,Demand
+2025-05-11,ERCO,1136065,Day-ahead demand forecast
+2025-05-11,ERCO,1134589,Day-ahead demand forecast
+2025-05-11,ERCO,1137722,Day-ahead demand forecast
+2025-05-11,ERCO,1136291,Day-ahead demand forecast
+2025-05-11,ERCO,1134589,Day-ahead demand forecast
+2025-05-11,ERCO,1110723,Demand
+2025-05-12,ERCO,1252353,Demand
+2025-05-12,ERCO,1242959,Demand
+2025-05-12,ERCO,1237558,Demand
+2025-05-12,ERCO,1247787,Demand
+2025-05-12,ERCO,1252353,Demand
+2025-05-12,ERCO,1250953,Day-ahead demand forecast
+2025-05-12,ERCO,1240100,Day-ahead demand forecast
+2025-05-12,ERCO,1235365,Day-ahead demand forecast
+2025-05-12,ERCO,1245676,Day-ahead demand forecast
+2025-05-12,ERCO,1250953,Day-ahead demand forecast
+2025-05-13,ERCO,1395742,Demand
+2025-05-13,ERCO,1389522,Demand
+2025-05-13,ERCO,1401565,Demand
+2025-05-13,ERCO,1406912,Demand
+2025-05-13,ERCO,1406912,Demand
+2025-05-13,ERCO,1406374,Day-ahead demand forecast
+2025-05-13,ERCO,1400124,Day-ahead demand forecast
+2025-05-13,ERCO,1411714,Day-ahead demand forecast
+2025-05-13,ERCO,1416299,Day-ahead demand forecast
+2025-05-13,ERCO,1416299,Day-ahead demand forecast
+2025-05-14,ERCO,1482292,Demand
+2025-05-14,ERCO,1481049,Demand
+2025-05-14,ERCO,1483380,Demand
+2025-05-14,ERCO,1484450,Demand
+2025-05-14,ERCO,1484450,Demand
+2025-05-14,ERCO,1528560,Day-ahead demand forecast
+2025-05-14,ERCO,1524664,Day-ahead demand forecast
+2025-05-14,ERCO,1530786,Day-ahead demand forecast
+2025-05-14,ERCO,1532955,Day-ahead demand forecast
+2025-05-14,ERCO,1532955,Day-ahead demand forecast
+2025-05-15,ERCO,1463810,Demand
+2025-05-15,ERCO,1464920,Demand
+2025-05-15,ERCO,1466185,Demand
+2025-05-15,ERCO,1464160,Demand
+2025-05-15,ERCO,1490862,Day-ahead demand forecast
+2025-05-15,ERCO,1494829,Day-ahead demand forecast
+2025-05-15,ERCO,1497357,Day-ahead demand forecast
+2025-05-15,ERCO,1492714,Day-ahead demand forecast
+2025-05-15,ERCO,1490862,Day-ahead demand forecast
+2025-05-15,ERCO,1463810,Demand
+2025-05-16,ERCO,1472815,Demand
+2025-05-16,ERCO,1471812,Demand
+2025-05-16,ERCO,1472815,Demand
+2025-05-16,ERCO,1470392,Demand
+2025-05-16,ERCO,1465305,Day-ahead demand forecast
+2025-05-16,ERCO,1467202,Day-ahead demand forecast
+2025-05-16,ERCO,1467202,Day-ahead demand forecast
+2025-05-16,ERCO,1469320,Demand
+2025-05-16,ERCO,1466034,Day-ahead demand forecast
+2025-05-16,ERCO,1466327,Day-ahead demand forecast
+2025-05-17,ERCO,1422332,Day-ahead demand forecast
+2025-05-17,ERCO,1423209,Day-ahead demand forecast
+2025-05-17,ERCO,1427098,Day-ahead demand forecast
+2025-05-17,ERCO,1424784,Day-ahead demand forecast
+2025-05-17,ERCO,1422332,Day-ahead demand forecast
+2025-05-17,ERCO,1450839,Demand
+2025-05-17,ERCO,1450776,Demand
+2025-05-17,ERCO,1452414,Demand
+2025-05-17,ERCO,1451373,Demand
+2025-05-17,ERCO,1450839,Demand
+2025-05-18,ERCO,1419175,Demand
+2025-05-18,ERCO,1419442,Demand
+2025-05-18,ERCO,1419286,Demand
+2025-05-18,ERCO,1419297,Demand
+2025-05-18,ERCO,1411576,Day-ahead demand forecast
+2025-05-18,ERCO,1411749,Day-ahead demand forecast
+2025-05-18,ERCO,1411424,Day-ahead demand forecast
+2025-05-18,ERCO,1410721,Day-ahead demand forecast
+2025-05-18,ERCO,1411749,Day-ahead demand forecast
+2025-05-18,ERCO,1419175,Demand
+2025-05-19,ERCO,1467411,Demand
+2025-05-19,ERCO,1467257,Demand
+2025-05-19,ERCO,1467472,Demand
+2025-05-19,ERCO,1466753,Demand
+2025-05-19,ERCO,1467411,Demand
+2025-05-19,ERCO,1467582,Day-ahead demand forecast
+2025-05-19,ERCO,1467063,Day-ahead demand forecast
+2025-05-19,ERCO,1467823,Day-ahead demand forecast
+2025-05-19,ERCO,1467548,Day-ahead demand forecast
+2025-05-19,ERCO,1467548,Day-ahead demand forecast
+2025-05-20,ERCO,1429415,Demand
+2025-05-20,ERCO,1440654,Demand
+2025-05-20,ERCO,1433316,Demand
+2025-05-20,ERCO,1429415,Demand
+2025-05-20,ERCO,1437151,Demand
+2025-05-20,ERCO,1451573,Day-ahead demand forecast
+2025-05-20,ERCO,1452682,Day-ahead demand forecast
+2025-05-20,ERCO,1449142,Day-ahead demand forecast
+2025-05-20,ERCO,1446483,Day-ahead demand forecast
+2025-05-20,ERCO,1446483,Day-ahead demand forecast
+2025-05-21,ERCO,1384017,Day-ahead demand forecast
+2025-05-21,ERCO,1383691,Day-ahead demand forecast
+2025-05-21,ERCO,1385142,Day-ahead demand forecast
+2025-05-21,ERCO,1383680,Day-ahead demand forecast
+2025-05-21,ERCO,1384017,Day-ahead demand forecast
+2025-05-21,ERCO,1386664,Demand
+2025-05-21,ERCO,1384560,Demand
+2025-05-21,ERCO,1380919,Demand
+2025-05-21,ERCO,1382622,Demand
+2025-05-21,ERCO,1386664,Demand
+2025-05-22,ERCO,1478856,Demand
+2025-05-22,ERCO,1430008,Day-ahead demand forecast
+2025-05-22,ERCO,1475989,Demand
+2025-05-22,ERCO,1483819,Demand
+2025-05-22,ERCO,1481572,Demand
+2025-05-22,ERCO,1431873,Day-ahead demand forecast
+2025-05-22,ERCO,1433507,Day-ahead demand forecast
+2025-05-22,ERCO,1427906,Day-ahead demand forecast
+2025-05-22,ERCO,1433507,Day-ahead demand forecast
+2025-05-22,ERCO,1483819,Demand
+2025-05-23,ERCO,1517942,Demand
+2025-05-23,ERCO,1511983,Demand
+2025-05-23,ERCO,1508869,Demand
+2025-05-23,ERCO,1514965,Demand
+2025-05-23,ERCO,1517942,Demand
+2025-05-23,ERCO,1466351,Day-ahead demand forecast
+2025-05-23,ERCO,1456401,Day-ahead demand forecast
+2025-05-23,ERCO,1454379,Day-ahead demand forecast
+2025-05-23,ERCO,1460990,Day-ahead demand forecast
+2025-05-23,ERCO,1466351,Day-ahead demand forecast
+2025-05-24,ERCO,1519272,Demand
+2025-05-24,ERCO,1520807,Demand
+2025-05-24,ERCO,1521799,Demand
+2025-05-24,ERCO,1520147,Demand
+2025-05-24,ERCO,1518614,Day-ahead demand forecast
+2025-05-24,ERCO,1518614,Day-ahead demand forecast
+2025-05-24,ERCO,1518845,Day-ahead demand forecast
+2025-05-24,ERCO,1516404,Day-ahead demand forecast
+2025-05-24,ERCO,1518878,Day-ahead demand forecast
+2025-05-24,ERCO,1519272,Demand
+2025-05-25,ERCO,1514585,Demand
+2025-05-25,ERCO,1512448,Demand
+2025-05-25,ERCO,1511505,Demand
+2025-05-25,ERCO,1513352,Demand
+2025-05-25,ERCO,1520866,Day-ahead demand forecast
+2025-05-25,ERCO,1517998,Day-ahead demand forecast
+2025-05-25,ERCO,1520614,Day-ahead demand forecast
+2025-05-25,ERCO,1519234,Day-ahead demand forecast
+2025-05-25,ERCO,1517998,Day-ahead demand forecast
+2025-05-25,ERCO,1514585,Demand
+2025-05-26,ERCO,1323574,Demand
+2025-05-26,ERCO,1344864,Demand
+2025-05-26,ERCO,1334225,Demand
+2025-05-26,ERCO,1323574,Demand
+2025-05-26,ERCO,1355639,Demand
+2025-05-26,ERCO,1445728,Day-ahead demand forecast
+2025-05-26,ERCO,1450642,Day-ahead demand forecast
+2025-05-26,ERCO,1437815,Day-ahead demand forecast
+2025-05-26,ERCO,1429448,Day-ahead demand forecast
+2025-05-26,ERCO,1429448,Day-ahead demand forecast
+2025-05-27,ERCO,1327263,Day-ahead demand forecast
+2025-05-27,ERCO,1324606,Day-ahead demand forecast
+2025-05-27,ERCO,1324903,Day-ahead demand forecast
+2025-05-27,ERCO,1321997,Day-ahead demand forecast
+2025-05-27,ERCO,1327263,Day-ahead demand forecast
+2025-05-27,ERCO,1353527,Demand
+2025-05-27,ERCO,1349786,Demand
+2025-05-27,ERCO,1342641,Demand
+2025-05-27,ERCO,1346311,Demand
+2025-05-27,ERCO,1353527,Demand
+2025-05-28,ERCO,1320497,Day-ahead demand forecast
+2025-05-28,ERCO,1321647,Day-ahead demand forecast
+2025-05-28,ERCO,1323999,Day-ahead demand forecast
+2025-05-28,ERCO,1323050,Day-ahead demand forecast
+2025-05-28,ERCO,1320497,Day-ahead demand forecast
+2025-05-28,ERCO,1305592,Demand
+2025-05-28,ERCO,1308277,Demand
+2025-05-28,ERCO,1314192,Demand
+2025-05-28,ERCO,1311095,Demand
+2025-05-28,ERCO,1305592,Demand
+2025-05-29,ERCO,1395401,Demand
+2025-05-29,ERCO,1387867,Demand
+2025-05-29,ERCO,1383455,Demand
+2025-05-29,ERCO,1391775,Demand
+2025-05-29,ERCO,1389978,Day-ahead demand forecast
+2025-05-29,ERCO,1400401,Day-ahead demand forecast
+2025-05-29,ERCO,1393527,Day-ahead demand forecast
+2025-05-29,ERCO,1397162,Day-ahead demand forecast
+2025-05-29,ERCO,1400401,Day-ahead demand forecast
+2025-05-29,ERCO,1395401,Demand
+2025-05-30,ERCO,1317120,Demand
+2025-05-30,ERCO,1313614,Demand
+2025-05-30,ERCO,1320531,Demand
+2025-05-30,ERCO,1313614,Demand
+2025-05-30,ERCO,1324818,Demand
+2025-05-30,ERCO,1375276,Day-ahead demand forecast
+2025-05-30,ERCO,1372529,Day-ahead demand forecast
+2025-05-30,ERCO,1376688,Day-ahead demand forecast
+2025-05-30,ERCO,1373769,Day-ahead demand forecast
+2025-05-30,ERCO,1372529,Day-ahead demand forecast
+2025-05-31,ERCO,1344164,Demand
+2025-05-31,ERCO,1339133,Demand
+2025-05-31,ERCO,1336122,Demand
+2025-05-31,ERCO,1341693,Demand
+2025-05-31,ERCO,1344164,Demand
+2025-05-31,ERCO,1343942,Day-ahead demand forecast
+2025-05-31,ERCO,1342945,Day-ahead demand forecast
+2025-05-31,ERCO,1342330,Day-ahead demand forecast
+2025-05-31,ERCO,1343273,Day-ahead demand forecast
+2025-05-31,ERCO,1343942,Day-ahead demand forecast
+2025-06-01,ERCO,1401155,Demand
+2025-06-01,ERCO,1396345,Demand
+2025-06-01,ERCO,1393340,Demand
+2025-06-01,ERCO,1398763,Demand
+2025-06-01,ERCO,1415405,Day-ahead demand forecast
+2025-06-01,ERCO,1415405,Day-ahead demand forecast
+2025-06-01,ERCO,1412758,Day-ahead demand forecast
+2025-06-01,ERCO,1409318,Day-ahead demand forecast
+2025-06-01,ERCO,1414376,Day-ahead demand forecast
+2025-06-01,ERCO,1401155,Demand
+2025-06-02,ERCO,1513039,Demand
+2025-06-02,ERCO,1515859,Demand
+2025-06-02,ERCO,1510121,Demand
+2025-06-02,ERCO,1515859,Demand
+2025-06-02,ERCO,1507284,Demand
+2025-06-02,ERCO,1481248,Day-ahead demand forecast
+2025-06-02,ERCO,1486005,Day-ahead demand forecast
+2025-06-02,ERCO,1490934,Day-ahead demand forecast
+2025-06-02,ERCO,1490934,Day-ahead demand forecast
+2025-06-02,ERCO,1481298,Day-ahead demand forecast
+2025-06-03,ERCO,1532683,Day-ahead demand forecast
+2025-06-03,ERCO,1536221,Day-ahead demand forecast
+2025-06-03,ERCO,1537489,Day-ahead demand forecast
+2025-06-03,ERCO,1539412,Day-ahead demand forecast
+2025-06-03,ERCO,1532683,Day-ahead demand forecast
+2025-06-03,ERCO,1503443,Demand
+2025-06-03,ERCO,1504659,Demand
+2025-06-03,ERCO,1507353,Demand
+2025-06-03,ERCO,1505889,Demand
+2025-06-03,ERCO,1503443,Demand
+2025-06-04,ERCO,1430566,Demand
+2025-06-04,ERCO,1434459,Demand
+2025-06-04,ERCO,1436752,Demand
+2025-06-04,ERCO,1432318,Demand
+2025-06-04,ERCO,1438116,Day-ahead demand forecast
+2025-06-04,ERCO,1436639,Day-ahead demand forecast
+2025-06-04,ERCO,1439841,Day-ahead demand forecast
+2025-06-04,ERCO,1442971,Day-ahead demand forecast
+2025-06-04,ERCO,1430566,Demand
+2025-06-04,ERCO,1436639,Day-ahead demand forecast
+2025-06-05,ERCO,1493155,Demand
+2025-06-05,ERCO,1497131,Demand
+2025-06-05,ERCO,1488771,Demand
+2025-06-05,ERCO,1484415,Demand
+2025-06-05,ERCO,1497131,Demand
+2025-06-05,ERCO,1470605,Day-ahead demand forecast
+2025-06-05,ERCO,1468541,Day-ahead demand forecast
+2025-06-05,ERCO,1473411,Day-ahead demand forecast
+2025-06-05,ERCO,1476073,Day-ahead demand forecast
+2025-06-05,ERCO,1476073,Day-ahead demand forecast
+2025-06-06,ERCO,1560969,Demand
+2025-06-06,ERCO,1558028,Demand
+2025-06-06,ERCO,1556312,Demand
+2025-06-06,ERCO,1559529,Demand
+2025-06-06,ERCO,1560969,Demand
+2025-06-06,ERCO,1531300,Day-ahead demand forecast
+2025-06-06,ERCO,1526015,Day-ahead demand forecast
+2025-06-06,ERCO,1524065,Day-ahead demand forecast
+2025-06-06,ERCO,1528643,Day-ahead demand forecast
+2025-06-06,ERCO,1531300,Day-ahead demand forecast
+2025-06-07,ERCO,1539505,Demand
+2025-06-07,ERCO,1540018,Demand
+2025-06-07,ERCO,1540685,Demand
+2025-06-07,ERCO,1539676,Demand
+2025-06-07,ERCO,1549147,Day-ahead demand forecast
+2025-06-07,ERCO,1549147,Day-ahead demand forecast
+2025-06-07,ERCO,1548275,Day-ahead demand forecast
+2025-06-07,ERCO,1547004,Day-ahead demand forecast
+2025-06-07,ERCO,1548782,Day-ahead demand forecast
+2025-06-07,ERCO,1539505,Demand
+2025-06-08,ERCO,1537993,Demand
+2025-06-08,ERCO,1542814,Demand
+2025-06-08,ERCO,1544135,Demand
+2025-06-08,ERCO,1540487,Demand
+2025-06-08,ERCO,1560333,Day-ahead demand forecast
+2025-06-08,ERCO,1555970,Day-ahead demand forecast
+2025-06-08,ERCO,1559708,Day-ahead demand forecast
+2025-06-08,ERCO,1558042,Day-ahead demand forecast
+2025-06-08,ERCO,1555970,Day-ahead demand forecast
+2025-06-08,ERCO,1537993,Demand
+2025-06-09,ERCO,1511311,Demand
+2025-06-09,ERCO,1512008,Demand
+2025-06-09,ERCO,1512714,Demand
+2025-06-09,ERCO,1511662,Demand
+2025-06-09,ERCO,1511311,Demand
+2025-06-09,ERCO,1525784,Day-ahead demand forecast
+2025-06-09,ERCO,1530925,Day-ahead demand forecast
+2025-06-09,ERCO,1533020,Day-ahead demand forecast
+2025-06-09,ERCO,1528066,Day-ahead demand forecast
+2025-06-09,ERCO,1525784,Day-ahead demand forecast
+2025-06-10,ERCO,1442103,Demand
+2025-06-10,ERCO,1446184,Demand
+2025-06-10,ERCO,1449338,Demand
+2025-06-10,ERCO,1443952,Demand
+2025-06-10,ERCO,1457188,Day-ahead demand forecast
+2025-06-10,ERCO,1457188,Day-ahead demand forecast
+2025-06-10,ERCO,1460120,Day-ahead demand forecast
+2025-06-10,ERCO,1462240,Day-ahead demand forecast
+2025-06-10,ERCO,1458617,Day-ahead demand forecast
+2025-06-10,ERCO,1442103,Demand
+2025-06-11,ERCO,1352134,Demand
+2025-06-11,ERCO,1344413,Demand
+2025-06-11,ERCO,1349409,Demand
+2025-06-11,ERCO,1346569,Demand
+2025-06-11,ERCO,1344413,Demand
+2025-06-11,ERCO,1341231,Day-ahead demand forecast
+2025-06-11,ERCO,1346205,Day-ahead demand forecast
+2025-06-11,ERCO,1350560,Day-ahead demand forecast
+2025-06-11,ERCO,1343459,Day-ahead demand forecast
+2025-06-11,ERCO,1341231,Day-ahead demand forecast
+2025-06-12,ERCO,1324651,Demand
+2025-06-12,ERCO,1326795,Demand
+2025-06-12,ERCO,1327811,Demand
+2025-06-12,ERCO,1325873,Demand
+2025-06-12,ERCO,1324651,Demand
+2025-06-12,ERCO,1357282,Day-ahead demand forecast
+2025-06-12,ERCO,1353887,Day-ahead demand forecast
+2025-06-12,ERCO,1352262,Day-ahead demand forecast
+2025-06-12,ERCO,1355577,Day-ahead demand forecast
+2025-06-12,ERCO,1357282,Day-ahead demand forecast
+2025-06-13,ERCO,1478109,Demand
+2025-06-13,ERCO,1466280,Demand
+2025-06-13,ERCO,1459368,Demand
+2025-06-13,ERCO,1472638,Demand
+2025-06-13,ERCO,1452247,Day-ahead demand forecast
+2025-06-13,ERCO,1452247,Day-ahead demand forecast
+2025-06-13,ERCO,1445774,Day-ahead demand forecast
+2025-06-13,ERCO,1441764,Day-ahead demand forecast
+2025-06-13,ERCO,1449174,Day-ahead demand forecast
+2025-06-13,ERCO,1478109,Demand
+2025-06-14,ERCO,1493849,Demand
+2025-06-14,ERCO,1497221,Demand
+2025-06-14,ERCO,1494536,Demand
+2025-06-14,ERCO,1495580,Demand
+2025-06-14,ERCO,1453148,Day-ahead demand forecast
+2025-06-14,ERCO,1453148,Day-ahead demand forecast
+2025-06-14,ERCO,1450485,Day-ahead demand forecast
+2025-06-14,ERCO,1450040,Day-ahead demand forecast
+2025-06-14,ERCO,1451775,Day-ahead demand forecast
+2025-06-14,ERCO,1497221,Demand
+2025-06-15,ERCO,1392704,Demand
+2025-06-15,ERCO,1407728,Demand
+2025-06-15,ERCO,1415636,Demand
+2025-06-15,ERCO,1400087,Demand
+2025-06-15,ERCO,1392704,Demand
+2025-06-15,ERCO,1446032,Day-ahead demand forecast
+2025-06-15,ERCO,1453370,Day-ahead demand forecast
+2025-06-15,ERCO,1454488,Day-ahead demand forecast
+2025-06-15,ERCO,1449747,Day-ahead demand forecast
+2025-06-15,ERCO,1446032,Day-ahead demand forecast
+2025-06-16,ERCO,1493099,Demand
+2025-06-16,ERCO,1479755,Demand
+2025-06-16,ERCO,1471507,Demand
+2025-06-16,ERCO,1486841,Demand
+2025-06-16,ERCO,1479813,Day-ahead demand forecast
+2025-06-16,ERCO,1479813,Day-ahead demand forecast
+2025-06-16,ERCO,1473255,Day-ahead demand forecast
+2025-06-16,ERCO,1471411,Day-ahead demand forecast
+2025-06-16,ERCO,1476547,Day-ahead demand forecast
+2025-06-16,ERCO,1493099,Demand
+2025-06-17,ERCO,1554738,Demand
+2025-06-17,ERCO,1561290,Demand
+2025-06-17,ERCO,1556901,Demand
+2025-06-17,ERCO,1559109,Demand
+2025-06-17,ERCO,1556390,Day-ahead demand forecast
+2025-06-17,ERCO,1556390,Day-ahead demand forecast
+2025-06-17,ERCO,1548650,Day-ahead demand forecast
+2025-06-17,ERCO,1545988,Day-ahead demand forecast
+2025-06-17,ERCO,1552603,Day-ahead demand forecast
+2025-06-17,ERCO,1561290,Demand
+2025-06-18,ERCO,1578528,Demand
+2025-06-18,ERCO,1577424,Demand
+2025-06-18,ERCO,1577291,Demand
+2025-06-18,ERCO,1577849,Demand
+2025-06-18,ERCO,1578528,Demand
+2025-06-18,ERCO,1611697,Day-ahead demand forecast
+2025-06-18,ERCO,1609756,Day-ahead demand forecast
+2025-06-18,ERCO,1611277,Day-ahead demand forecast
+2025-06-18,ERCO,1610772,Day-ahead demand forecast
+2025-06-18,ERCO,1610772,Day-ahead demand forecast
+2025-06-19,ERCO,1597362,Demand
+2025-06-19,ERCO,1594402,Demand
+2025-06-19,ERCO,1593021,Demand
+2025-06-19,ERCO,1595874,Demand
+2025-06-19,ERCO,1605384,Day-ahead demand forecast
+2025-06-19,ERCO,1600657,Day-ahead demand forecast
+2025-06-19,ERCO,1605864,Day-ahead demand forecast
+2025-06-19,ERCO,1603081,Day-ahead demand forecast
+2025-06-19,ERCO,1600657,Day-ahead demand forecast
+2025-06-19,ERCO,1597362,Demand
+2025-06-20,ERCO,1609234,Demand
+2025-06-20,ERCO,1609959,Demand
+2025-06-20,ERCO,1610371,Demand
+2025-06-20,ERCO,1609670,Demand
+2025-06-20,ERCO,1609234,Demand
+2025-06-20,ERCO,1549688,Day-ahead demand forecast
+2025-06-20,ERCO,1545665,Day-ahead demand forecast
+2025-06-20,ERCO,1547937,Day-ahead demand forecast
+2025-06-20,ERCO,1547775,Day-ahead demand forecast
+2025-06-20,ERCO,1549688,Day-ahead demand forecast
+2025-06-21,ERCO,1548247,Demand
+2025-06-21,ERCO,1552217,Demand
+2025-06-21,ERCO,1554754,Demand
+2025-06-21,ERCO,1550019,Demand
+2025-06-21,ERCO,1559492,Day-ahead demand forecast
+2025-06-21,ERCO,1559492,Day-ahead demand forecast
+2025-06-21,ERCO,1560431,Day-ahead demand forecast
+2025-06-21,ERCO,1559706,Day-ahead demand forecast
+2025-06-21,ERCO,1559760,Day-ahead demand forecast
+2025-06-21,ERCO,1548247,Demand
+2025-06-22,ERCO,1538862,Demand
+2025-06-22,ERCO,1537877,Demand
+2025-06-22,ERCO,1538952,Demand
+2025-06-22,ERCO,1538500,Demand
+2025-06-22,ERCO,1537877,Demand
+2025-06-22,ERCO,1543816,Day-ahead demand forecast
+2025-06-22,ERCO,1546624,Day-ahead demand forecast
+2025-06-22,ERCO,1547176,Day-ahead demand forecast
+2025-06-22,ERCO,1545350,Day-ahead demand forecast
+2025-06-22,ERCO,1543816,Day-ahead demand forecast
+2025-06-23,ERCO,1584468,Demand
+2025-06-23,ERCO,1584631,Demand
+2025-06-23,ERCO,1583960,Demand
+2025-06-23,ERCO,1584977,Demand
+2025-06-23,ERCO,1584468,Demand
+2025-06-23,ERCO,1563515,Day-ahead demand forecast
+2025-06-23,ERCO,1562681,Day-ahead demand forecast
+2025-06-23,ERCO,1563015,Day-ahead demand forecast
+2025-06-23,ERCO,1563184,Day-ahead demand forecast
+2025-06-23,ERCO,1563515,Day-ahead demand forecast
+2025-06-24,ERCO,1557320,Demand
+2025-06-24,ERCO,1559157,Demand
+2025-06-24,ERCO,1560533,Demand
+2025-06-24,ERCO,1557992,Demand
+2025-06-24,ERCO,1570250,Day-ahead demand forecast
+2025-06-24,ERCO,1570250,Day-ahead demand forecast
+2025-06-24,ERCO,1572033,Day-ahead demand forecast
+2025-06-24,ERCO,1571894,Day-ahead demand forecast
+2025-06-24,ERCO,1571159,Day-ahead demand forecast
+2025-06-24,ERCO,1557320,Demand
+2025-06-25,ERCO,1505548,Demand
+2025-06-25,ERCO,1498039,Demand
+2025-06-25,ERCO,1502732,Demand
+2025-06-25,ERCO,1500215,Demand
+2025-06-25,ERCO,1516127,Day-ahead demand forecast
+2025-06-25,ERCO,1516127,Day-ahead demand forecast
+2025-06-25,ERCO,1515253,Day-ahead demand forecast
+2025-06-25,ERCO,1517626,Day-ahead demand forecast
+2025-06-25,ERCO,1515467,Day-ahead demand forecast
+2025-06-25,ERCO,1498039,Demand
+2025-06-26,ERCO,1516407,Demand
+2025-06-26,ERCO,1513894,Demand
+2025-06-26,ERCO,1512432,Demand
+2025-06-26,ERCO,1515274,Demand
+2025-06-26,ERCO,1516407,Demand
+2025-06-26,ERCO,1543797,Day-ahead demand forecast
+2025-06-26,ERCO,1546185,Day-ahead demand forecast
+2025-06-26,ERCO,1543757,Day-ahead demand forecast
+2025-06-26,ERCO,1545133,Day-ahead demand forecast
+2025-06-26,ERCO,1543797,Day-ahead demand forecast
+2025-06-27,ERCO,1541160,Demand
+2025-06-27,ERCO,1536061,Demand
+2025-06-27,ERCO,1533673,Demand
+2025-06-27,ERCO,1538646,Demand
+2025-06-27,ERCO,1556946,Day-ahead demand forecast
+2025-06-27,ERCO,1556946,Day-ahead demand forecast
+2025-06-27,ERCO,1552465,Day-ahead demand forecast
+2025-06-27,ERCO,1551495,Day-ahead demand forecast
+2025-06-27,ERCO,1554625,Day-ahead demand forecast
+2025-06-27,ERCO,1541160,Demand
+2025-06-28,ERCO,1550370,Demand
+2025-06-28,ERCO,1551228,Demand
+2025-06-28,ERCO,1550787,Demand
+2025-06-28,ERCO,1550970,Demand
+2025-06-28,ERCO,1551796,Day-ahead demand forecast
+2025-06-28,ERCO,1551796,Day-ahead demand forecast
+2025-06-28,ERCO,1549229,Day-ahead demand forecast
+2025-06-28,ERCO,1549700,Day-ahead demand forecast
+2025-06-28,ERCO,1550492,Day-ahead demand forecast
+2025-06-28,ERCO,1551228,Demand
+2025-06-29,ERCO,1510724,Demand
+2025-06-29,ERCO,1515245,Demand
+2025-06-29,ERCO,1517724,Demand
+2025-06-29,ERCO,1512755,Demand
+2025-06-29,ERCO,1510724,Demand
+2025-06-29,ERCO,1544787,Day-ahead demand forecast
+2025-06-29,ERCO,1544625,Day-ahead demand forecast
+2025-06-29,ERCO,1541156,Day-ahead demand forecast
+2025-06-29,ERCO,1537469,Day-ahead demand forecast
+2025-06-29,ERCO,1537469,Day-ahead demand forecast
+2025-06-30,ERCO,1518885,Demand
+2025-06-30,ERCO,1523849,Demand
+2025-06-30,ERCO,1526455,Demand
+2025-06-30,ERCO,1518885,Demand
+2025-06-30,ERCO,1521382,Demand
+2025-06-30,ERCO,1560932,Day-ahead demand forecast
+2025-06-30,ERCO,1561713,Day-ahead demand forecast
+2025-06-30,ERCO,1561228,Day-ahead demand forecast
+2025-06-30,ERCO,1561523,Day-ahead demand forecast
+2025-06-30,ERCO,1561523,Day-ahead demand forecast
+2025-07-01,ERCO,1492168,Demand
+2025-07-01,ERCO,1487581,Demand
+2025-07-01,ERCO,1485853,Demand
+2025-07-01,ERCO,1489787,Demand
+2025-07-01,ERCO,1492168,Demand
+2025-07-01,ERCO,1536228,Day-ahead demand forecast
+2025-07-01,ERCO,1538514,Day-ahead demand forecast
+2025-07-01,ERCO,1538882,Day-ahead demand forecast
+2025-07-01,ERCO,1537391,Day-ahead demand forecast
+2025-07-01,ERCO,1536228,Day-ahead demand forecast
+2025-07-02,ERCO,1513665,Demand
+2025-07-02,ERCO,1514389,Demand
+2025-07-02,ERCO,1514496,Demand
+2025-07-02,ERCO,1514089,Demand
+2025-07-02,ERCO,1508010,Day-ahead demand forecast
+2025-07-02,ERCO,1508010,Day-ahead demand forecast
+2025-07-02,ERCO,1508864,Day-ahead demand forecast
+2025-07-02,ERCO,1510496,Day-ahead demand forecast
+2025-07-02,ERCO,1508249,Day-ahead demand forecast
+2025-07-02,ERCO,1513665,Demand
+2025-07-03,ERCO,1443705,Demand
+2025-07-03,ERCO,1436638,Demand
+2025-07-03,ERCO,1440660,Demand
+2025-07-03,ERCO,1438371,Demand
+2025-07-03,ERCO,1436638,Demand
+2025-07-03,ERCO,1486112,Day-ahead demand forecast
+2025-07-03,ERCO,1484958,Day-ahead demand forecast
+2025-07-03,ERCO,1485488,Day-ahead demand forecast
+2025-07-03,ERCO,1485298,Day-ahead demand forecast
+2025-07-03,ERCO,1486112,Day-ahead demand forecast
+2025-07-04,ERCO,1393075,Demand
+2025-07-04,ERCO,1393586,Demand
+2025-07-04,ERCO,1394139,Demand
+2025-07-04,ERCO,1393345,Demand
+2025-07-04,ERCO,1393075,Demand
+2025-07-04,ERCO,1427947,Day-ahead demand forecast
+2025-07-04,ERCO,1433616,Day-ahead demand forecast
+2025-07-04,ERCO,1434530,Day-ahead demand forecast
+2025-07-04,ERCO,1430961,Day-ahead demand forecast
+2025-07-04,ERCO,1427947,Day-ahead demand forecast
+2025-07-05,ERCO,1378682,Demand
+2025-07-05,ERCO,1379986,Demand
+2025-07-05,ERCO,1379857,Demand
+2025-07-05,ERCO,1379539,Demand
+2025-07-05,ERCO,1383312,Day-ahead demand forecast
+2025-07-05,ERCO,1383312,Day-ahead demand forecast
+2025-07-05,ERCO,1382604,Day-ahead demand forecast
+2025-07-05,ERCO,1384081,Day-ahead demand forecast
+2025-07-05,ERCO,1382912,Day-ahead demand forecast
+2025-07-05,ERCO,1378682,Demand
+2025-07-06,ERCO,1409726,Demand
+2025-07-06,ERCO,1406387,Demand
+2025-07-06,ERCO,1407855,Demand
+2025-07-06,ERCO,1408839,Demand
+2025-07-06,ERCO,1431920,Day-ahead demand forecast
+2025-07-06,ERCO,1432085,Day-ahead demand forecast
+2025-07-06,ERCO,1431635,Day-ahead demand forecast
+2025-07-06,ERCO,1429609,Day-ahead demand forecast
+2025-07-06,ERCO,1432085,Day-ahead demand forecast
+2025-07-06,ERCO,1409726,Demand
+2025-07-07,ERCO,1505984,Demand
+2025-07-07,ERCO,1502122,Demand
+2025-07-07,ERCO,1499691,Demand
+2025-07-07,ERCO,1504186,Demand
+2025-07-07,ERCO,1505984,Demand
+2025-07-07,ERCO,1468369,Day-ahead demand forecast
+2025-07-07,ERCO,1465964,Day-ahead demand forecast
+2025-07-07,ERCO,1466712,Day-ahead demand forecast
+2025-07-07,ERCO,1467269,Day-ahead demand forecast
+2025-07-07,ERCO,1468369,Day-ahead demand forecast
+2025-07-08,ERCO,1484849,Demand
+2025-07-08,ERCO,1491609,Demand
+2025-07-08,ERCO,1495487,Demand
+2025-07-08,ERCO,1488008,Demand
+2025-07-08,ERCO,1480807,Day-ahead demand forecast
+2025-07-08,ERCO,1480807,Day-ahead demand forecast
+2025-07-08,ERCO,1478458,Day-ahead demand forecast
+2025-07-08,ERCO,1478208,Day-ahead demand forecast
+2025-07-08,ERCO,1479549,Day-ahead demand forecast
+2025-07-08,ERCO,1484849,Demand
+2025-07-09,ERCO,1471587,Demand
+2025-07-09,ERCO,1467582,Demand
+2025-07-09,ERCO,1469181,Demand
+2025-07-09,ERCO,1470517,Demand
+2025-07-09,ERCO,1513189,Day-ahead demand forecast
+2025-07-09,ERCO,1513064,Day-ahead demand forecast
+2025-07-09,ERCO,1513260,Day-ahead demand forecast
+2025-07-09,ERCO,1510987,Day-ahead demand forecast
+2025-07-09,ERCO,1513064,Day-ahead demand forecast
+2025-07-09,ERCO,1471587,Demand
+2025-07-10,ERCO,1534587,Demand
+2025-07-10,ERCO,1523856,Demand
+2025-07-10,ERCO,1518228,Demand
+2025-07-10,ERCO,1534587,Demand
+2025-07-10,ERCO,1529416,Demand
+2025-07-10,ERCO,1544721,Day-ahead demand forecast
+2025-07-10,ERCO,1542044,Day-ahead demand forecast
+2025-07-10,ERCO,1546665,Day-ahead demand forecast
+2025-07-10,ERCO,1548341,Day-ahead demand forecast
+2025-07-10,ERCO,1548341,Day-ahead demand forecast
+2025-07-11,ERCO,1559008,Day-ahead demand forecast
+2025-07-11,ERCO,1557987,Day-ahead demand forecast
+2025-07-11,ERCO,1560961,Demand
+2025-07-11,ERCO,1560949,Demand
+2025-07-11,ERCO,1562224,Demand
+2025-07-11,ERCO,1561463,Demand
+2025-07-11,ERCO,1560961,Demand

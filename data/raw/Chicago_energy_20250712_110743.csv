@@ -1,0 +1,902 @@
+date,region_code,energy_consumption_mwh,data_type
+2025-04-13,PJM,1867632,Day-ahead demand forecast
+2025-04-13,PJM,1886871,Demand
+2025-04-13,PJM,1892240,Demand
+2025-04-13,PJM,1895585,Demand
+2025-04-13,PJM,1889490,Demand
+2025-04-13,PJM,1870865,Day-ahead demand forecast
+2025-04-13,PJM,1867632,Day-ahead demand forecast
+2025-04-13,PJM,1874616,Day-ahead demand forecast
+2025-04-13,PJM,1878679,Day-ahead demand forecast
+2025-04-13,PJM,1886871,Demand
+2025-04-14,PJM,1973686,Demand
+2025-04-14,PJM,1976451,Demand
+2025-04-14,PJM,1977394,Demand
+2025-04-14,PJM,1975338,Demand
+2025-04-14,PJM,1973686,Demand
+2025-04-14,PJM,1955837,Day-ahead demand forecast
+2025-04-14,PJM,1959353,Day-ahead demand forecast
+2025-04-14,PJM,1960218,Day-ahead demand forecast
+2025-04-14,PJM,1957894,Day-ahead demand forecast
+2025-04-14,PJM,1955837,Day-ahead demand forecast
+2025-04-15,PJM,1979987,Demand
+2025-04-15,PJM,1971985,Demand
+2025-04-15,PJM,1969038,Demand
+2025-04-15,PJM,1975621,Demand
+2025-04-15,PJM,1970910,Day-ahead demand forecast
+2025-04-15,PJM,1970910,Day-ahead demand forecast
+2025-04-15,PJM,1963156,Day-ahead demand forecast
+2025-04-15,PJM,1960075,Day-ahead demand forecast
+2025-04-15,PJM,1966802,Day-ahead demand forecast
+2025-04-15,PJM,1979987,Demand
+2025-04-16,PJM,2013551,Demand
+2025-04-16,PJM,2017088,Demand
+2025-04-16,PJM,2015251,Demand
+2025-04-16,PJM,2016102,Demand
+2025-04-16,PJM,2017088,Demand
+2025-04-16,PJM,2012480,Day-ahead demand forecast
+2025-04-16,PJM,2006471,Day-ahead demand forecast
+2025-04-16,PJM,2004033,Day-ahead demand forecast
+2025-04-16,PJM,2009322,Day-ahead demand forecast
+2025-04-16,PJM,2012480,Day-ahead demand forecast
+2025-04-17,PJM,1976909,Demand
+2025-04-17,PJM,1984899,Demand
+2025-04-17,PJM,1988774,Demand
+2025-04-17,PJM,1981075,Demand
+2025-04-17,PJM,1976909,Demand
+2025-04-17,PJM,1986458,Day-ahead demand forecast
+2025-04-17,PJM,1994348,Day-ahead demand forecast
+2025-04-17,PJM,1997485,Day-ahead demand forecast
+2025-04-17,PJM,1990560,Day-ahead demand forecast
+2025-04-17,PJM,1986458,Day-ahead demand forecast
+2025-04-18,PJM,1900789,Demand
+2025-04-18,PJM,1907138,Demand
+2025-04-18,PJM,1908963,Demand
+2025-04-18,PJM,1904267,Demand
+2025-04-18,PJM,1924555,Day-ahead demand forecast
+2025-04-18,PJM,1924555,Day-ahead demand forecast
+2025-04-18,PJM,1934593,Day-ahead demand forecast
+2025-04-18,PJM,1938153,Day-ahead demand forecast
+2025-04-18,PJM,1930060,Day-ahead demand forecast
+2025-04-18,PJM,1900789,Demand
+2025-04-19,PJM,1860314,Demand
+2025-04-19,PJM,1859100,Demand
+2025-04-19,PJM,1860381,Demand
+2025-04-19,PJM,1859942,Demand
+2025-04-19,PJM,1866504,Day-ahead demand forecast
+2025-04-19,PJM,1866504,Day-ahead demand forecast
+2025-04-19,PJM,1866987,Day-ahead demand forecast
+2025-04-19,PJM,1866940,Day-ahead demand forecast
+2025-04-19,PJM,1866933,Day-ahead demand forecast
+2025-04-19,PJM,1859100,Demand
+2025-04-20,PJM,1778229,Demand
+2025-04-20,PJM,1781497,Demand
+2025-04-20,PJM,1784171,Demand
+2025-04-20,PJM,1779675,Demand
+2025-04-20,PJM,1778229,Demand
+2025-04-20,PJM,1806551,Day-ahead demand forecast
+2025-04-20,PJM,1806429,Day-ahead demand forecast
+2025-04-20,PJM,1807591,Day-ahead demand forecast
+2025-04-20,PJM,1806017,Day-ahead demand forecast
+2025-04-20,PJM,1806551,Day-ahead demand forecast
+2025-04-21,PJM,1954729,Demand
+2025-04-21,PJM,1947254,Demand
+2025-04-21,PJM,1944658,Demand
+2025-04-21,PJM,1951008,Demand
+2025-04-21,PJM,1942467,Day-ahead demand forecast
+2025-04-21,PJM,1942467,Day-ahead demand forecast
+2025-04-21,PJM,1940266,Day-ahead demand forecast
+2025-04-21,PJM,1938994,Day-ahead demand forecast
+2025-04-21,PJM,1941446,Day-ahead demand forecast
+2025-04-21,PJM,1954729,Demand
+2025-04-22,PJM,1972644,Demand
+2025-04-22,PJM,1972440,Demand
+2025-04-22,PJM,1973312,Demand
+2025-04-22,PJM,1973015,Demand
+2025-04-22,PJM,1962527,Day-ahead demand forecast
+2025-04-22,PJM,1962527,Day-ahead demand forecast
+2025-04-22,PJM,1961323,Day-ahead demand forecast
+2025-04-22,PJM,1960511,Day-ahead demand forecast
+2025-04-22,PJM,1962018,Day-ahead demand forecast
+2025-04-22,PJM,1972440,Demand
+2025-04-23,PJM,1965444,Demand
+2025-04-23,PJM,1966137,Demand
+2025-04-23,PJM,1966554,Demand
+2025-04-23,PJM,1965657,Demand
+2025-04-23,PJM,1965444,Demand
+2025-04-23,PJM,1941994,Day-ahead demand forecast
+2025-04-23,PJM,1942673,Day-ahead demand forecast
+2025-04-23,PJM,1941311,Day-ahead demand forecast
+2025-04-23,PJM,1940555,Day-ahead demand forecast
+2025-04-23,PJM,1940555,Day-ahead demand forecast
+2025-04-24,PJM,1989232,Demand
+2025-04-24,PJM,1991453,Demand
+2025-04-24,PJM,1990303,Demand
+2025-04-24,PJM,1990828,Demand
+2025-04-24,PJM,1991453,Demand
+2025-04-24,PJM,1962343,Day-ahead demand forecast
+2025-04-24,PJM,1961826,Day-ahead demand forecast
+2025-04-24,PJM,1961297,Day-ahead demand forecast
+2025-04-24,PJM,1962128,Day-ahead demand forecast
+2025-04-24,PJM,1962343,Day-ahead demand forecast
+2025-04-25,PJM,1973234,Demand
+2025-04-25,PJM,1971502,Demand
+2025-04-25,PJM,1971678,Demand
+2025-04-25,PJM,1972530,Demand
+2025-04-25,PJM,1973234,Demand
+2025-04-25,PJM,1921461,Day-ahead demand forecast
+2025-04-25,PJM,1925491,Day-ahead demand forecast
+2025-04-25,PJM,1927140,Day-ahead demand forecast
+2025-04-25,PJM,1923637,Day-ahead demand forecast
+2025-04-25,PJM,1921461,Day-ahead demand forecast
+2025-04-26,PJM,1844781,Demand
+2025-04-26,PJM,1852432,Demand
+2025-04-26,PJM,1855708,Demand
+2025-04-26,PJM,1848212,Demand
+2025-04-26,PJM,1775810,Day-ahead demand forecast
+2025-04-26,PJM,1775810,Day-ahead demand forecast
+2025-04-26,PJM,1776214,Day-ahead demand forecast
+2025-04-26,PJM,1777237,Day-ahead demand forecast
+2025-04-26,PJM,1775633,Day-ahead demand forecast
+2025-04-26,PJM,1844781,Demand
+2025-04-27,PJM,1742725,Demand
+2025-04-27,PJM,1744074,Demand
+2025-04-27,PJM,1742405,Demand
+2025-04-27,PJM,1743036,Demand
+2025-04-27,PJM,1733784,Day-ahead demand forecast
+2025-04-27,PJM,1733784,Day-ahead demand forecast
+2025-04-27,PJM,1732940,Day-ahead demand forecast
+2025-04-27,PJM,1733437,Day-ahead demand forecast
+2025-04-27,PJM,1733200,Day-ahead demand forecast
+2025-04-27,PJM,1744074,Demand
+2025-04-28,PJM,1953655,Demand
+2025-04-28,PJM,1947033,Demand
+2025-04-28,PJM,1942538,Demand
+2025-04-28,PJM,1950917,Demand
+2025-04-28,PJM,1953655,Demand
+2025-04-28,PJM,1893306,Day-ahead demand forecast
+2025-04-28,PJM,1890624,Day-ahead demand forecast
+2025-04-28,PJM,1895237,Day-ahead demand forecast
+2025-04-28,PJM,1896575,Day-ahead demand forecast
+2025-04-28,PJM,1896575,Day-ahead demand forecast
+2025-04-29,PJM,2025507,Demand
+2025-04-29,PJM,2024656,Demand
+2025-04-29,PJM,2023761,Demand
+2025-04-29,PJM,2026336,Demand
+2025-04-29,PJM,2026336,Demand
+2025-04-29,PJM,2015604,Day-ahead demand forecast
+2025-04-29,PJM,2019800,Day-ahead demand forecast
+2025-04-29,PJM,2019800,Day-ahead demand forecast
+2025-04-29,PJM,2013028,Day-ahead demand forecast
+2025-04-29,PJM,2017852,Day-ahead demand forecast
+2025-04-30,PJM,2018784,Day-ahead demand forecast
+2025-04-30,PJM,2019341,Day-ahead demand forecast
+2025-04-30,PJM,2020307,Day-ahead demand forecast
+2025-04-30,PJM,2019885,Day-ahead demand forecast
+2025-04-30,PJM,2018784,Day-ahead demand forecast
+2025-04-30,PJM,2036819,Demand
+2025-04-30,PJM,2037675,Demand
+2025-04-30,PJM,2038838,Demand
+2025-04-30,PJM,2038446,Demand
+2025-04-30,PJM,2036819,Demand
+2025-05-01,PJM,2060594,Demand
+2025-05-01,PJM,2056216,Demand
+2025-05-01,PJM,2054526,Demand
+2025-05-01,PJM,2058037,Demand
+2025-05-01,PJM,2025196,Day-ahead demand forecast
+2025-05-01,PJM,2025678,Day-ahead demand forecast
+2025-05-01,PJM,2024725,Day-ahead demand forecast
+2025-05-01,PJM,2024215,Day-ahead demand forecast
+2025-05-01,PJM,2060594,Demand
+2025-05-01,PJM,2025678,Day-ahead demand forecast
+2025-05-02,PJM,2094342,Demand
+2025-05-02,PJM,2092208,Demand
+2025-05-02,PJM,2096226,Demand
+2025-05-02,PJM,2096756,Demand
+2025-05-02,PJM,2075805,Day-ahead demand forecast
+2025-05-02,PJM,2075323,Day-ahead demand forecast
+2025-05-02,PJM,2074432,Day-ahead demand forecast
+2025-05-02,PJM,2075840,Day-ahead demand forecast
+2025-05-02,PJM,2075805,Day-ahead demand forecast
+2025-05-02,PJM,2092208,Demand
+2025-05-03,PJM,1954386,Demand
+2025-05-03,PJM,1955815,Demand
+2025-05-03,PJM,1955158,Demand
+2025-05-03,PJM,1955557,Demand
+2025-05-03,PJM,1955557,Demand
+2025-05-03,PJM,1945086,Day-ahead demand forecast
+2025-05-03,PJM,1947739,Day-ahead demand forecast
+2025-05-03,PJM,1942690,Day-ahead demand forecast
+2025-05-03,PJM,1940512,Day-ahead demand forecast
+2025-05-03,PJM,1940512,Day-ahead demand forecast
+2025-05-04,PJM,1883414,Demand
+2025-05-04,PJM,1885536,Demand
+2025-05-04,PJM,1886444,Demand
+2025-05-04,PJM,1884337,Demand
+2025-05-04,PJM,1821646,Day-ahead demand forecast
+2025-05-04,PJM,1822796,Day-ahead demand forecast
+2025-05-04,PJM,1824554,Day-ahead demand forecast
+2025-05-04,PJM,1821777,Day-ahead demand forecast
+2025-05-04,PJM,1821646,Day-ahead demand forecast
+2025-05-04,PJM,1883414,Demand
+2025-05-05,PJM,2005714,Demand
+2025-05-05,PJM,2002800,Demand
+2025-05-05,PJM,2004900,Demand
+2025-05-05,PJM,2003962,Demand
+2025-05-05,PJM,2005714,Demand
+2025-05-05,PJM,1947785,Day-ahead demand forecast
+2025-05-05,PJM,1946936,Day-ahead demand forecast
+2025-05-05,PJM,1948510,Day-ahead demand forecast
+2025-05-05,PJM,1949067,Day-ahead demand forecast
+2025-05-05,PJM,1949067,Day-ahead demand forecast
+2025-05-06,PJM,1984170,Demand
+2025-05-06,PJM,1986496,Demand
+2025-05-06,PJM,1987501,Demand
+2025-05-06,PJM,1985448,Demand
+2025-05-06,PJM,1947582,Day-ahead demand forecast
+2025-05-06,PJM,1948392,Day-ahead demand forecast
+2025-05-06,PJM,1948739,Day-ahead demand forecast
+2025-05-06,PJM,1948018,Day-ahead demand forecast
+2025-05-06,PJM,1947582,Day-ahead demand forecast
+2025-05-06,PJM,1984170,Demand
+2025-05-07,PJM,1985330,Demand
+2025-05-07,PJM,1984386,Demand
+2025-05-07,PJM,1983142,Demand
+2025-05-07,PJM,1986506,Demand
+2025-05-07,PJM,1986506,Demand
+2025-05-07,PJM,1948924,Day-ahead demand forecast
+2025-05-07,PJM,1948639,Day-ahead demand forecast
+2025-05-07,PJM,1949048,Day-ahead demand forecast
+2025-05-07,PJM,1948990,Day-ahead demand forecast
+2025-05-07,PJM,1948990,Day-ahead demand forecast
+2025-05-08,PJM,2025767,Demand
+2025-05-08,PJM,2023980,Demand
+2025-05-08,PJM,2022863,Demand
+2025-05-08,PJM,2024624,Demand
+2025-05-08,PJM,2025767,Demand
+2025-05-08,PJM,1956635,Day-ahead demand forecast
+2025-05-08,PJM,1954574,Day-ahead demand forecast
+2025-05-08,PJM,1953599,Day-ahead demand forecast
+2025-05-08,PJM,1955589,Day-ahead demand forecast
+2025-05-08,PJM,1956635,Day-ahead demand forecast
+2025-05-09,PJM,1923250,Demand
+2025-05-09,PJM,1933454,Demand
+2025-05-09,PJM,1939256,Demand
+2025-05-09,PJM,1928628,Demand
+2025-05-09,PJM,1892760,Day-ahead demand forecast
+2025-05-09,PJM,1892760,Day-ahead demand forecast
+2025-05-09,PJM,1896406,Day-ahead demand forecast
+2025-05-09,PJM,1898400,Day-ahead demand forecast
+2025-05-09,PJM,1894513,Day-ahead demand forecast
+2025-05-09,PJM,1923250,Demand
+2025-05-10,PJM,1778181,Demand
+2025-05-10,PJM,1780405,Demand
+2025-05-10,PJM,1782480,Demand
+2025-05-10,PJM,1775888,Demand
+2025-05-10,PJM,1775888,Demand
+2025-05-10,PJM,1749049,Day-ahead demand forecast
+2025-05-10,PJM,1742207,Day-ahead demand forecast
+2025-05-10,PJM,1742207,Day-ahead demand forecast
+2025-05-10,PJM,1752353,Day-ahead demand forecast
+2025-05-10,PJM,1745728,Day-ahead demand forecast
+2025-05-11,PJM,1757057,Day-ahead demand forecast
+2025-05-11,PJM,1754926,Day-ahead demand forecast
+2025-05-11,PJM,1751254,Day-ahead demand forecast
+2025-05-11,PJM,1753029,Day-ahead demand forecast
+2025-05-11,PJM,1757057,Day-ahead demand forecast
+2025-05-11,PJM,1820740,Demand
+2025-05-11,PJM,1816779,Demand
+2025-05-11,PJM,1808585,Demand
+2025-05-11,PJM,1812765,Demand
+2025-05-11,PJM,1820740,Demand
+2025-05-12,PJM,2043592,Demand
+2025-05-12,PJM,2033845,Demand
+2025-05-12,PJM,2027993,Demand
+2025-05-12,PJM,2038844,Demand
+2025-05-12,PJM,1978569,Day-ahead demand forecast
+2025-05-12,PJM,1982083,Day-ahead demand forecast
+2025-05-12,PJM,1974761,Day-ahead demand forecast
+2025-05-12,PJM,1970505,Day-ahead demand forecast
+2025-05-12,PJM,2043592,Demand
+2025-05-12,PJM,1982083,Day-ahead demand forecast
+2025-05-13,PJM,2083348,Demand
+2025-05-13,PJM,2082434,Demand
+2025-05-13,PJM,2084213,Demand
+2025-05-13,PJM,2085162,Demand
+2025-05-13,PJM,2082434,Demand
+2025-05-13,PJM,2014154,Day-ahead demand forecast
+2025-05-13,PJM,2014081,Day-ahead demand forecast
+2025-05-13,PJM,2014237,Day-ahead demand forecast
+2025-05-13,PJM,2014409,Day-ahead demand forecast
+2025-05-13,PJM,2014409,Day-ahead demand forecast
+2025-05-14,PJM,2107695,Demand
+2025-05-14,PJM,2104143,Demand
+2025-05-14,PJM,2102181,Demand
+2025-05-14,PJM,2105994,Demand
+2025-05-14,PJM,2107695,Demand
+2025-05-14,PJM,2025727,Day-ahead demand forecast
+2025-05-14,PJM,2025591,Day-ahead demand forecast
+2025-05-14,PJM,2025388,Day-ahead demand forecast
+2025-05-14,PJM,2025737,Day-ahead demand forecast
+2025-05-14,PJM,2025727,Day-ahead demand forecast
+2025-05-15,PJM,2261689,Demand
+2025-05-15,PJM,2250467,Demand
+2025-05-15,PJM,2243645,Demand
+2025-05-15,PJM,2256225,Demand
+2025-05-15,PJM,2168048,Day-ahead demand forecast
+2025-05-15,PJM,2168048,Day-ahead demand forecast
+2025-05-15,PJM,2156930,Day-ahead demand forecast
+2025-05-15,PJM,2150472,Day-ahead demand forecast
+2025-05-15,PJM,2162737,Day-ahead demand forecast
+2025-05-15,PJM,2261689,Demand
+2025-05-16,PJM,2277799,Demand
+2025-05-16,PJM,2289232,Demand
+2025-05-16,PJM,2283262,Demand
+2025-05-16,PJM,2277799,Demand
+2025-05-16,PJM,2295679,Demand
+2025-05-16,PJM,2280240,Day-ahead demand forecast
+2025-05-16,PJM,2279243,Day-ahead demand forecast
+2025-05-16,PJM,2279243,Day-ahead demand forecast
+2025-05-16,PJM,2280382,Day-ahead demand forecast
+2025-05-16,PJM,2279863,Day-ahead demand forecast
+2025-05-17,PJM,2086656,Day-ahead demand forecast
+2025-05-17,PJM,2090020,Day-ahead demand forecast
+2025-05-17,PJM,2096830,Day-ahead demand forecast
+2025-05-17,PJM,2093329,Day-ahead demand forecast
+2025-05-17,PJM,2086656,Day-ahead demand forecast
+2025-05-17,PJM,2026227,Demand
+2025-05-17,PJM,2031093,Demand
+2025-05-17,PJM,2039348,Demand
+2025-05-17,PJM,2035173,Demand
+2025-05-17,PJM,2026227,Demand
+2025-05-18,PJM,1897291,Demand
+2025-05-18,PJM,1896660,Demand
+2025-05-18,PJM,1898130,Demand
+2025-05-18,PJM,1896331,Demand
+2025-05-18,PJM,1915479,Day-ahead demand forecast
+2025-05-18,PJM,1913354,Day-ahead demand forecast
+2025-05-18,PJM,1918693,Day-ahead demand forecast
+2025-05-18,PJM,1922818,Day-ahead demand forecast
+2025-05-18,PJM,1897291,Demand
+2025-05-18,PJM,1913354,Day-ahead demand forecast
+2025-05-19,PJM,2010116,Demand
+2025-05-19,PJM,2010845,Demand
+2025-05-19,PJM,2009023,Demand
+2025-05-19,PJM,2007943,Demand
+2025-05-19,PJM,2010845,Demand
+2025-05-19,PJM,2001302,Day-ahead demand forecast
+2025-05-19,PJM,2000517,Day-ahead demand forecast
+2025-05-19,PJM,2002057,Day-ahead demand forecast
+2025-05-19,PJM,2002798,Day-ahead demand forecast
+2025-05-19,PJM,2002798,Day-ahead demand forecast
+2025-05-20,PJM,1974841,Demand
+2025-05-20,PJM,1973121,Demand
+2025-05-20,PJM,1973496,Demand
+2025-05-20,PJM,1973750,Demand
+2025-05-20,PJM,1974841,Demand
+2025-05-20,PJM,1962804,Day-ahead demand forecast
+2025-05-20,PJM,1964280,Day-ahead demand forecast
+2025-05-20,PJM,1965015,Day-ahead demand forecast
+2025-05-20,PJM,1963557,Day-ahead demand forecast
+2025-05-20,PJM,1962804,Day-ahead demand forecast
+2025-05-21,PJM,1996622,Demand
+2025-05-21,PJM,1997137,Demand
+2025-05-21,PJM,1996475,Demand
+2025-05-21,PJM,1996751,Demand
+2025-05-21,PJM,1970641,Day-ahead demand forecast
+2025-05-21,PJM,1970641,Day-ahead demand forecast
+2025-05-21,PJM,1969162,Day-ahead demand forecast
+2025-05-21,PJM,1968426,Day-ahead demand forecast
+2025-05-21,PJM,1969890,Day-ahead demand forecast
+2025-05-21,PJM,1996622,Demand
+2025-05-22,PJM,1978006,Demand
+2025-05-22,PJM,1980259,Demand
+2025-05-22,PJM,1981700,Demand
+2025-05-22,PJM,1979087,Demand
+2025-05-22,PJM,1950068,Day-ahead demand forecast
+2025-05-22,PJM,1949501,Day-ahead demand forecast
+2025-05-22,PJM,1950704,Day-ahead demand forecast
+2025-05-22,PJM,1949689,Day-ahead demand forecast
+2025-05-22,PJM,1949501,Day-ahead demand forecast
+2025-05-22,PJM,1978006,Demand
+2025-05-23,PJM,1903861,Demand
+2025-05-23,PJM,1910922,Demand
+2025-05-23,PJM,1914770,Demand
+2025-05-23,PJM,1907601,Demand
+2025-05-23,PJM,1903861,Demand
+2025-05-23,PJM,1888758,Day-ahead demand forecast
+2025-05-23,PJM,1892938,Day-ahead demand forecast
+2025-05-23,PJM,1894905,Day-ahead demand forecast
+2025-05-23,PJM,1890907,Day-ahead demand forecast
+2025-05-23,PJM,1888758,Day-ahead demand forecast
+2025-05-24,PJM,1765202,Demand
+2025-05-24,PJM,1769575,Demand
+2025-05-24,PJM,1771455,Demand
+2025-05-24,PJM,1767110,Demand
+2025-05-24,PJM,1749535,Day-ahead demand forecast
+2025-05-24,PJM,1749535,Day-ahead demand forecast
+2025-05-24,PJM,1754879,Day-ahead demand forecast
+2025-05-24,PJM,1757546,Day-ahead demand forecast
+2025-05-24,PJM,1752222,Day-ahead demand forecast
+2025-05-24,PJM,1765202,Demand
+2025-05-25,PJM,1733998,Demand
+2025-05-25,PJM,1733745,Demand
+2025-05-25,PJM,1734323,Demand
+2025-05-25,PJM,1733593,Demand
+2025-05-25,PJM,1719937,Day-ahead demand forecast
+2025-05-25,PJM,1719631,Day-ahead demand forecast
+2025-05-25,PJM,1719887,Day-ahead demand forecast
+2025-05-25,PJM,1719862,Day-ahead demand forecast
+2025-05-25,PJM,1719631,Day-ahead demand forecast
+2025-05-25,PJM,1733998,Demand
+2025-05-26,PJM,1777526,Demand
+2025-05-26,PJM,1771090,Demand
+2025-05-26,PJM,1775974,Demand
+2025-05-26,PJM,1777526,Demand
+2025-05-26,PJM,1773489,Demand
+2025-05-26,PJM,1723096,Day-ahead demand forecast
+2025-05-26,PJM,1723102,Day-ahead demand forecast
+2025-05-26,PJM,1723409,Day-ahead demand forecast
+2025-05-26,PJM,1723928,Day-ahead demand forecast
+2025-05-26,PJM,1723928,Day-ahead demand forecast
+2025-05-27,PJM,1882516,Day-ahead demand forecast
+2025-05-27,PJM,1879905,Day-ahead demand forecast
+2025-05-27,PJM,1874315,Day-ahead demand forecast
+2025-05-27,PJM,1877217,Day-ahead demand forecast
+2025-05-27,PJM,1882516,Day-ahead demand forecast
+2025-05-27,PJM,1960824,Demand
+2025-05-27,PJM,1956785,Demand
+2025-05-27,PJM,1948546,Demand
+2025-05-27,PJM,1952651,Demand
+2025-05-27,PJM,1960824,Demand
+2025-05-28,PJM,1940750,Day-ahead demand forecast
+2025-05-28,PJM,1937191,Day-ahead demand forecast
+2025-05-28,PJM,1938451,Day-ahead demand forecast
+2025-05-28,PJM,1940750,Day-ahead demand forecast
+2025-05-28,PJM,1992338,Demand
+2025-05-28,PJM,1991708,Demand
+2025-05-28,PJM,1989045,Demand
+2025-05-28,PJM,1990640,Demand
+2025-05-28,PJM,1992338,Demand
+2025-05-28,PJM,1939626,Day-ahead demand forecast
+2025-05-29,PJM,2024387,Demand
+2025-05-29,PJM,2023238,Demand
+2025-05-29,PJM,2022966,Demand
+2025-05-29,PJM,2023613,Demand
+2025-05-29,PJM,1988021,Day-ahead demand forecast
+2025-05-29,PJM,1988763,Day-ahead demand forecast
+2025-05-29,PJM,1987332,Day-ahead demand forecast
+2025-05-29,PJM,1988441,Day-ahead demand forecast
+2025-05-29,PJM,1988763,Day-ahead demand forecast
+2025-05-29,PJM,2024387,Demand
+2025-05-30,PJM,2045436,Demand
+2025-05-30,PJM,2044019,Demand
+2025-05-30,PJM,2047566,Demand
+2025-05-30,PJM,2044019,Demand
+2025-05-30,PJM,2046381,Demand
+2025-05-30,PJM,1958525,Day-ahead demand forecast
+2025-05-30,PJM,1959622,Day-ahead demand forecast
+2025-05-30,PJM,1955303,Day-ahead demand forecast
+2025-05-30,PJM,1957118,Day-ahead demand forecast
+2025-05-30,PJM,1955303,Day-ahead demand forecast
+2025-05-31,PJM,1822722,Demand
+2025-05-31,PJM,1833655,Demand
+2025-05-31,PJM,1839232,Demand
+2025-05-31,PJM,1827831,Demand
+2025-05-31,PJM,1822722,Demand
+2025-05-31,PJM,1783307,Day-ahead demand forecast
+2025-05-31,PJM,1787273,Day-ahead demand forecast
+2025-05-31,PJM,1790067,Day-ahead demand forecast
+2025-05-31,PJM,1785007,Day-ahead demand forecast
+2025-05-31,PJM,1783307,Day-ahead demand forecast
+2025-06-01,PJM,1782552,Demand
+2025-06-01,PJM,1776572,Demand
+2025-06-01,PJM,1774571,Demand
+2025-06-01,PJM,1779224,Demand
+2025-06-01,PJM,1745238,Day-ahead demand forecast
+2025-06-01,PJM,1745238,Day-ahead demand forecast
+2025-06-01,PJM,1743456,Day-ahead demand forecast
+2025-06-01,PJM,1743140,Day-ahead demand forecast
+2025-06-01,PJM,1744179,Day-ahead demand forecast
+2025-06-01,PJM,1782552,Demand
+2025-06-02,PJM,1999280,Demand
+2025-06-02,PJM,1996431,Demand
+2025-06-02,PJM,1988291,Demand
+2025-06-02,PJM,1999280,Demand
+2025-06-02,PJM,1992901,Demand
+2025-06-02,PJM,1952325,Day-ahead demand forecast
+2025-06-02,PJM,1957877,Day-ahead demand forecast
+2025-06-02,PJM,1957877,Day-ahead demand forecast
+2025-06-02,PJM,1948765,Day-ahead demand forecast
+2025-06-02,PJM,1955337,Day-ahead demand forecast
+2025-06-03,PJM,2141663,Day-ahead demand forecast
+2025-06-03,PJM,2137304,Day-ahead demand forecast
+2025-06-03,PJM,2126454,Day-ahead demand forecast
+2025-06-03,PJM,2132318,Day-ahead demand forecast
+2025-06-03,PJM,2141663,Day-ahead demand forecast
+2025-06-03,PJM,2192466,Demand
+2025-06-03,PJM,2187070,Demand
+2025-06-03,PJM,2172605,Demand
+2025-06-03,PJM,2179942,Demand
+2025-06-03,PJM,2192466,Demand
+2025-06-04,PJM,2354915,Demand
+2025-06-04,PJM,2346363,Demand
+2025-06-04,PJM,2340240,Demand
+2025-06-04,PJM,2350919,Demand
+2025-06-04,PJM,2296341,Day-ahead demand forecast
+2025-06-04,PJM,2300533,Day-ahead demand forecast
+2025-06-04,PJM,2291983,Day-ahead demand forecast
+2025-06-04,PJM,2287245,Day-ahead demand forecast
+2025-06-04,PJM,2354915,Demand
+2025-06-04,PJM,2300533,Day-ahead demand forecast
+2025-06-05,PJM,2400990,Demand
+2025-06-05,PJM,2401925,Demand
+2025-06-05,PJM,2400530,Demand
+2025-06-05,PJM,2400749,Demand
+2025-06-05,PJM,2401925,Demand
+2025-06-05,PJM,2331736,Day-ahead demand forecast
+2025-06-05,PJM,2331486,Day-ahead demand forecast
+2025-06-05,PJM,2332030,Day-ahead demand forecast
+2025-06-05,PJM,2332282,Day-ahead demand forecast
+2025-06-05,PJM,2332282,Day-ahead demand forecast
+2025-06-06,PJM,2380416,Demand
+2025-06-06,PJM,2385233,Demand
+2025-06-06,PJM,2388555,Demand
+2025-06-06,PJM,2382221,Demand
+2025-06-06,PJM,2380416,Demand
+2025-06-06,PJM,2286195,Day-ahead demand forecast
+2025-06-06,PJM,2292410,Day-ahead demand forecast
+2025-06-06,PJM,2295395,Day-ahead demand forecast
+2025-06-06,PJM,2289389,Day-ahead demand forecast
+2025-06-06,PJM,2286195,Day-ahead demand forecast
+2025-06-07,PJM,2199151,Demand
+2025-06-07,PJM,2205182,Demand
+2025-06-07,PJM,2207637,Demand
+2025-06-07,PJM,2202607,Demand
+2025-06-07,PJM,2073234,Day-ahead demand forecast
+2025-06-07,PJM,2073234,Day-ahead demand forecast
+2025-06-07,PJM,2076029,Day-ahead demand forecast
+2025-06-07,PJM,2077602,Day-ahead demand forecast
+2025-06-07,PJM,2074654,Day-ahead demand forecast
+2025-06-07,PJM,2199151,Demand
+2025-06-08,PJM,2089649,Demand
+2025-06-08,PJM,2093399,Demand
+2025-06-08,PJM,2096106,Demand
+2025-06-08,PJM,2091246,Demand
+2025-06-08,PJM,1990769,Day-ahead demand forecast
+2025-06-08,PJM,1986609,Day-ahead demand forecast
+2025-06-08,PJM,1994115,Day-ahead demand forecast
+2025-06-08,PJM,1988155,Day-ahead demand forecast
+2025-06-08,PJM,1986609,Day-ahead demand forecast
+2025-06-08,PJM,2089649,Demand
+2025-06-09,PJM,2241398,Demand
+2025-06-09,PJM,2235686,Demand
+2025-06-09,PJM,2232394,Demand
+2025-06-09,PJM,2238756,Demand
+2025-06-09,PJM,2241398,Demand
+2025-06-09,PJM,2147386,Day-ahead demand forecast
+2025-06-09,PJM,2143706,Day-ahead demand forecast
+2025-06-09,PJM,2141534,Day-ahead demand forecast
+2025-06-09,PJM,2145697,Day-ahead demand forecast
+2025-06-09,PJM,2147386,Day-ahead demand forecast
+2025-06-10,PJM,2284063,Demand
+2025-06-10,PJM,2283710,Demand
+2025-06-10,PJM,2282666,Demand
+2025-06-10,PJM,2284094,Demand
+2025-06-10,PJM,2191912,Day-ahead demand forecast
+2025-06-10,PJM,2191912,Day-ahead demand forecast
+2025-06-10,PJM,2187470,Day-ahead demand forecast
+2025-06-10,PJM,2184510,Day-ahead demand forecast
+2025-06-10,PJM,2189858,Day-ahead demand forecast
+2025-06-10,PJM,2284063,Demand
+2025-06-11,PJM,2387508,Demand
+2025-06-11,PJM,2402778,Demand
+2025-06-11,PJM,2393559,Demand
+2025-06-11,PJM,2398476,Demand
+2025-06-11,PJM,2402778,Demand
+2025-06-11,PJM,2369369,Day-ahead demand forecast
+2025-06-11,PJM,2360629,Day-ahead demand forecast
+2025-06-11,PJM,2355599,Day-ahead demand forecast
+2025-06-11,PJM,2365232,Day-ahead demand forecast
+2025-06-11,PJM,2369369,Day-ahead demand forecast
+2025-06-12,PJM,2554294,Demand
+2025-06-12,PJM,2546343,Demand
+2025-06-12,PJM,2542000,Demand
+2025-06-12,PJM,2550418,Demand
+2025-06-12,PJM,2554294,Demand
+2025-06-12,PJM,2542732,Day-ahead demand forecast
+2025-06-12,PJM,2536169,Day-ahead demand forecast
+2025-06-12,PJM,2532428,Day-ahead demand forecast
+2025-06-12,PJM,2539600,Day-ahead demand forecast
+2025-06-12,PJM,2542732,Day-ahead demand forecast
+2025-06-13,PJM,2433294,Demand
+2025-06-13,PJM,2442626,Demand
+2025-06-13,PJM,2450256,Demand
+2025-06-13,PJM,2437172,Demand
+2025-06-13,PJM,2412053,Day-ahead demand forecast
+2025-06-13,PJM,2412053,Day-ahead demand forecast
+2025-06-13,PJM,2422521,Day-ahead demand forecast
+2025-06-13,PJM,2428207,Day-ahead demand forecast
+2025-06-13,PJM,2417185,Day-ahead demand forecast
+2025-06-13,PJM,2433294,Demand
+2025-06-14,PJM,2199192,Demand
+2025-06-14,PJM,2180266,Demand
+2025-06-14,PJM,2192874,Demand
+2025-06-14,PJM,2186437,Demand
+2025-06-14,PJM,2096429,Day-ahead demand forecast
+2025-06-14,PJM,2096429,Day-ahead demand forecast
+2025-06-14,PJM,2108131,Day-ahead demand forecast
+2025-06-14,PJM,2114620,Day-ahead demand forecast
+2025-06-14,PJM,2102105,Day-ahead demand forecast
+2025-06-14,PJM,2180266,Demand
+2025-06-15,PJM,2084485,Demand
+2025-06-15,PJM,2083637,Demand
+2025-06-15,PJM,2083105,Demand
+2025-06-15,PJM,2084303,Demand
+2025-06-15,PJM,2084485,Demand
+2025-06-15,PJM,2005141,Day-ahead demand forecast
+2025-06-15,PJM,2005462,Day-ahead demand forecast
+2025-06-15,PJM,2006554,Day-ahead demand forecast
+2025-06-15,PJM,2004929,Day-ahead demand forecast
+2025-06-15,PJM,2005141,Day-ahead demand forecast
+2025-06-16,PJM,2281963,Demand
+2025-06-16,PJM,2271269,Demand
+2025-06-16,PJM,2266036,Demand
+2025-06-16,PJM,2276370,Demand
+2025-06-16,PJM,2201184,Day-ahead demand forecast
+2025-06-16,PJM,2201184,Day-ahead demand forecast
+2025-06-16,PJM,2195287,Day-ahead demand forecast
+2025-06-16,PJM,2191953,Day-ahead demand forecast
+2025-06-16,PJM,2198384,Day-ahead demand forecast
+2025-06-16,PJM,2281963,Demand
+2025-06-17,PJM,2441966,Demand
+2025-06-17,PJM,2461357,Demand
+2025-06-17,PJM,2449162,Demand
+2025-06-17,PJM,2455699,Demand
+2025-06-17,PJM,2321468,Day-ahead demand forecast
+2025-06-17,PJM,2321468,Day-ahead demand forecast
+2025-06-17,PJM,2310563,Day-ahead demand forecast
+2025-06-17,PJM,2304406,Day-ahead demand forecast
+2025-06-17,PJM,2316181,Day-ahead demand forecast
+2025-06-17,PJM,2461357,Demand
+2025-06-18,PJM,2607098,Demand
+2025-06-18,PJM,2605052,Demand
+2025-06-18,PJM,2603434,Demand
+2025-06-18,PJM,2606469,Demand
+2025-06-18,PJM,2607098,Demand
+2025-06-18,PJM,2501613,Day-ahead demand forecast
+2025-06-18,PJM,2497628,Day-ahead demand forecast
+2025-06-18,PJM,2505213,Day-ahead demand forecast
+2025-06-18,PJM,2508647,Day-ahead demand forecast
+2025-06-18,PJM,2508647,Day-ahead demand forecast
+2025-06-19,PJM,2545578,Demand
+2025-06-19,PJM,2556800,Demand
+2025-06-19,PJM,2563056,Demand
+2025-06-19,PJM,2545578,Demand
+2025-06-19,PJM,2551071,Demand
+2025-06-19,PJM,2510039,Day-ahead demand forecast
+2025-06-19,PJM,2514083,Day-ahead demand forecast
+2025-06-19,PJM,2505963,Day-ahead demand forecast
+2025-06-19,PJM,2501629,Day-ahead demand forecast
+2025-06-19,PJM,2501629,Day-ahead demand forecast
+2025-06-20,PJM,2462749,Demand
+2025-06-20,PJM,2459235,Demand
+2025-06-20,PJM,2456207,Demand
+2025-06-20,PJM,2460827,Demand
+2025-06-20,PJM,2462749,Demand
+2025-06-20,PJM,2432133,Day-ahead demand forecast
+2025-06-20,PJM,2429432,Day-ahead demand forecast
+2025-06-20,PJM,2427645,Day-ahead demand forecast
+2025-06-20,PJM,2430982,Day-ahead demand forecast
+2025-06-20,PJM,2432133,Day-ahead demand forecast
+2025-06-21,PJM,2643839,Demand
+2025-06-21,PJM,2623804,Demand
+2025-06-21,PJM,2613504,Demand
+2025-06-21,PJM,2634157,Demand
+2025-06-21,PJM,2557576,Day-ahead demand forecast
+2025-06-21,PJM,2557576,Day-ahead demand forecast
+2025-06-21,PJM,2544647,Day-ahead demand forecast
+2025-06-21,PJM,2536942,Day-ahead demand forecast
+2025-06-21,PJM,2551510,Day-ahead demand forecast
+2025-06-21,PJM,2643839,Demand
+2025-06-22,PJM,2804264,Demand
+2025-06-22,PJM,2833348,Demand
+2025-06-22,PJM,2814223,Demand
+2025-06-22,PJM,2824158,Demand
+2025-06-22,PJM,2833348,Demand
+2025-06-22,PJM,2771539,Day-ahead demand forecast
+2025-06-22,PJM,2754398,Day-ahead demand forecast
+2025-06-22,PJM,2746442,Day-ahead demand forecast
+2025-06-22,PJM,2762670,Day-ahead demand forecast
+2025-06-22,PJM,2771539,Day-ahead demand forecast
+2025-06-23,PJM,3243107,Demand
+2025-06-23,PJM,3225839,Demand
+2025-06-23,PJM,3215948,Demand
+2025-06-23,PJM,3234791,Demand
+2025-06-23,PJM,3243107,Demand
+2025-06-23,PJM,3090453,Day-ahead demand forecast
+2025-06-23,PJM,3080590,Day-ahead demand forecast
+2025-06-23,PJM,3074714,Day-ahead demand forecast
+2025-06-23,PJM,3085784,Day-ahead demand forecast
+2025-06-23,PJM,3090453,Day-ahead demand forecast
+2025-06-24,PJM,3262296,Demand
+2025-06-24,PJM,3265766,Demand
+2025-06-24,PJM,3267277,Demand
+2025-06-24,PJM,3264075,Demand
+2025-06-24,PJM,3119311,Day-ahead demand forecast
+2025-06-24,PJM,3119311,Day-ahead demand forecast
+2025-06-24,PJM,3116981,Day-ahead demand forecast
+2025-06-24,PJM,3115855,Day-ahead demand forecast
+2025-06-24,PJM,3117951,Day-ahead demand forecast
+2025-06-24,PJM,3262296,Demand
+2025-06-25,PJM,3171879,Demand
+2025-06-25,PJM,3152255,Demand
+2025-06-25,PJM,3164814,Demand
+2025-06-25,PJM,3158181,Demand
+2025-06-25,PJM,3060180,Day-ahead demand forecast
+2025-06-25,PJM,3060180,Day-ahead demand forecast
+2025-06-25,PJM,3066518,Day-ahead demand forecast
+2025-06-25,PJM,3070095,Day-ahead demand forecast
+2025-06-25,PJM,3063427,Day-ahead demand forecast
+2025-06-25,PJM,3152255,Demand
+2025-06-26,PJM,2986353,Demand
+2025-06-26,PJM,3001920,Demand
+2025-06-26,PJM,3011498,Demand
+2025-06-26,PJM,2993895,Demand
+2025-06-26,PJM,2986353,Demand
+2025-06-26,PJM,2938068,Day-ahead demand forecast
+2025-06-26,PJM,2948259,Day-ahead demand forecast
+2025-06-26,PJM,2953445,Day-ahead demand forecast
+2025-06-26,PJM,2943128,Day-ahead demand forecast
+2025-06-26,PJM,2938068,Day-ahead demand forecast
+2025-06-27,PJM,2616586,Demand
+2025-06-27,PJM,2634730,Demand
+2025-06-27,PJM,2645211,Demand
+2025-06-27,PJM,2625322,Demand
+2025-06-27,PJM,2645088,Day-ahead demand forecast
+2025-06-27,PJM,2645088,Day-ahead demand forecast
+2025-06-27,PJM,2663127,Day-ahead demand forecast
+2025-06-27,PJM,2673202,Day-ahead demand forecast
+2025-06-27,PJM,2653833,Day-ahead demand forecast
+2025-06-27,PJM,2616586,Demand
+2025-06-28,PJM,2564719,Demand
+2025-06-28,PJM,2574268,Demand
+2025-06-28,PJM,2569056,Demand
+2025-06-28,PJM,2571275,Demand
+2025-06-28,PJM,2522043,Day-ahead demand forecast
+2025-06-28,PJM,2522043,Day-ahead demand forecast
+2025-06-28,PJM,2519905,Day-ahead demand forecast
+2025-06-28,PJM,2518020,Day-ahead demand forecast
+2025-06-28,PJM,2521363,Day-ahead demand forecast
+2025-06-28,PJM,2574268,Demand
+2025-06-29,PJM,2731608,Demand
+2025-06-29,PJM,2719682,Demand
+2025-06-29,PJM,2713489,Demand
+2025-06-29,PJM,2726531,Demand
+2025-06-29,PJM,2731608,Demand
+2025-06-29,PJM,2619101,Day-ahead demand forecast
+2025-06-29,PJM,2611451,Day-ahead demand forecast
+2025-06-29,PJM,2626942,Day-ahead demand forecast
+2025-06-29,PJM,2635317,Day-ahead demand forecast
+2025-06-29,PJM,2635317,Day-ahead demand forecast
+2025-06-30,PJM,2891947,Demand
+2025-06-30,PJM,2888950,Demand
+2025-06-30,PJM,2883552,Demand
+2025-06-30,PJM,2891947,Demand
+2025-06-30,PJM,2886344,Demand
+2025-06-30,PJM,2849387,Day-ahead demand forecast
+2025-06-30,PJM,2852773,Day-ahead demand forecast
+2025-06-30,PJM,2852773,Day-ahead demand forecast
+2025-06-30,PJM,2847800,Day-ahead demand forecast
+2025-06-30,PJM,2851123,Day-ahead demand forecast
+2025-07-01,PJM,2785576,Day-ahead demand forecast
+2025-07-01,PJM,2791655,Day-ahead demand forecast
+2025-07-01,PJM,2804244,Day-ahead demand forecast
+2025-07-01,PJM,2798053,Day-ahead demand forecast
+2025-07-01,PJM,2785576,Day-ahead demand forecast
+2025-07-01,PJM,2788097,Demand
+2025-07-01,PJM,2796885,Demand
+2025-07-01,PJM,2814637,Demand
+2025-07-01,PJM,2805842,Demand
+2025-07-01,PJM,2788097,Demand
+2025-07-02,PJM,2696571,Demand
+2025-07-02,PJM,2694601,Demand
+2025-07-02,PJM,2694076,Demand
+2025-07-02,PJM,2695559,Demand
+2025-07-02,PJM,2677439,Day-ahead demand forecast
+2025-07-02,PJM,2675807,Day-ahead demand forecast
+2025-07-02,PJM,2678746,Day-ahead demand forecast
+2025-07-02,PJM,2679919,Day-ahead demand forecast
+2025-07-02,PJM,2696571,Demand
+2025-07-02,PJM,2675807,Day-ahead demand forecast
+2025-07-03,PJM,2740343,Demand
+2025-07-03,PJM,2737478,Demand
+2025-07-03,PJM,2742029,Demand
+2025-07-03,PJM,2743047,Demand
+2025-07-03,PJM,2737478,Demand
+2025-07-03,PJM,2745780,Day-ahead demand forecast
+2025-07-03,PJM,2744419,Day-ahead demand forecast
+2025-07-03,PJM,2746370,Day-ahead demand forecast
+2025-07-03,PJM,2745906,Day-ahead demand forecast
+2025-07-03,PJM,2745906,Day-ahead demand forecast
+2025-07-04,PJM,2459314,Demand
+2025-07-04,PJM,2466866,Demand
+2025-07-04,PJM,2471770,Demand
+2025-07-04,PJM,2462726,Demand
+2025-07-04,PJM,2459314,Demand
+2025-07-04,PJM,2542485,Day-ahead demand forecast
+2025-07-04,PJM,2549710,Day-ahead demand forecast
+2025-07-04,PJM,2554360,Day-ahead demand forecast
+2025-07-04,PJM,2545753,Day-ahead demand forecast
+2025-07-04,PJM,2542485,Day-ahead demand forecast
+2025-07-05,PJM,2566129,Demand
+2025-07-05,PJM,2555141,Demand
+2025-07-05,PJM,2549271,Demand
+2025-07-05,PJM,2560687,Demand
+2025-07-05,PJM,2613478,Day-ahead demand forecast
+2025-07-05,PJM,2613478,Day-ahead demand forecast
+2025-07-05,PJM,2611437,Day-ahead demand forecast
+2025-07-05,PJM,2610056,Day-ahead demand forecast
+2025-07-05,PJM,2612639,Day-ahead demand forecast
+2025-07-05,PJM,2566129,Demand
+2025-07-06,PJM,2667278,Demand
+2025-07-06,PJM,2654878,Demand
+2025-07-06,PJM,2649756,Demand
+2025-07-06,PJM,2660812,Demand
+2025-07-06,PJM,2583271,Day-ahead demand forecast
+2025-07-06,PJM,2590070,Day-ahead demand forecast
+2025-07-06,PJM,2581333,Day-ahead demand forecast
+2025-07-06,PJM,2586036,Day-ahead demand forecast
+2025-07-06,PJM,2590070,Day-ahead demand forecast
+2025-07-06,PJM,2667278,Demand
+2025-07-07,PJM,2876563,Demand
+2025-07-07,PJM,2875817,Demand
+2025-07-07,PJM,2874215,Demand
+2025-07-07,PJM,2876076,Demand
+2025-07-07,PJM,2876563,Demand
+2025-07-07,PJM,2752916,Day-ahead demand forecast
+2025-07-07,PJM,2747399,Day-ahead demand forecast
+2025-07-07,PJM,2744134,Day-ahead demand forecast
+2025-07-07,PJM,2750402,Day-ahead demand forecast
+2025-07-07,PJM,2752916,Day-ahead demand forecast
+2025-07-08,PJM,2889037,Demand
+2025-07-08,PJM,2891638,Demand
+2025-07-08,PJM,2892460,Demand
+2025-07-08,PJM,2890526,Demand
+2025-07-08,PJM,2777005,Day-ahead demand forecast
+2025-07-08,PJM,2777005,Day-ahead demand forecast
+2025-07-08,PJM,2780645,Day-ahead demand forecast
+2025-07-08,PJM,2782288,Day-ahead demand forecast
+2025-07-08,PJM,2778704,Day-ahead demand forecast
+2025-07-08,PJM,2889037,Demand
+2025-07-09,PJM,2801956,Demand
+2025-07-09,PJM,2808258,Demand
+2025-07-09,PJM,2812572,Demand
+2025-07-09,PJM,2804949,Demand
+2025-07-09,PJM,2719876,Day-ahead demand forecast
+2025-07-09,PJM,2713961,Day-ahead demand forecast
+2025-07-09,PJM,2723060,Day-ahead demand forecast
+2025-07-09,PJM,2716936,Day-ahead demand forecast
+2025-07-09,PJM,2713961,Day-ahead demand forecast
+2025-07-09,PJM,2801956,Demand
+2025-07-10,PJM,2734933,Demand
+2025-07-10,PJM,2732427,Demand
+2025-07-10,PJM,2734171,Demand
+2025-07-10,PJM,2734933,Demand
+2025-07-10,PJM,2733326,Demand
+2025-07-10,PJM,2610520,Day-ahead demand forecast
+2025-07-10,PJM,2611763,Day-ahead demand forecast
+2025-07-10,PJM,2609356,Day-ahead demand forecast
+2025-07-10,PJM,2608152,Day-ahead demand forecast
+2025-07-10,PJM,2608152,Day-ahead demand forecast
+2025-07-11,PJM,2718655,Day-ahead demand forecast
+2025-07-11,PJM,2714836,Day-ahead demand forecast
+2025-07-11,PJM,2704646,Day-ahead demand forecast
+2025-07-11,PJM,2710179,Day-ahead demand forecast
+2025-07-11,PJM,2718655,Day-ahead demand forecast
+2025-07-11,PJM,2870812,Demand
+2025-07-11,PJM,2866857,Demand
+2025-07-11,PJM,2858008,Demand
+2025-07-11,PJM,2862443,Demand
+2025-07-11,PJM,2870812,Demand
+2025-07-12,PJM,2655381,Day-ahead demand forecast

@@ -1,0 +1,57 @@
+# Core dependencies
+pandas>=1.5.0
+numpy>=1.21.0
+requests>=2.28.0
+python-dotenv>=0.19.0
+pyyaml>=6.0
+
+# Data analysis and statistics
+scipy>=1.9.0
+scikit-learn>=1.1.0
+statsmodels>=0.13.0
+
+# Visualization
+matplotlib>=3.5.0
+seaborn>=0.11.0
+plotly>=5.10.0
+
+# Dashboard and web interface
+streamlit>=1.12.0
+streamlit-folium>=0.6.0
+
+# API and web requests
+urllib3>=1.26.0
+certifi>=2022.6.15
+
+# Data processing and utilities
+python-dateutil>=2.8.0
+pytz>=2022.1
+tzdata>=2022.1
+
+# Configuration and logging
+configparser>=5.2.0
+# Note: logging is part of Python standard library, no need to install
+
+# Testing
+pytest>=7.0.0
+pytest-cov>=3.0.0
+pytest-mock>=3.7.0
+
+# Development tools
+black>=22.0.0
+flake8>=4.0.0
+isort>=5.10.0
+
+# Optional: Enhanced features (uncomment as needed)
+# geopy>=2.2.0  # For geographic calculations
+# folium>=0.12.0  # For advanced mapping
+# dash>=2.6.0  # Alternative dashboard framework
+# fastapi>=0.78.0  # For API endpoints
+# uvicorn>=0.18.0  # ASGI server for FastAPI
+
+# Additional useful packages for data science
+openpyxl>=3.0.0  # For Excel file handling
+xlrd>=2.0.0  # For reading Excel files
+jupyterlab>=3.4.0  # For notebook development
+ipykernel>=6.15.0  # Jupyter kernel
+tqdm>=4.64.0  # Progress bars
