@@ -45,29 +45,75 @@ class WeatherEnergyAnalyzer:
             correlations = {
                 'city': city_name,
                 'records': len(df),
-                'max_temp_correlation': df['max_temp_f'].corr(df['energy_consumption_mwh']),
-                'min_temp_correlation': df['min_temp_f'].corr(df['energy_consumption_mwh']),
-                'avg_temp_correlation': df['avg_temp_f'].corr(df['energy_consumption_mwh']),
+                'max_temp_correlation': df['max_temp_f'].corr(df['energy_consumption_mwh']) if 'max_temp_f' in df.columns else np.nan,
+                'min_temp_correlation': df['min_temp_f'].corr(df['energy_consumption_mwh']) if 'min_temp_f' in df.columns else np.nan,
+                'avg_temp_correlation': df['avg_temp_f'].corr(df['energy_consumption_mwh']) if 'avg_temp_f' in df.columns else np.nan,
                 'temp_range_correlation': df['temp_range'].corr(df['energy_consumption_mwh']) if 'temp_range' in df.columns else np.nan
             }
             
-            # Calculate R-squared for average temperature
-            if not df['avg_temp_f'].isna().all() and not df['energy_consumption_mwh'].isna().all():
-                slope, intercept, r_value, p_value, std_err = stats.linregress(
-                    df['avg_temp_f'].dropna(), 
-                    df['energy_consumption_mwh'].dropna()
-                )
+            # Calculate R-squared and p-value for average temperature
+            if 'avg_temp_f' in df.columns and 'energy_consumption_mwh' in df.columns:
+                # Clean the data first - remove rows where either value is NaN
+                clean_data = df[['avg_temp_f', 'energy_consumption_mwh']].dropna()
+                
+                if len(clean_data) >= 3:  # Need at least 3 points for meaningful stats
+                    temp_values = clean_data['avg_temp_f'].values
+                    energy_values = clean_data['energy_consumption_mwh'].values
+                    
+                    try:
+                        slope, intercept, r_value, p_value, std_err = stats.linregress(temp_values, energy_values)
+                        
+                        # Format p-value for display
+                        if p_value < 1e-10:
+                            p_value_display = "< 0.001"
+                        elif p_value < 0.001:
+                            p_value_display = f"{p_value:.2e}"
+                        elif p_value < 0.01:
+                            p_value_display = f"{p_value:.4f}"
+                        else:
+                            p_value_display = f"{p_value:.3f}"
+                        
+                        correlations.update({
+                            'r_squared': r_value**2,
+                            'p_value': p_value,
+                            'p_value_display': p_value_display,
+                            'slope': slope,
+                            'intercept': intercept,
+                            'std_error': std_err
+                        })
+                    except Exception as e:
+                        logger.warning(f"Error calculating regression for {city_name}: {e}")
+                        correlations.update({
+                            'r_squared': np.nan,
+                            'p_value': np.nan,
+                            'p_value_display': "Error",
+                            'slope': np.nan,
+                            'intercept': np.nan,
+                            'std_error': np.nan
+                        })
+                else:
+                    correlations.update({
+                        'r_squared': np.nan,
+                        'p_value': np.nan,
+                        'p_value_display': "Insufficient data",
+                        'slope': np.nan,
+                        'intercept': np.nan,
+                        'std_error': np.nan
+                    })
+            else:
                 correlations.update({
-                    'r_squared': r_value**2,
-                    'p_value': p_value,
-                    'slope': slope,
-                    'intercept': intercept,
-                    'std_error': std_err
+                    'r_squared': np.nan,
+                    'p_value': np.nan,
+                    'p_value_display': "Missing columns",
+                    'slope': np.nan,
+                    'intercept': np.nan,
+                    'std_error': np.nan
                 })
             
             # Determine if correlation is significant
-            correlations['strong_correlation'] = abs(correlations['avg_temp_correlation']) > self.correlation_threshold
-            correlations['correlation_strength'] = self._classify_correlation(correlations['avg_temp_correlation'])
+            avg_corr = correlations.get('avg_temp_correlation', 0)
+            correlations['strong_correlation'] = abs(avg_corr) > self.correlation_threshold if not pd.isna(avg_corr) else False
+            correlations['correlation_strength'] = self._classify_correlation(avg_corr)
             
             correlation_results.append(correlations)
         
@@ -78,6 +124,9 @@ class WeatherEnergyAnalyzer:
     
     def _classify_correlation(self, correlation: float) -> str:
         """Classify correlation strength."""
+        if pd.isna(correlation):
+            return 'No Data'
+        
         abs_corr = abs(correlation)
         if abs_corr >= 0.9:
             return 'Very Strong'
@@ -287,15 +336,23 @@ class WeatherEnergyAnalyzer:
         
         # Correlation insights
         if len(correlation_results) > 0:
-            strong_correlations = correlation_results[correlation_results['strong_correlation']]
-            insights['correlations'] = {
-                'cities_with_strong_correlation': len(strong_correlations),
-                'average_correlation': correlation_results['avg_temp_correlation'].mean(),
-                'strongest_correlation_city': correlation_results.loc[
-                    correlation_results['avg_temp_correlation'].abs().idxmax(), 'city'
-                ],
-                'strongest_correlation_value': correlation_results['avg_temp_correlation'].abs().max()
-            }
+            # Filter out rows with NaN correlations
+            valid_correlations = correlation_results.dropna(subset=['avg_temp_correlation'])
+            
+            if len(valid_correlations) > 0:
+                strong_correlations = valid_correlations[valid_correlations['strong_correlation']]
+                
+                # Find strongest correlation (by absolute value)
+                strongest_idx = valid_correlations['avg_temp_correlation'].abs().idxmax()
+                strongest_city = valid_correlations.loc[strongest_idx, 'city']
+                strongest_value = valid_correlations.loc[strongest_idx, 'avg_temp_correlation']
+                
+                insights['correlations'] = {
+                    'cities_with_strong_correlation': len(strong_correlations),
+                    'average_correlation': valid_correlations['avg_temp_correlation'].mean(),
+                    'strongest_correlation_city': strongest_city,
+                    'strongest_correlation_value': abs(strongest_value)
+                }
         
         # Weekend insights
         if len(weekend_results) > 0:
