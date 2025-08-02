@@ -1,6 +1,5 @@
 city,total_records,quality_score,missing_values,outliers,days_old,is_fresh,issues_count
-New York,871,79.939217937462,2,0,3,False,1
-Chicago,880,79.93983957219251,2,0,3,False,1
-Houston,880,79.93983957219251,2,0,3,False,1
+New York,861,79.93851199016191,2,0,4,False,1
+Chicago,870,79.93914807302231,2,0,4,False,1
 Phoenix,834,79.93652137113838,2,0,3,False,1
 Seattle,880,79.93983957219251,2,0,3,False,1

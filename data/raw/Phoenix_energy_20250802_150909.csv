@@ -1,0 +1,860 @@
+date,region_code,energy_consumption_mwh,data_type
+2025-05-04,AZPS,79756,Day-ahead demand forecast
+2025-05-04,AZPS,76402,Demand
+2025-05-04,AZPS,77745,Demand
+2025-05-04,AZPS,78499,Demand
+2025-05-04,AZPS,77002,Demand
+2025-05-04,AZPS,80410,Day-ahead demand forecast
+2025-05-04,AZPS,79756,Day-ahead demand forecast
+2025-05-04,AZPS,81195,Day-ahead demand forecast
+2025-05-04,AZPS,76402,Demand
+2025-05-04,AZPS,80801,Day-ahead demand forecast
+2025-05-05,AZPS,79407,Demand
+2025-05-05,AZPS,78033,Demand
+2025-05-05,AZPS,77445,Demand
+2025-05-05,AZPS,78731,Demand
+2025-05-05,AZPS,78061,Day-ahead demand forecast
+2025-05-05,AZPS,78061,Day-ahead demand forecast
+2025-05-05,AZPS,78250,Day-ahead demand forecast
+2025-05-05,AZPS,79407,Demand
+2025-05-05,AZPS,78701,Day-ahead demand forecast
+2025-05-05,AZPS,79178,Day-ahead demand forecast
+2025-05-06,AZPS,79816,Day-ahead demand forecast
+2025-05-06,AZPS,79701,Day-ahead demand forecast
+2025-05-06,AZPS,79472,Day-ahead demand forecast
+2025-05-06,AZPS,79613,Day-ahead demand forecast
+2025-05-06,AZPS,79816,Day-ahead demand forecast
+2025-05-06,AZPS,83405,Demand
+2025-05-06,AZPS,83315,Demand
+2025-05-06,AZPS,83121,Demand
+2025-05-06,AZPS,83249,Demand
+2025-05-06,AZPS,83405,Demand
+2025-05-07,AZPS,82119,Demand
+2025-05-07,AZPS,82416,Demand
+2025-05-07,AZPS,82662,Demand
+2025-05-07,AZPS,82310,Demand
+2025-05-07,AZPS,82798,Day-ahead demand forecast
+2025-05-07,AZPS,83076,Day-ahead demand forecast
+2025-05-07,AZPS,82529,Day-ahead demand forecast
+2025-05-07,AZPS,82231,Day-ahead demand forecast
+2025-05-07,AZPS,83076,Day-ahead demand forecast
+2025-05-07,AZPS,82119,Demand
+2025-05-08,AZPS,88270,Demand
+2025-05-08,AZPS,90021,Demand
+2025-05-08,AZPS,89045,Demand
+2025-05-08,AZPS,89513,Demand
+2025-05-08,AZPS,88683,Day-ahead demand forecast
+2025-05-08,AZPS,89018,Day-ahead demand forecast
+2025-05-08,AZPS,90021,Demand
+2025-05-08,AZPS,89018,Day-ahead demand forecast
+2025-05-08,AZPS,88318,Day-ahead demand forecast
+2025-05-08,AZPS,87900,Day-ahead demand forecast
+2025-05-09,AZPS,100888,Day-ahead demand forecast
+2025-05-09,AZPS,100414,Day-ahead demand forecast
+2025-05-09,AZPS,99769,Day-ahead demand forecast
+2025-05-09,AZPS,100099,Day-ahead demand forecast
+2025-05-09,AZPS,100888,Day-ahead demand forecast
+2025-05-09,AZPS,103127,Demand
+2025-05-09,AZPS,102619,Demand
+2025-05-09,AZPS,102785,Demand
+2025-05-09,AZPS,103394,Demand
+2025-05-09,AZPS,103394,Demand
+2025-05-10,AZPS,104550,Demand
+2025-05-10,AZPS,104585,Demand
+2025-05-10,AZPS,104662,Demand
+2025-05-10,AZPS,104789,Demand
+2025-05-10,AZPS,104585,Demand
+2025-05-10,AZPS,105916,Day-ahead demand forecast
+2025-05-10,AZPS,106007,Day-ahead demand forecast
+2025-05-10,AZPS,106007,Day-ahead demand forecast
+2025-05-10,AZPS,105674,Day-ahead demand forecast
+2025-05-10,AZPS,106162,Day-ahead demand forecast
+2025-05-11,AZPS,102052,Day-ahead demand forecast
+2025-05-11,AZPS,101852,Day-ahead demand forecast
+2025-05-11,AZPS,101683,Day-ahead demand forecast
+2025-05-11,AZPS,101813,Day-ahead demand forecast
+2025-05-11,AZPS,102052,Day-ahead demand forecast
+2025-05-11,AZPS,103311,Demand
+2025-05-11,AZPS,103094,Demand
+2025-05-11,AZPS,102343,Demand
+2025-05-11,AZPS,102772,Demand
+2025-05-11,AZPS,103311,Demand
+2025-05-12,AZPS,108451,Demand
+2025-05-12,AZPS,109029,Demand
+2025-05-12,AZPS,109485,Demand
+2025-05-12,AZPS,108725,Demand
+2025-05-12,AZPS,107560,Day-ahead demand forecast
+2025-05-12,AZPS,107106,Day-ahead demand forecast
+2025-05-12,AZPS,107441,Day-ahead demand forecast
+2025-05-12,AZPS,107287,Day-ahead demand forecast
+2025-05-12,AZPS,107106,Day-ahead demand forecast
+2025-05-12,AZPS,108451,Demand
+2025-05-13,AZPS,92708,Demand
+2025-05-13,AZPS,91116,Demand
+2025-05-13,AZPS,92180,Demand
+2025-05-13,AZPS,91654,Demand
+2025-05-13,AZPS,92343,Day-ahead demand forecast
+2025-05-13,AZPS,89993,Day-ahead demand forecast
+2025-05-13,AZPS,91116,Demand
+2025-05-13,AZPS,89993,Day-ahead demand forecast
+2025-05-13,AZPS,91395,Day-ahead demand forecast
+2025-05-13,AZPS,90644,Day-ahead demand forecast
+2025-05-14,AZPS,80948,Day-ahead demand forecast
+2025-05-14,AZPS,80937,Day-ahead demand forecast
+2025-05-14,AZPS,81105,Day-ahead demand forecast
+2025-05-14,AZPS,81014,Day-ahead demand forecast
+2025-05-14,AZPS,80948,Day-ahead demand forecast
+2025-05-14,AZPS,88789,Demand
+2025-05-14,AZPS,88493,Demand
+2025-05-14,AZPS,88621,Demand
+2025-05-14,AZPS,88982,Demand
+2025-05-14,AZPS,88982,Demand
+2025-05-15,AZPS,94802,Demand
+2025-05-15,AZPS,94742,Demand
+2025-05-15,AZPS,94805,Demand
+2025-05-15,AZPS,94752,Demand
+2025-05-15,AZPS,85036,Day-ahead demand forecast
+2025-05-15,AZPS,84856,Day-ahead demand forecast
+2025-05-15,AZPS,94742,Demand
+2025-05-15,AZPS,85036,Day-ahead demand forecast
+2025-05-15,AZPS,84682,Day-ahead demand forecast
+2025-05-15,AZPS,84985,Day-ahead demand forecast
+2025-05-16,AZPS,88108,Day-ahead demand forecast
+2025-05-16,AZPS,88039,Day-ahead demand forecast
+2025-05-16,AZPS,87829,Day-ahead demand forecast
+2025-05-16,AZPS,87913,Day-ahead demand forecast
+2025-05-16,AZPS,88108,Day-ahead demand forecast
+2025-05-16,AZPS,93509,Demand
+2025-05-16,AZPS,93357,Demand
+2025-05-16,AZPS,93184,Demand
+2025-05-16,AZPS,93234,Demand
+2025-05-16,AZPS,93509,Demand
+2025-05-17,AZPS,88837,Demand
+2025-05-17,AZPS,89040,Demand
+2025-05-17,AZPS,89122,Demand
+2025-05-17,AZPS,88933,Demand
+2025-05-17,AZPS,85380,Day-ahead demand forecast
+2025-05-17,AZPS,85477,Day-ahead demand forecast
+2025-05-17,AZPS,85356,Day-ahead demand forecast
+2025-05-17,AZPS,85341,Day-ahead demand forecast
+2025-05-17,AZPS,85477,Day-ahead demand forecast
+2025-05-17,AZPS,88837,Demand
+2025-05-18,AZPS,84452,Demand
+2025-05-18,AZPS,85070,Demand
+2025-05-18,AZPS,85279,Demand
+2025-05-18,AZPS,84753,Demand
+2025-05-18,AZPS,81366,Day-ahead demand forecast
+2025-05-18,AZPS,80977,Day-ahead demand forecast
+2025-05-18,AZPS,81480,Day-ahead demand forecast
+2025-05-18,AZPS,81217,Day-ahead demand forecast
+2025-05-18,AZPS,80977,Day-ahead demand forecast
+2025-05-18,AZPS,84452,Demand
+2025-05-19,AZPS,93963,Demand
+2025-05-19,AZPS,93125,Demand
+2025-05-19,AZPS,92745,Demand
+2025-05-19,AZPS,93963,Demand
+2025-05-19,AZPS,93584,Demand
+2025-05-19,AZPS,88296,Day-ahead demand forecast
+2025-05-19,AZPS,87988,Day-ahead demand forecast
+2025-05-19,AZPS,88560,Day-ahead demand forecast
+2025-05-19,AZPS,88785,Day-ahead demand forecast
+2025-05-19,AZPS,88785,Day-ahead demand forecast
+2025-05-20,AZPS,104672,Demand
+2025-05-20,AZPS,104317,Demand
+2025-05-20,AZPS,103467,Demand
+2025-05-20,AZPS,103929,Demand
+2025-05-20,AZPS,104672,Demand
+2025-05-21,AZPS,108209,Demand
+2025-05-21,AZPS,108231,Demand
+2025-05-21,AZPS,108222,Demand
+2025-05-21,AZPS,108210,Demand
+2025-05-21,AZPS,108231,Demand
+2025-05-22,AZPS,108812,Demand
+2025-05-22,AZPS,108291,Demand
+2025-05-22,AZPS,108812,Demand
+2025-05-22,AZPS,108507,Demand
+2025-05-22,AZPS,108027,Demand
+2025-05-23,AZPS,106330,Demand
+2025-05-23,AZPS,106374,Demand
+2025-05-23,AZPS,106214,Demand
+2025-05-23,AZPS,106276,Demand
+2025-05-23,AZPS,106330,Demand
+2025-05-24,AZPS,99916,Demand
+2025-05-24,AZPS,100963,Demand
+2025-05-24,AZPS,99916,Demand
+2025-05-24,AZPS,101566,Demand
+2025-05-24,AZPS,100425,Demand
+2025-05-25,AZPS,95885,Demand
+2025-05-25,AZPS,96056,Demand
+2025-05-25,AZPS,96384,Demand
+2025-05-25,AZPS,96249,Demand
+2025-05-25,AZPS,95885,Demand
+2025-05-26,AZPS,97241,Demand
+2025-05-26,AZPS,97556,Demand
+2025-05-26,AZPS,97012,Demand
+2025-05-26,AZPS,97556,Demand
+2025-05-26,AZPS,99184,Day-ahead demand forecast
+2025-05-26,AZPS,97420,Demand
+2025-05-26,AZPS,99184,Day-ahead demand forecast
+2025-05-27,AZPS,105337,Demand
+2025-05-27,AZPS,104958,Demand
+2025-05-27,AZPS,104226,Demand
+2025-05-27,AZPS,104590,Demand
+2025-05-27,AZPS,105337,Demand
+2025-05-28,AZPS,107480,Demand
+2025-05-28,AZPS,107031,Demand
+2025-05-28,AZPS,107191,Demand
+2025-05-28,AZPS,107031,Demand
+2025-05-28,AZPS,107594,Demand
+2025-05-29,AZPS,106088,Day-ahead demand forecast
+2025-05-29,AZPS,104830,Demand
+2025-05-29,AZPS,104969,Demand
+2025-05-29,AZPS,105101,Demand
+2025-05-29,AZPS,104990,Demand
+2025-05-29,AZPS,104830,Demand
+2025-05-29,AZPS,106088,Day-ahead demand forecast
+2025-05-30,AZPS,110230,Demand
+2025-05-30,AZPS,110731,Demand
+2025-05-30,AZPS,109867,Demand
+2025-05-30,AZPS,109551,Demand
+2025-05-30,AZPS,107811,Day-ahead demand forecast
+2025-05-30,AZPS,107347,Day-ahead demand forecast
+2025-05-30,AZPS,110731,Demand
+2025-05-30,AZPS,107811,Day-ahead demand forecast
+2025-05-30,AZPS,107552,Day-ahead demand forecast
+2025-05-30,AZPS,107147,Day-ahead demand forecast
+2025-05-31,AZPS,110302,Day-ahead demand forecast
+2025-05-31,AZPS,110254,Day-ahead demand forecast
+2025-05-31,AZPS,110109,Day-ahead demand forecast
+2025-05-31,AZPS,110138,Day-ahead demand forecast
+2025-05-31,AZPS,110302,Day-ahead demand forecast
+2025-05-31,AZPS,116771,Demand
+2025-05-31,AZPS,116765,Demand
+2025-05-31,AZPS,116603,Demand
+2025-05-31,AZPS,116675,Demand
+2025-05-31,AZPS,116771,Demand
+2025-06-01,AZPS,103800,Demand
+2025-06-01,AZPS,105487,Demand
+2025-06-01,AZPS,106630,Demand
+2025-06-01,AZPS,104627,Demand
+2025-06-01,AZPS,102948,Day-ahead demand forecast
+2025-06-01,AZPS,100976,Day-ahead demand forecast
+2025-06-01,AZPS,102190,Day-ahead demand forecast
+2025-06-01,AZPS,101571,Day-ahead demand forecast
+2025-06-01,AZPS,100976,Day-ahead demand forecast
+2025-06-01,AZPS,103800,Demand
+2025-06-02,AZPS,96276,Demand
+2025-06-02,AZPS,96907,Demand
+2025-06-02,AZPS,95668,Demand
+2025-06-02,AZPS,96907,Demand
+2025-06-02,AZPS,94896,Demand
+2025-06-02,AZPS,98056,Day-ahead demand forecast
+2025-06-02,AZPS,98710,Day-ahead demand forecast
+2025-06-02,AZPS,97638,Day-ahead demand forecast
+2025-06-02,AZPS,98323,Day-ahead demand forecast
+2025-06-02,AZPS,98710,Day-ahead demand forecast
+2025-06-03,AZPS,109967,Demand
+2025-06-03,AZPS,109293,Demand
+2025-06-03,AZPS,108932,Demand
+2025-06-03,AZPS,109669,Demand
+2025-06-03,AZPS,109967,Demand
+2025-06-03,AZPS,107422,Day-ahead demand forecast
+2025-06-03,AZPS,107085,Day-ahead demand forecast
+2025-06-03,AZPS,106817,Day-ahead demand forecast
+2025-06-03,AZPS,107344,Day-ahead demand forecast
+2025-06-03,AZPS,107422,Day-ahead demand forecast
+2025-06-04,AZPS,110125,Demand
+2025-06-04,AZPS,111017,Demand
+2025-06-04,AZPS,111413,Demand
+2025-06-04,AZPS,110443,Demand
+2025-06-04,AZPS,108381,Day-ahead demand forecast
+2025-06-04,AZPS,108381,Day-ahead demand forecast
+2025-06-04,AZPS,108608,Day-ahead demand forecast
+2025-06-04,AZPS,108735,Day-ahead demand forecast
+2025-06-04,AZPS,108461,Day-ahead demand forecast
+2025-06-04,AZPS,110125,Demand
+2025-06-05,AZPS,110707,Demand
+2025-06-05,AZPS,111256,Demand
+2025-06-05,AZPS,110849,Demand
+2025-06-05,AZPS,111151,Demand
+2025-06-05,AZPS,108945,Day-ahead demand forecast
+2025-06-05,AZPS,109025,Day-ahead demand forecast
+2025-06-05,AZPS,109002,Day-ahead demand forecast
+2025-06-05,AZPS,109025,Day-ahead demand forecast
+2025-06-05,AZPS,109043,Day-ahead demand forecast
+2025-06-05,AZPS,111256,Demand
+2025-06-06,AZPS,115655,Demand
+2025-06-06,AZPS,115411,Demand
+2025-06-06,AZPS,115140,Demand
+2025-06-06,AZPS,115595,Demand
+2025-06-06,AZPS,115655,Demand
+2025-06-06,AZPS,111669,Day-ahead demand forecast
+2025-06-06,AZPS,111510,Day-ahead demand forecast
+2025-06-06,AZPS,111471,Day-ahead demand forecast
+2025-06-06,AZPS,111568,Day-ahead demand forecast
+2025-06-06,AZPS,111669,Day-ahead demand forecast
+2025-06-07,AZPS,110629,Demand
+2025-06-07,AZPS,110779,Demand
+2025-06-07,AZPS,110997,Demand
+2025-06-07,AZPS,110679,Demand
+2025-06-07,AZPS,109928,Day-ahead demand forecast
+2025-06-07,AZPS,109928,Day-ahead demand forecast
+2025-06-07,AZPS,110003,Day-ahead demand forecast
+2025-06-07,AZPS,110004,Day-ahead demand forecast
+2025-06-07,AZPS,109987,Day-ahead demand forecast
+2025-06-07,AZPS,110629,Demand
+2025-06-08,AZPS,109141,Demand
+2025-06-08,AZPS,109708,Demand
+2025-06-08,AZPS,109396,Demand
+2025-06-08,AZPS,109592,Demand
+2025-06-08,AZPS,113633,Day-ahead demand forecast
+2025-06-08,AZPS,113633,Day-ahead demand forecast
+2025-06-08,AZPS,113112,Day-ahead demand forecast
+2025-06-08,AZPS,112683,Day-ahead demand forecast
+2025-06-08,AZPS,113470,Day-ahead demand forecast
+2025-06-08,AZPS,109708,Demand
+2025-06-09,AZPS,122465,Demand
+2025-06-09,AZPS,121832,Demand
+2025-06-09,AZPS,121497,Demand
+2025-06-09,AZPS,122095,Demand
+2025-06-09,AZPS,122465,Demand
+2025-06-09,AZPS,121113,Day-ahead demand forecast
+2025-06-09,AZPS,121031,Day-ahead demand forecast
+2025-06-09,AZPS,121184,Day-ahead demand forecast
+2025-06-09,AZPS,121440,Day-ahead demand forecast
+2025-06-09,AZPS,121440,Day-ahead demand forecast
+2025-06-10,AZPS,124468,Demand
+2025-06-10,AZPS,124510,Demand
+2025-06-10,AZPS,124567,Demand
+2025-06-10,AZPS,124570,Demand
+2025-06-10,AZPS,122720,Day-ahead demand forecast
+2025-06-10,AZPS,123035,Day-ahead demand forecast
+2025-06-10,AZPS,124510,Demand
+2025-06-10,AZPS,122887,Day-ahead demand forecast
+2025-06-10,AZPS,123035,Day-ahead demand forecast
+2025-06-10,AZPS,122790,Day-ahead demand forecast
+2025-06-11,AZPS,124732,Demand
+2025-06-11,AZPS,124463,Demand
+2025-06-11,AZPS,124505,Demand
+2025-06-11,AZPS,124592,Demand
+2025-06-11,AZPS,126248,Day-ahead demand forecast
+2025-06-11,AZPS,126248,Day-ahead demand forecast
+2025-06-11,AZPS,126231,Day-ahead demand forecast
+2025-06-11,AZPS,124732,Demand
+2025-06-11,AZPS,126131,Day-ahead demand forecast
+2025-06-11,AZPS,125988,Day-ahead demand forecast
+2025-06-12,AZPS,127091,Day-ahead demand forecast
+2025-06-12,AZPS,127190,Day-ahead demand forecast
+2025-06-12,AZPS,127249,Day-ahead demand forecast
+2025-06-12,AZPS,127234,Day-ahead demand forecast
+2025-06-12,AZPS,127091,Day-ahead demand forecast
+2025-06-12,AZPS,122929,Demand
+2025-06-12,AZPS,123367,Demand
+2025-06-12,AZPS,123204,Demand
+2025-06-12,AZPS,122683,Demand
+2025-06-12,AZPS,122683,Demand
+2025-06-13,AZPS,119887,Demand
+2025-06-13,AZPS,119912,Demand
+2025-06-13,AZPS,119907,Demand
+2025-06-13,AZPS,119872,Demand
+2025-06-13,AZPS,121940,Day-ahead demand forecast
+2025-06-13,AZPS,122204,Day-ahead demand forecast
+2025-06-13,AZPS,119912,Demand
+2025-06-13,AZPS,121940,Day-ahead demand forecast
+2025-06-13,AZPS,122031,Day-ahead demand forecast
+2025-06-13,AZPS,122478,Day-ahead demand forecast
+2025-06-14,AZPS,121263,Day-ahead demand forecast
+2025-06-14,AZPS,121070,Day-ahead demand forecast
+2025-06-14,AZPS,120792,Day-ahead demand forecast
+2025-06-14,AZPS,120934,Day-ahead demand forecast
+2025-06-14,AZPS,122880,Demand
+2025-06-14,AZPS,122734,Demand
+2025-06-14,AZPS,122192,Demand
+2025-06-14,AZPS,122464,Demand
+2025-06-14,AZPS,122880,Demand
+2025-06-14,AZPS,121263,Day-ahead demand forecast
+2025-06-15,AZPS,129004,Demand
+2025-06-15,AZPS,128184,Demand
+2025-06-15,AZPS,128621,Demand
+2025-06-15,AZPS,127812,Demand
+2025-06-15,AZPS,125600,Day-ahead demand forecast
+2025-06-15,AZPS,125863,Day-ahead demand forecast
+2025-06-15,AZPS,125863,Day-ahead demand forecast
+2025-06-15,AZPS,129004,Demand
+2025-06-15,AZPS,125876,Day-ahead demand forecast
+2025-06-15,AZPS,125231,Day-ahead demand forecast
+2025-06-16,AZPS,134012,Day-ahead demand forecast
+2025-06-16,AZPS,133797,Day-ahead demand forecast
+2025-06-16,AZPS,133541,Day-ahead demand forecast
+2025-06-16,AZPS,133682,Day-ahead demand forecast
+2025-06-16,AZPS,134012,Day-ahead demand forecast
+2025-06-16,AZPS,137265,Demand
+2025-06-16,AZPS,136835,Demand
+2025-06-16,AZPS,135979,Demand
+2025-06-16,AZPS,136394,Demand
+2025-06-16,AZPS,137265,Demand
+2025-06-17,AZPS,139193,Demand
+2025-06-17,AZPS,139615,Demand
+2025-06-17,AZPS,139887,Demand
+2025-06-17,AZPS,139370,Demand
+2025-06-17,AZPS,136278,Day-ahead demand forecast
+2025-06-17,AZPS,136181,Day-ahead demand forecast
+2025-06-17,AZPS,136241,Day-ahead demand forecast
+2025-06-17,AZPS,136233,Day-ahead demand forecast
+2025-06-17,AZPS,139193,Demand
+2025-06-17,AZPS,136181,Day-ahead demand forecast
+2025-06-18,AZPS,141257,Demand
+2025-06-18,AZPS,136679,Day-ahead demand forecast
+2025-06-18,AZPS,141227,Demand
+2025-06-18,AZPS,141064,Demand
+2025-06-18,AZPS,141241,Demand
+2025-06-18,AZPS,136814,Day-ahead demand forecast
+2025-06-18,AZPS,136814,Day-ahead demand forecast
+2025-06-18,AZPS,136728,Day-ahead demand forecast
+2025-06-18,AZPS,136760,Day-ahead demand forecast
+2025-06-18,AZPS,141064,Demand
+2025-06-19,AZPS,140832,Demand
+2025-06-19,AZPS,140776,Demand
+2025-06-19,AZPS,140755,Demand
+2025-06-19,AZPS,140832,Demand
+2025-06-19,AZPS,140842,Demand
+2025-06-19,AZPS,138383,Day-ahead demand forecast
+2025-06-19,AZPS,138221,Day-ahead demand forecast
+2025-06-19,AZPS,138516,Day-ahead demand forecast
+2025-06-19,AZPS,138498,Day-ahead demand forecast
+2025-06-19,AZPS,138498,Day-ahead demand forecast
+2025-06-20,AZPS,129460,Day-ahead demand forecast
+2025-06-20,AZPS,129601,Day-ahead demand forecast
+2025-06-20,AZPS,130529,Day-ahead demand forecast
+2025-06-20,AZPS,130010,Day-ahead demand forecast
+2025-06-20,AZPS,129460,Day-ahead demand forecast
+2025-06-20,AZPS,128192,Demand
+2025-06-20,AZPS,129248,Demand
+2025-06-20,AZPS,128678,Demand
+2025-06-20,AZPS,128192,Demand
+2025-06-20,AZPS,128340,Demand
+2025-06-21,AZPS,121415,Demand
+2025-06-21,AZPS,122470,Demand
+2025-06-21,AZPS,122688,Demand
+2025-06-21,AZPS,121910,Demand
+2025-06-21,AZPS,121415,Demand
+2025-06-21,AZPS,117363,Day-ahead demand forecast
+2025-06-21,AZPS,118181,Day-ahead demand forecast
+2025-06-21,AZPS,118854,Day-ahead demand forecast
+2025-06-21,AZPS,117596,Day-ahead demand forecast
+2025-06-21,AZPS,117363,Day-ahead demand forecast
+2025-06-22,AZPS,113776,Demand
+2025-06-22,AZPS,113608,Demand
+2025-06-22,AZPS,113638,Demand
+2025-06-22,AZPS,113659,Demand
+2025-06-22,AZPS,111533,Day-ahead demand forecast
+2025-06-22,AZPS,111533,Day-ahead demand forecast
+2025-06-22,AZPS,111751,Day-ahead demand forecast
+2025-06-22,AZPS,111554,Day-ahead demand forecast
+2025-06-22,AZPS,111845,Day-ahead demand forecast
+2025-06-22,AZPS,113776,Demand
+2025-06-23,AZPS,119992,Demand
+2025-06-23,AZPS,120139,Demand
+2025-06-23,AZPS,120089,Demand
+2025-06-23,AZPS,120173,Demand
+2025-06-23,AZPS,120139,Demand
+2025-06-23,AZPS,111322,Day-ahead demand forecast
+2025-06-23,AZPS,111361,Day-ahead demand forecast
+2025-06-23,AZPS,111463,Day-ahead demand forecast
+2025-06-23,AZPS,111296,Day-ahead demand forecast
+2025-06-23,AZPS,111322,Day-ahead demand forecast
+2025-06-24,AZPS,118570,Demand
+2025-06-24,AZPS,118962,Demand
+2025-06-24,AZPS,119169,Demand
+2025-06-24,AZPS,118778,Demand
+2025-06-24,AZPS,118570,Demand
+2025-06-24,AZPS,114754,Day-ahead demand forecast
+2025-06-24,AZPS,114827,Day-ahead demand forecast
+2025-06-24,AZPS,114824,Day-ahead demand forecast
+2025-06-24,AZPS,114824,Day-ahead demand forecast
+2025-06-24,AZPS,114754,Day-ahead demand forecast
+2025-06-25,AZPS,118921,Demand
+2025-06-25,AZPS,118833,Demand
+2025-06-25,AZPS,118864,Demand
+2025-06-25,AZPS,118803,Demand
+2025-06-25,AZPS,113878,Day-ahead demand forecast
+2025-06-25,AZPS,113878,Day-ahead demand forecast
+2025-06-25,AZPS,113765,Day-ahead demand forecast
+2025-06-25,AZPS,113727,Day-ahead demand forecast
+2025-06-25,AZPS,113790,Day-ahead demand forecast
+2025-06-25,AZPS,118921,Demand
+2025-06-26,AZPS,125641,Demand
+2025-06-26,AZPS,126343,Demand
+2025-06-26,AZPS,125895,Demand
+2025-06-26,AZPS,126166,Demand
+2025-06-26,AZPS,120261,Day-ahead demand forecast
+2025-06-26,AZPS,120261,Day-ahead demand forecast
+2025-06-26,AZPS,119778,Day-ahead demand forecast
+2025-06-26,AZPS,119505,Day-ahead demand forecast
+2025-06-26,AZPS,120049,Day-ahead demand forecast
+2025-06-26,AZPS,126343,Demand
+2025-06-27,AZPS,133774,Demand
+2025-06-27,AZPS,133141,Demand
+2025-06-27,AZPS,132655,Demand
+2025-06-27,AZPS,133513,Demand
+2025-06-27,AZPS,133774,Demand
+2025-06-27,AZPS,125812,Day-ahead demand forecast
+2025-06-27,AZPS,125303,Day-ahead demand forecast
+2025-06-27,AZPS,125012,Day-ahead demand forecast
+2025-06-27,AZPS,125604,Day-ahead demand forecast
+2025-06-27,AZPS,125812,Day-ahead demand forecast
+2025-06-28,AZPS,137126,Demand
+2025-06-28,AZPS,136573,Demand
+2025-06-28,AZPS,136334,Demand
+2025-06-28,AZPS,136832,Demand
+2025-06-28,AZPS,130978,Day-ahead demand forecast
+2025-06-28,AZPS,130978,Day-ahead demand forecast
+2025-06-28,AZPS,130904,Day-ahead demand forecast
+2025-06-28,AZPS,131087,Day-ahead demand forecast
+2025-06-28,AZPS,130884,Day-ahead demand forecast
+2025-06-28,AZPS,137126,Demand
+2025-06-29,AZPS,142922,Demand
+2025-06-29,AZPS,144180,Demand
+2025-06-29,AZPS,143309,Demand
+2025-06-29,AZPS,143763,Demand
+2025-06-29,AZPS,138861,Day-ahead demand forecast
+2025-06-29,AZPS,138861,Day-ahead demand forecast
+2025-06-29,AZPS,137992,Day-ahead demand forecast
+2025-06-29,AZPS,137366,Day-ahead demand forecast
+2025-06-29,AZPS,138335,Day-ahead demand forecast
+2025-06-29,AZPS,144180,Demand
+2025-06-30,AZPS,153236,Demand
+2025-06-30,AZPS,153074,Demand
+2025-06-30,AZPS,152998,Demand
+2025-06-30,AZPS,153083,Demand
+2025-06-30,AZPS,153236,Demand
+2025-06-30,AZPS,149243,Day-ahead demand forecast
+2025-06-30,AZPS,148853,Day-ahead demand forecast
+2025-06-30,AZPS,149605,Day-ahead demand forecast
+2025-06-30,AZPS,149977,Day-ahead demand forecast
+2025-06-30,AZPS,149977,Day-ahead demand forecast
+2025-07-01,AZPS,155541,Demand
+2025-07-01,AZPS,155783,Demand
+2025-07-01,AZPS,155611,Demand
+2025-07-01,AZPS,155755,Demand
+2025-07-01,AZPS,155783,Demand
+2025-07-01,AZPS,151068,Day-ahead demand forecast
+2025-07-01,AZPS,151017,Day-ahead demand forecast
+2025-07-01,AZPS,151081,Day-ahead demand forecast
+2025-07-01,AZPS,151040,Day-ahead demand forecast
+2025-07-01,AZPS,151068,Day-ahead demand forecast
+2025-07-02,AZPS,144476,Demand
+2025-07-02,AZPS,146721,Demand
+2025-07-02,AZPS,148078,Demand
+2025-07-02,AZPS,145540,Demand
+2025-07-02,AZPS,144476,Demand
+2025-07-02,AZPS,142505,Day-ahead demand forecast
+2025-07-02,AZPS,143175,Day-ahead demand forecast
+2025-07-02,AZPS,143422,Day-ahead demand forecast
+2025-07-02,AZPS,142923,Day-ahead demand forecast
+2025-07-02,AZPS,142505,Day-ahead demand forecast
+2025-07-03,AZPS,126956,Demand
+2025-07-03,AZPS,126489,Demand
+2025-07-03,AZPS,126386,Demand
+2025-07-03,AZPS,126764,Demand
+2025-07-03,AZPS,123904,Day-ahead demand forecast
+2025-07-03,AZPS,123904,Day-ahead demand forecast
+2025-07-03,AZPS,125187,Day-ahead demand forecast
+2025-07-03,AZPS,125990,Day-ahead demand forecast
+2025-07-03,AZPS,124564,Day-ahead demand forecast
+2025-07-03,AZPS,126956,Demand
+2025-07-04,AZPS,124263,Demand
+2025-07-04,AZPS,123912,Demand
+2025-07-04,AZPS,124248,Demand
+2025-07-04,AZPS,124061,Demand
+2025-07-04,AZPS,123912,Demand
+2025-07-04,AZPS,122345,Day-ahead demand forecast
+2025-07-04,AZPS,122220,Day-ahead demand forecast
+2025-07-04,AZPS,122163,Day-ahead demand forecast
+2025-07-04,AZPS,122213,Day-ahead demand forecast
+2025-07-04,AZPS,122345,Day-ahead demand forecast
+2025-07-05,AZPS,130207,Demand
+2025-07-05,AZPS,129818,Demand
+2025-07-05,AZPS,129500,Demand
+2025-07-05,AZPS,130111,Demand
+2025-07-05,AZPS,130207,Demand
+2025-07-05,AZPS,129406,Day-ahead demand forecast
+2025-07-05,AZPS,129102,Day-ahead demand forecast
+2025-07-05,AZPS,128862,Day-ahead demand forecast
+2025-07-05,AZPS,129296,Day-ahead demand forecast
+2025-07-05,AZPS,129406,Day-ahead demand forecast
+2025-07-06,AZPS,136565,Demand
+2025-07-06,AZPS,135842,Demand
+2025-07-06,AZPS,135434,Demand
+2025-07-06,AZPS,136053,Demand
+2025-07-06,AZPS,133863,Day-ahead demand forecast
+2025-07-06,AZPS,133863,Day-ahead demand forecast
+2025-07-06,AZPS,133244,Day-ahead demand forecast
+2025-07-06,AZPS,132819,Day-ahead demand forecast
+2025-07-06,AZPS,133504,Day-ahead demand forecast
+2025-07-06,AZPS,136565,Demand
+2025-07-07,AZPS,145781,Demand
+2025-07-07,AZPS,147015,Demand
+2025-07-07,AZPS,146038,Demand
+2025-07-07,AZPS,146592,Demand
+2025-07-07,AZPS,145769,Day-ahead demand forecast
+2025-07-07,AZPS,145769,Day-ahead demand forecast
+2025-07-07,AZPS,145155,Day-ahead demand forecast
+2025-07-07,AZPS,144873,Day-ahead demand forecast
+2025-07-07,AZPS,145526,Day-ahead demand forecast
+2025-07-07,AZPS,147015,Demand
+2025-07-08,AZPS,153892,Demand
+2025-07-08,AZPS,153613,Demand
+2025-07-08,AZPS,153463,Demand
+2025-07-08,AZPS,153810,Demand
+2025-07-08,AZPS,153892,Demand
+2025-07-08,AZPS,150835,Day-ahead demand forecast
+2025-07-08,AZPS,150373,Day-ahead demand forecast
+2025-07-08,AZPS,150188,Day-ahead demand forecast
+2025-07-08,AZPS,150621,Day-ahead demand forecast
+2025-07-08,AZPS,150835,Day-ahead demand forecast
+2025-07-09,AZPS,160374,Demand
+2025-07-09,AZPS,160040,Demand
+2025-07-09,AZPS,159614,Demand
+2025-07-09,AZPS,160227,Demand
+2025-07-09,AZPS,157380,Day-ahead demand forecast
+2025-07-09,AZPS,157380,Day-ahead demand forecast
+2025-07-09,AZPS,156972,Day-ahead demand forecast
+2025-07-09,AZPS,156717,Day-ahead demand forecast
+2025-07-09,AZPS,157145,Day-ahead demand forecast
+2025-07-09,AZPS,160374,Demand
+2025-07-10,AZPS,157865,Demand
+2025-07-10,AZPS,157730,Demand
+2025-07-10,AZPS,157585,Demand
+2025-07-10,AZPS,157580,Demand
+2025-07-10,AZPS,156275,Day-ahead demand forecast
+2025-07-10,AZPS,156275,Day-ahead demand forecast
+2025-07-10,AZPS,156152,Day-ahead demand forecast
+2025-07-10,AZPS,156151,Day-ahead demand forecast
+2025-07-10,AZPS,156250,Day-ahead demand forecast
+2025-07-10,AZPS,157730,Demand
+2025-07-11,AZPS,154112,Demand
+2025-07-11,AZPS,154947,Demand
+2025-07-11,AZPS,155245,Demand
+2025-07-11,AZPS,154542,Demand
+2025-07-11,AZPS,154112,Demand
+2025-07-11,AZPS,148158,Day-ahead demand forecast
+2025-07-11,AZPS,148611,Day-ahead demand forecast
+2025-07-11,AZPS,147743,Day-ahead demand forecast
+2025-07-11,AZPS,147260,Day-ahead demand forecast
+2025-07-11,AZPS,147260,Day-ahead demand forecast
+2025-07-12,AZPS,143389,Demand
+2025-07-12,AZPS,144767,Demand
+2025-07-12,AZPS,144341,Demand
+2025-07-12,AZPS,143849,Demand
+2025-07-12,AZPS,137737,Day-ahead demand forecast
+2025-07-12,AZPS,137503,Day-ahead demand forecast
+2025-07-12,AZPS,138171,Day-ahead demand forecast
+2025-07-12,AZPS,138603,Day-ahead demand forecast
+2025-07-12,AZPS,137503,Day-ahead demand forecast
+2025-07-12,AZPS,143389,Demand
+2025-07-13,AZPS,138591,Demand
+2025-07-13,AZPS,138516,Demand
+2025-07-13,AZPS,138549,Demand
+2025-07-13,AZPS,138566,Demand
+2025-07-13,AZPS,138591,Demand
+2025-07-13,AZPS,138395,Day-ahead demand forecast
+2025-07-13,AZPS,138203,Day-ahead demand forecast
+2025-07-13,AZPS,138043,Day-ahead demand forecast
+2025-07-13,AZPS,138257,Day-ahead demand forecast
+2025-07-13,AZPS,138395,Day-ahead demand forecast
+2025-07-14,AZPS,144670,Demand
+2025-07-14,AZPS,144437,Demand
+2025-07-14,AZPS,144375,Demand
+2025-07-14,AZPS,144528,Demand
+2025-07-14,AZPS,142273,Day-ahead demand forecast
+2025-07-14,AZPS,142273,Day-ahead demand forecast
+2025-07-14,AZPS,141979,Day-ahead demand forecast
+2025-07-14,AZPS,141771,Day-ahead demand forecast
+2025-07-14,AZPS,142245,Day-ahead demand forecast
+2025-07-14,AZPS,144670,Demand
+2025-07-15,AZPS,144704,Demand
+2025-07-15,AZPS,145208,Demand
+2025-07-15,AZPS,144851,Demand
+2025-07-15,AZPS,145055,Demand
+2025-07-15,AZPS,145208,Demand
+2025-07-15,AZPS,141057,Day-ahead demand forecast
+2025-07-15,AZPS,141050,Day-ahead demand forecast
+2025-07-15,AZPS,141118,Day-ahead demand forecast
+2025-07-15,AZPS,140965,Day-ahead demand forecast
+2025-07-15,AZPS,141057,Day-ahead demand forecast
+2025-07-16,AZPS,134198,Demand
+2025-07-16,AZPS,135249,Demand
+2025-07-16,AZPS,135777,Demand
+2025-07-16,AZPS,134668,Demand
+2025-07-16,AZPS,134198,Demand
+2025-07-16,AZPS,128565,Day-ahead demand forecast
+2025-07-16,AZPS,129425,Day-ahead demand forecast
+2025-07-16,AZPS,129957,Day-ahead demand forecast
+2025-07-16,AZPS,128987,Day-ahead demand forecast
+2025-07-16,AZPS,128565,Day-ahead demand forecast
+2025-07-17,AZPS,139812,Demand
+2025-07-17,AZPS,139804,Demand
+2025-07-17,AZPS,139605,Demand
+2025-07-17,AZPS,139841,Demand
+2025-07-17,AZPS,128449,Day-ahead demand forecast
+2025-07-17,AZPS,128449,Day-ahead demand forecast
+2025-07-17,AZPS,128256,Day-ahead demand forecast
+2025-07-17,AZPS,128153,Day-ahead demand forecast
+2025-07-17,AZPS,128413,Day-ahead demand forecast
+2025-07-17,AZPS,139812,Demand
+2025-07-18,AZPS,141223,Demand
+2025-07-18,AZPS,141754,Demand
+2025-07-18,AZPS,141402,Demand
+2025-07-18,AZPS,141639,Demand
+2025-07-18,AZPS,134078,Day-ahead demand forecast
+2025-07-18,AZPS,134078,Day-ahead demand forecast
+2025-07-18,AZPS,134081,Day-ahead demand forecast
+2025-07-18,AZPS,133958,Day-ahead demand forecast
+2025-07-18,AZPS,134222,Day-ahead demand forecast
+2025-07-18,AZPS,141754,Demand
+2025-07-19,AZPS,136060,Demand
+2025-07-19,AZPS,136382,Demand
+2025-07-19,AZPS,136549,Demand
+2025-07-19,AZPS,136123,Demand
+2025-07-19,AZPS,136060,Demand
+2025-07-19,AZPS,133179,Day-ahead demand forecast
+2025-07-19,AZPS,133432,Day-ahead demand forecast
+2025-07-19,AZPS,133716,Day-ahead demand forecast
+2025-07-19,AZPS,133098,Day-ahead demand forecast
+2025-07-19,AZPS,133179,Day-ahead demand forecast
+2025-07-20,AZPS,119357,Demand
+2025-07-20,AZPS,120770,Demand
+2025-07-20,AZPS,121661,Demand
+2025-07-20,AZPS,120135,Demand
+2025-07-20,AZPS,123904,Day-ahead demand forecast
+2025-07-20,AZPS,123904,Day-ahead demand forecast
+2025-07-20,AZPS,124521,Day-ahead demand forecast
+2025-07-20,AZPS,124735,Day-ahead demand forecast
+2025-07-20,AZPS,124258,Day-ahead demand forecast
+2025-07-20,AZPS,119357,Demand
+2025-07-21,AZPS,127762,Demand
+2025-07-21,AZPS,129581,Demand
+2025-07-21,AZPS,128380,Demand
+2025-07-21,AZPS,128811,Demand
+2025-07-21,AZPS,128415,Day-ahead demand forecast
+2025-07-21,AZPS,128415,Day-ahead demand forecast
+2025-07-21,AZPS,127911,Day-ahead demand forecast
+2025-07-21,AZPS,127631,Day-ahead demand forecast
+2025-07-21,AZPS,128163,Day-ahead demand forecast
+2025-07-21,AZPS,129581,Demand
+2025-07-22,AZPS,134119,Demand
+2025-07-22,AZPS,134274,Demand
+2025-07-22,AZPS,134046,Demand
+2025-07-22,AZPS,134383,Demand
+2025-07-22,AZPS,134119,Demand
+2025-07-22,AZPS,128828,Day-ahead demand forecast
+2025-07-22,AZPS,128920,Day-ahead demand forecast
+2025-07-22,AZPS,128727,Day-ahead demand forecast
+2025-07-22,AZPS,128575,Day-ahead demand forecast
+2025-07-22,AZPS,128575,Day-ahead demand forecast
+2025-07-23,AZPS,129731,Demand
+2025-07-23,AZPS,128556,Demand
+2025-07-23,AZPS,129340,Demand
+2025-07-23,AZPS,128927,Demand
+2025-07-23,AZPS,127226,Day-ahead demand forecast
+2025-07-23,AZPS,127226,Day-ahead demand forecast
+2025-07-23,AZPS,127511,Day-ahead demand forecast
+2025-07-23,AZPS,128556,Demand
+2025-07-23,AZPS,127766,Day-ahead demand forecast
+2025-07-23,AZPS,128045,Day-ahead demand forecast
+2025-07-24,AZPS,125737,Day-ahead demand forecast
+2025-07-24,AZPS,125668,Day-ahead demand forecast
+2025-07-24,AZPS,125432,Day-ahead demand forecast
+2025-07-24,AZPS,125572,Day-ahead demand forecast
+2025-07-24,AZPS,125737,Day-ahead demand forecast
+2025-07-24,AZPS,127770,Demand
+2025-07-24,AZPS,127708,Demand
+2025-07-24,AZPS,127657,Demand
+2025-07-24,AZPS,127696,Demand
+2025-07-24,AZPS,127770,Demand
+2025-07-25,AZPS,125514,Demand
+2025-07-25,AZPS,125521,Demand
+2025-07-25,AZPS,125526,Demand
+2025-07-25,AZPS,125607,Demand
+2025-07-25,AZPS,127972,Day-ahead demand forecast
+2025-07-25,AZPS,128168,Day-ahead demand forecast
+2025-07-25,AZPS,127961,Day-ahead demand forecast
+2025-07-25,AZPS,127980,Day-ahead demand forecast
+2025-07-25,AZPS,128168,Day-ahead demand forecast
+2025-07-25,AZPS,125514,Demand
+2025-07-26,AZPS,130006,Demand
+2025-07-26,AZPS,129732,Demand
+2025-07-26,AZPS,129872,Demand
+2025-07-26,AZPS,129738,Demand
+2025-07-26,AZPS,125116,Day-ahead demand forecast
+2025-07-26,AZPS,125019,Day-ahead demand forecast
+2025-07-26,AZPS,129732,Demand
+2025-07-26,AZPS,125019,Day-ahead demand forecast
+2025-07-26,AZPS,125182,Day-ahead demand forecast
+2025-07-26,AZPS,125250,Day-ahead demand forecast
+2025-07-27,AZPS,126743,Day-ahead demand forecast
+2025-07-27,AZPS,126701,Day-ahead demand forecast
+2025-07-27,AZPS,126376,Day-ahead demand forecast
+2025-07-27,AZPS,126543,Day-ahead demand forecast
+2025-07-27,AZPS,126743,Day-ahead demand forecast
+2025-07-27,AZPS,126268,Demand
+2025-07-27,AZPS,125642,Demand
+2025-07-27,AZPS,125860,Demand
+2025-07-27,AZPS,126681,Demand
+2025-07-27,AZPS,126681,Demand
+2025-07-28,AZPS,139691,Demand
+2025-07-28,AZPS,140140,Demand
+2025-07-28,AZPS,139179,Demand
+2025-07-28,AZPS,138546,Demand
+2025-07-28,AZPS,140140,Demand
+2025-07-28,AZPS,137583,Day-ahead demand forecast
+2025-07-28,AZPS,137176,Day-ahead demand forecast
+2025-07-28,AZPS,137961,Day-ahead demand forecast
+2025-07-28,AZPS,138315,Day-ahead demand forecast
+2025-07-28,AZPS,138315,Day-ahead demand forecast
+2025-07-29,AZPS,144610,Demand
+2025-07-29,AZPS,144603,Demand
+2025-07-29,AZPS,144630,Demand
+2025-07-29,AZPS,144569,Demand
+2025-07-29,AZPS,144610,Demand
+2025-07-29,AZPS,141174,Day-ahead demand forecast
+2025-07-29,AZPS,141123,Day-ahead demand forecast
+2025-07-29,AZPS,141051,Day-ahead demand forecast
+2025-07-29,AZPS,141168,Day-ahead demand forecast
+2025-07-29,AZPS,141174,Day-ahead demand forecast
+2025-07-30,AZPS,154595,Demand
+2025-07-30,AZPS,154534,Demand
+2025-07-30,AZPS,154528,Demand
+2025-07-30,AZPS,154485,Demand
+2025-07-30,AZPS,142084,Day-ahead demand forecast
+2025-07-30,AZPS,142084,Day-ahead demand forecast
+2025-07-30,AZPS,141927,Day-ahead demand forecast
+2025-07-30,AZPS,141890,Day-ahead demand forecast
+2025-07-30,AZPS,142017,Day-ahead demand forecast
+2025-07-30,AZPS,154595,Demand
+2025-07-31,AZPS,117894,Demand
+2025-07-31,AZPS,118990,Demand
+2025-07-31,AZPS,118356,Demand
+2025-07-31,AZPS,118690,Demand
+2025-07-31,AZPS,144875,Day-ahead demand forecast
+2025-07-31,AZPS,144875,Day-ahead demand forecast
+2025-07-31,AZPS,144306,Day-ahead demand forecast
+2025-07-31,AZPS,144003,Day-ahead demand forecast
+2025-07-31,AZPS,144551,Day-ahead demand forecast
+2025-07-31,AZPS,118990,Demand
+2025-08-01,AZPS,155329,Demand
+2025-08-01,AZPS,155130,Demand
+2025-08-01,AZPS,155244,Demand
+2025-08-01,AZPS,155244,Demand
+2025-08-01,AZPS,155329,Demand
+2025-08-01,AZPS,149410,Day-ahead demand forecast
+2025-08-01,AZPS,149483,Day-ahead demand forecast
+2025-08-01,AZPS,149357,Day-ahead demand forecast
+2025-08-01,AZPS,149319,Day-ahead demand forecast
+2025-08-01,AZPS,149319,Day-ahead demand forecast
+2025-08-02,AZPS,142899,Day-ahead demand forecast
+2025-08-02,AZPS,143067,Day-ahead demand forecast
+2025-08-02,AZPS,143523,Day-ahead demand forecast
+2025-08-02,AZPS,143306,Day-ahead demand forecast
+2025-08-02,AZPS,142899,Day-ahead demand forecast
